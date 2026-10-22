@@ -1,0 +1,21 @@
+Report generato: 2026-10-22 23:32:04 UTC
+
+== /me ==
+
+HTTP 000
+
+== content_publishing_limit ==
+
+HTTP 000
+
+== Host ==
+graph.instagram.com: 000
+api.instagram.com: 000
+graph.facebook.com: 000
+rupload.facebook.com: 000
+www.googleapis.com: 000
+oauth2.googleapis.com: 000
+open.tiktokapis.com: 000
+
+== Nota ==
+Tutti i codici 000: il gateway di rete della sessione risponde 403 al CONNECT verso ogni host (policy di egress), quindi nessuna richiesta ha raggiunto le API.
