@@ -63,7 +63,9 @@ AI e futuro. Graziano scrive in italiano: rispondi in italiano, frasi brevi, un 
   con privacy.html e terms.html. Servono anche per l'app TikTok.
 - Chiavi come variabili dell'ambiente Default: `YT_CLIENT_ID`, `YT_CLIENT_SECRET`, `YT_REFRESH_TOKEN`. Mai stamparle.
 - `youtube.py`: test `python3 youtube.py --check`; video di prova privato `python3 youtube.py --test`.
-- Finche' Google non verifica il progetto, i video caricati via API restano privati: Graziano li rende pubblici.
+- Finche' Google non verifica il progetto, i video caricati via API restano privati: Graziano li rende pubblici
+  (o li programma da YouTube Studio).
+- Regola di Graziano: il titolo YouTube finisce sempre con `#shorts`.
 
 ## TikTok (in prova, Sandbox)
 
