@@ -65,6 +65,14 @@ def upload(path, title, description, privacy="private"):
     return r["id"]
 
 
+def update_title(video_id, title, description):
+    """Cambia titolo e descrizione di un video gia' caricato (permesso youtube.force-ssl)."""
+    tok = access_token()
+    body = {"id": video_id, "snippet": {"title": title[:100], "description": description[:5000], "categoryId": "27"}}
+    request("PUT", API + "/videos?part=snippet", json.dumps(body).encode(),
+            {"Authorization": "Bearer " + tok, "Content-Type": "application/json; charset=UTF-8"})
+
+
 def test():
     path = os.path.join(tempfile.mkdtemp(), "test_prova.mp4")
     subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-f", "lavfi", "-i", "testsrc2=size=1080x1920:rate=30",

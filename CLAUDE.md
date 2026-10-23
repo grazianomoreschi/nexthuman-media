@@ -65,7 +65,7 @@ AI e futuro. Graziano scrive in italiano: rispondi in italiano, frasi brevi, un 
 - `youtube.py`: test `python3 youtube.py --check`; video di prova privato `python3 youtube.py --test`.
 - Finche' Google non verifica il progetto, i video caricati via API restano privati: Graziano li rende pubblici
   (o li programma da YouTube Studio).
-- Regola di Graziano: il titolo YouTube finisce sempre con `#shorts`.
+- Regola di Graziano: titolo YouTube SENZA `#shorts`.
 
 ## TikTok (in prova, Sandbox)
 
