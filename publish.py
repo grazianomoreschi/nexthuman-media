@@ -8,13 +8,14 @@ Il token Instagram NON e' in questo repository: lo aggiunge il proxy dell'ambien
 (network secret su graph.instagram.com, header Authorization: Bearer).
 I video stanno sul ramo `media` solo finche' il loro post e' in coda.
 """
-import json, subprocess, sys, time, urllib.parse, urllib.request
+import json, os, subprocess, sys, time, urllib.parse, urllib.request
 from datetime import datetime, timedelta, timezone
 
 IG_USER = "17841480036080171"  # @nnexthuman
 API = "https://graph.instagram.com/v23.0"
 RAW = "https://raw.githubusercontent.com/grazianomoreschi/nexthuman-media/media/"
 QUEUE = "queue.json"
+INCOMING = "incoming"  # video scaricati dall'artifact privato, mai nel repository
 WAIT_AHEAD = timedelta(minutes=30)   # se un post scade entro 30 minuti, aspetta l'orario esatto
 
 
@@ -99,7 +100,9 @@ def other_platforms(post):
     if not (want_yt or want_tt):
         return
     path = f"/tmp/nh_{post['id']}.mp4"
-    data = subprocess.run(["git", "show", f"origin/media:{post['video']}"], capture_output=True).stdout
+    local = os.path.join(INCOMING, post["video"])
+    data = open(local, "rb").read() if os.path.exists(local) else \
+        subprocess.run(["git", "show", f"origin/media:{post['video']}"], capture_output=True).stdout
     if not data:
         subprocess.run(["git", "fetch", "-q", "origin", "media"], check=False)
         data = subprocess.run(["git", "show", f"origin/media:{post['video']}"], capture_output=True).stdout
@@ -124,6 +127,33 @@ def other_platforms(post):
             print(f"ERRORE TIKTOK {post['id']}: {e}")
 
 
+def stage_media(posts):
+    """Mette sul ramo media, poco prima dell'uscita, i video presenti in incoming/ (scaricati dall'artifact privato)."""
+    subprocess.run(["git", "fetch", "-q", "origin", "media"], check=False)
+    have = set(subprocess.run(["git", "ls-tree", "--name-only", "origin/media"], capture_output=True, text=True).stdout.split())
+    new = [p["video"] for p in posts if p["video"] not in have and os.path.exists(os.path.join(INCOMING, p["video"]))]
+    missing = [p["video"] for p in posts if p["video"] not in have and p["video"] not in new]
+    for v in missing:
+        print(f"ERRORE video mancante: {v} (non e' ne' sul ramo media ne' in {INCOMING}/)")
+    if not new:
+        return
+    tmp = "/tmp/nh_stage"
+    subprocess.run(["rm", "-rf", tmp], check=True)
+    git("worktree", "add", "-q", "--detach", tmp, "origin/media")
+    try:
+        for v in new:
+            subprocess.run(["cp", os.path.join(INCOMING, v), os.path.join(tmp, v)], check=True)
+            subprocess.run(["git", "-C", tmp, "add", v], check=True)
+        subprocess.run(["git", "-C", tmp, "-c", "user.name=Next Human bot", "-c", "user.email=noreply@anthropic.com",
+                        "commit", "-q", "-m", "Video in uscita"], check=True)
+        subprocess.run(["git", "-C", tmp, "push", "-q", "origin", "HEAD:media"], check=True)
+    finally:
+        git("worktree", "remove", "--force", tmp)
+    subprocess.run(["git", "fetch", "-q", "origin", "media"], check=False)
+    time.sleep(20)  # tempo perche' il link pubblico di GitHub si aggiorni
+    print("video messi online:", ", ".join(new))
+
+
 def due():
     queue = json.load(open(QUEUE))
     now = datetime.now(timezone.utc)
@@ -132,6 +162,7 @@ def due():
     if not todo:
         print("nessun post in scadenza")
         return
+    stage_media(todo)
     changed = False
     for p in sorted(todo, key=lambda p: p["publish_at"]):
         at = datetime.fromisoformat(p["publish_at"])

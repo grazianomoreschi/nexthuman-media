@@ -13,6 +13,10 @@ AI e futuro. Graziano scrive in italiano: rispondi in italiano, frasi brevi, un 
 - Descrizioni dei reel del 23 ottobre (Claude Docs): https://claude.ai/artifact/EuqTkB5Kpf8Ewh7Xjyudxz
 - 10 script virali (Claude Docs): https://claude.ai/artifact/PCiAA1gXd6onpy6tGqMpX9
 - Scala decisa: 5 reel il 24/10, 6 il 25/10, 7 al giorno dal 26/10 (orari Roma 02, 06, 10, 13, 16, 19, 22).
+- 24 ottobre, in coda (descrizione 1 scelta da Graziano): Human vs Robot 02:00, Clock Shift 06:00, 3,000 Steps 10:00,
+  Taller in Space 16:00, The 2100 List 22:00 (ep13-ep17). Idee: https://claude.ai/artifact/XaGrbTxPpS3MEYxJR9DkCE ,
+  descrizioni: https://claude.ai/artifact/9nJdAvbyrXMgkTsmBegKQ8 . Stile voluto: hype nel tono, niente decimali,
+  ma ogni frase vera. Le scene nuove (cage, clock, walk, space, earth) vanno salvate nel bundle del motore (v4).
 
 ### Fase 1 (accessi) - fatto
 - Instagram @nnexthuman professionale (Creator). App Meta "Next Human Publisher" (Instagram Login, senza Pagina FB):
@@ -38,8 +42,14 @@ AI e futuro. Graziano scrive in italiano: rispondi in italiano, frasi brevi, un 
   `caption`, `first_comment`, `status` (`pending`, `published`, `error`).
 - `publish.py`: pubblica su Instagram i post in scadenza (aspetta l'orario esatto se mancano meno di 30 minuti),
   aggiorna la coda, toglie dal ramo `media` i video gia' pubblicati.
-- Ramo `media`: solo i video in attesa (il repository e' pubblico). Per aggiungere un video: commit sul ramo `media`
-  e push; poi la voce in `queue.json` su `main`.
+- I video in attesa stanno nell'artifact **privato** https://claude.ai/artifact/UoBSQKjDW8Jfk1ri1RuXGy (un file mp4
+  per post, stesso nome del campo `video`). Graziano non vuole i video pubblici su GitHub per ore.
+- Esecuzione programmata (15 minuti prima di ogni slot): per ogni post `pending` con `publish_at` entro 30 minuti,
+  scarica il video dall'artifact con lo strumento Artifact (`action: read`, `path` = nome del video,
+  `out_dir` = la cartella `incoming/` del repository), poi `python3 publish.py --due`. `publish.py` mette il video sul
+  ramo `media` solo in quel momento e lo toglie dopo la pubblicazione. `incoming/` non va mai nel repository.
+- Per aggiungere un post: carica l'mp4 nell'artifact privato (stesso URL, nuovo file) e aggiungi la voce in
+  `queue.json` su `main`.
 - Comandi: test `python3 publish.py --check`; pubblicazione `python3 publish.py --due`.
 - Campi facoltativi per le altre piattaforme: `youtube` ({`title`, `description`}) carica lo Short (privato) e
   `tiktok` (true) manda la bozza nella inbox. Un tentativo ciascuno; esiti in `youtube_id` / `tiktok_status`
