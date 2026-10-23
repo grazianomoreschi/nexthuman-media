@@ -42,7 +42,7 @@ if(q.get("error")){
     var key=document.getElementById("key").value.trim(); if(!key)return;
     var st=Array.from(crypto.getRandomValues(new Uint8Array(16)),function(b){return b.toString(16).padStart(2,"0");}).join("");
     ss("tt_key",key); ss("tt_state",st);
-    location.href="https://www.tiktok.com/v2/auth/authorize/?"+new URLSearchParams({client_key:key,scope:SCOPES,response_type:"code",redirect_uri:REDIRECT,state:st});
+    location.href="https://www.tiktok.com/v2/auth/authorize/?"+new URLSearchParams({client_key:key,scope:SCOPES,response_type:"code",redirect_uri:REDIRECT,state:st,disable_auto_auth:"1"});
   };
 }
 </script>
