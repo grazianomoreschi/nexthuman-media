@@ -1,0 +1,21 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>TikTok authorization - Next Human Publisher</title><meta name="robots" content="noindex">
+<style>body{font:16px/1.6 system-ui,sans-serif;max-width:720px;margin:40px auto;padding:0 16px;color:#1d1d1f;background:#fff}
+code{display:block;word-break:break-all;background:#f0efec;padding:12px;border-radius:6px;font-size:14px}button{margin-top:12px;padding:8px 16px;font-size:16px}</style></head><body>
+<p><a href="./">Next Human Publisher</a></p>
+<h1>TikTok authorization</h1>
+<div id="out"></div>
+<script>
+var q=new URLSearchParams(location.search), out=document.getElementById("out");
+if(q.get("code")){
+  out.innerHTML='<p>Authorization complete. One-time code (valid for a few minutes, single use):</p><code id="c"></code><button id="b">Copy code</button>';
+  document.getElementById("c").textContent=q.get("code");
+  document.getElementById("b").onclick=function(){navigator.clipboard.writeText(q.get("code"));this.textContent="Copied";};
+}else if(q.get("error")){
+  out.innerHTML='<p>Authorization not completed.</p><code id="e"></code>';
+  document.getElementById("e").textContent=q.get("error")+": "+(q.get("error_description")||"");
+}else{ out.innerHTML='<p>This page receives the TikTok authorization for Next Human Publisher.</p>'; }
+history.replaceState(null,"",location.pathname);
+</script>
+<footer style="margin-top:40px;font-size:.9em;color:#666"><a href="privacy.html">Privacy Policy</a> · <a href="terms.html">Terms of Service</a></footer>
+</body></html>
