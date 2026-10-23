@@ -5,12 +5,35 @@
   "opened": "2026-10-23",
   "hypothesis": "Short reels (20-25 s) that open on the claim at frame 1 (no subtitle intro) and end with a named-persona send CTA get lower skip and higher watch % than the v1 format (35-45 s, 4 s intro, comment CTA).",
   "variable": "format",
-  "note": "Bundles length + first frame + CTA to move fast; if v2 wins, isolate length vs first frame in E2.",
+  "note": "Bundles length + first frame + CTA to move fast; if v2 wins, isolate length vs first frame in E2. 2026-10-24: v2 refined before its first reel (moving hook, payoff by 10 s). Every v2 reel also follows PROVEN rule 2 (your + physical situation), so the comparison with v1 is v2 vs the v1 median, and v1 reels with the same hook type (No Sleep, Cold Plunge, Quit Smoking) are the fair control.",
   "variants": {
-   "v1": {"desc": "35-45 s, intro subtitle segment, comment/yes-no CTA", "episodes": ["ep07_quit_smoking_en", "ep08_stroke_en", "ep09_nosleep_en", "ep10_ozempic_en", "ep11_80years_en", "ep12_coldplunge_en", "ep13_robot_en", "ep14_clockshift_en", "ep15_steps_en", "ep16_space_en", "ep17_aiextinction_en"]},
-   "v2": {"desc": "20-25 s, claim + number on screen at frame 1, no intro, re-hook at ~45%, named-persona send CTA", "episodes": []}
+   "v1": {
+    "desc": "35-45 s, intro subtitle segment, comment/yes-no CTA",
+    "episodes": [
+     "ep07_quit_smoking_en",
+     "ep08_stroke_en",
+     "ep09_nosleep_en",
+     "ep10_ozempic_en",
+     "ep11_80years_en",
+     "ep12_coldplunge_en",
+     "ep13_robot_en",
+     "ep14_clockshift_en",
+     "ep15_steps_en",
+     "ep16_space_en",
+     "ep17_aiextinction_en"
+    ]
+   },
+   "v2": {
+    "desc": "20-25 s, body in action + claim + number on screen at frame 1 with punch-in and boom, no intro and no brain opener, fact worth sending by second 10, re-hook at ~45%, named-persona send CTA",
+    "episodes": []
+   }
   },
-  "decides_on": ["skip_rate_pct", "watch_pct", "share_rate_pct", "save_rate_pct"],
+  "decides_on": [
+   "skip_rate_pct",
+   "watch_pct",
+   "share_rate_pct",
+   "save_rate_pct"
+  ],
   "min_reels_per_variant": 3,
   "result": null
  }

@@ -11,9 +11,16 @@ of 36-44 s (avg 11-12 s), ~0 shares/saves/comments, 120-139 views each.
 1. TESTING. Frame 1 already shows the subject, the key claim and the number. No subtitle intro, no title-only
    frame. Evidence: Mosseri, TikTok tips (first 3 s); our reels all had a 4 s intro before the timer and skip
    was 31-51%. Since 2026-10-23.
-2. TESTING. Hook about "you" in a recognisable situation beats vague or technical openers. Evidence (ours):
-   No Sleep "At hour 17, your brain drives like it's drunk" skip 31%, vs "This is your brain. Right now."
-   (Stroke) 50% and "This weekly shot cut 15%..." (Ozempic) 51%. n=4, so TESTING. Since 2026-10-23.
+2. PROVEN (2026-10-24). Hook = "your" + a physical situation the viewer can feel (ice water, hour 17 awake,
+   last cigarette). Never "this/these" + an abstract object (cells, a shot, "your brain right now").
+   Evidence: you-situation hooks skip 32% / 33% / 38% (No Sleep, Cold Plunge, Quit Smoking), abstract hooks
+   50% / 51% / 59% (Stroke, Ozempic, 80 Years Old). Median 33% vs 51%, n=3+3, all v1 format. Cold Plunge
+   (best hook) is the only reel that left the first test: 1,400 views vs median 136.
+2b. TESTING (2026-10-24). Frame 1 is a body IN ACTION (falling into ice, holding breath, climbing), not a lab
+   object (cell, dish, chart, pen) and not the generic brain opener. Evidence: Cold Plunge (plunge, sea) and
+   No Sleep (drunk) vs 80 Years Old (cell, dish, tube) and Ozempic (chart, pen).
+2c. TESTING (2026-10-24). Aggressive, moving hook (Graziano): at 0.0 s a punch-in or shake plus a boom, the
+   big number already counting, the timer already running. Nothing static in the first second.
 3. IDEA. Open on the end state ("At 72 hours your body starts eating itself"), then rewind the timer to 0.
 4. TESTING. Max 8 words of on-screen text per beat, high contrast, away from the top and bottom fifth.
 
@@ -21,8 +28,9 @@ of 36-44 s (avg 11-12 s), ~0 shares/saves/comments, 120-139 views each.
 5. TESTING. 20-25 s reels (4-6 timer stops) instead of 35-45 s until watch % beats 50%. Evidence: avg watch
    11-12 s on every reel regardless of length; shortest reel (36 s) had the best watch % (32%). Since
    2026-10-23.
-6. TESTING. Every stop beats the previous one; best fact second-to-last, twist last; re-hook at ~40-50%.
-   (Loewenstein 1994.)
+6. TESTING. Every stop beats the previous one; re-hook ("but...") at ~40-50%. (Loewenstein 1994.)
+   2026-10-24: the fact worth sending lands by second 10 (average watch is 11.5 s; even the best reel holds
+   17 s), the twist at the end only adds to it. Cold Plunge: 0 shares on 1,087 reach - the payoff came too late.
 7. TESTING. A change on screen every 1.5-3 s (timer tick, scene, punch-in, counter, sound hit).
 8. IDEA. Loop ending: the last frame matches the first so the replay feels seamless.
 
