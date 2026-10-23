@@ -82,6 +82,17 @@ AI e futuro. Graziano scrive in italiano: rispondi in italiano, frasi brevi, un 
   nelle variabili TT_*, nuovo collegamento dalla pagina tiktok-callback.html, nuovo TT_REFRESH_TOKEN.
 - Flusso: lo script manda la bozza nella inbox TikTok, Graziano la pubblica dall'app (puo' aggiungere musica).
 
+## Statistiche (revisione serale)
+
+- `python3 stats.py`: legge Instagram (per reel: views, reach, like, commenti, condivisioni, salvataggi, secondi medi
+  di visione; account: follower, reach e views del giorno) e YouTube (views, like, commenti). Scrive
+  `stats/reels.json`, `stats/daily.json` e lo storico `stats/history.json`. TikTok: nessuna statistica via API
+  (servirebbero i permessi user.info.stats e video.list).
+- Dashboard privata "Next Human Stats": https://claude.ai/artifact/F2mXFN1xKpaLBuHvPMPJU3 (tipo Dashboard; i dati
+  sono file caricati come asset e collegati ai documenti `datasets/reels`, `datasets/daily`, `datasets/notes`).
+- `stats/notes.json`: la revisione di Claude (righe `{date, order, kind, text}`: order 1 = Sintesi, poi Funziona,
+  Non funziona, 3 x Da cambiare). Graziano vuole una revisione ogni sera perche' i numeri non vanno bene.
+
 ## Regole
 
 - Nessun segreto in questo repository o in chat. Il token non va cercato ne' stampato: lo aggiunge il proxy.

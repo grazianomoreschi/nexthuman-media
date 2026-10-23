@@ -1,0 +1,8 @@
+[
+ {"date": "2026-10-23", "order": 1, "kind": "Sintesi", "text": "4 reel su Instagram, 120-139 visualizzazioni ciascuno, quasi tutte da non follower. Le persone guardano in media 11-12 secondi su 40-45: Instagram smette di spingerli."},
+ {"date": "2026-10-23", "order": 2, "kind": "Funziona", "text": "Ogni reel raggiunge oltre 100 persone nuove con 1 solo follower: la distribuzione iniziale c'e'. Lo stroke ha il valore piu' alto (139)."},
+ {"date": "2026-10-23", "order": 3, "kind": "Non funziona", "text": "Zero condivisioni, zero salvataggi, zero commenti, 3 like in tutto. Chi guarda va via prima del colpo di scena, che arriva dopo 25-30 secondi."},
+ {"date": "2026-10-23", "order": 4, "kind": "Da cambiare", "text": "1. Durata: reel da 20-25 secondi invece di 40. Con 11-12 secondi di visione media, un reel corto viene visto in percentuale molto di piu'."},
+ {"date": "2026-10-23", "order": 5, "kind": "Da cambiare", "text": "2. Primi 2 secondi: togliere l'intro con il sottotitolo e partire dal fatto piu' forte, con il numero gia' sullo schermo e movimento subito."},
+ {"date": "2026-10-23", "order": 6, "kind": "Da cambiare", "text": "3. Audio: provare ad aggiungere un audio di tendenza dall'app Instagram su alcuni reel e confrontare. L'API non permette di scegliere la musica."}
+]
