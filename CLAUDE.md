@@ -52,6 +52,21 @@ AI e futuro. Graziano scrive in italiano: rispondi in italiano, frasi brevi, un 
 - `youtube.py`: test `python3 youtube.py --check`; video di prova privato `python3 youtube.py --test`.
 - Finche' Google non verifica il progetto, i video caricati via API restano privati: Graziano li rende pubblici.
 
+## TikTok (in prova, Sandbox)
+
+- Organizzazione "Next Human" su developers.tiktok.com, app "Next Human Publisher" (tipo Other): Login Kit +
+  Content Posting API (Direct Post attivo), permessi user.info.basic, video.upload, video.publish.
+  Sito verificato con file sul ramo `gh-pages`. Redirect URI: .../nexthuman-media/tiktok-callback.html
+  (pagina di collegamento: lo scambio del codice avviene nel browser di Graziano).
+- In uso la **Sandbox** "Next Human Test" (utente di prova nnexthuman). Variabili dell'ambiente Default:
+  `TT_CLIENT_KEY`, `TT_CLIENT_SECRET`, `TT_REFRESH_TOKEN` (della Sandbox; il refresh token dura circa 365 giorni).
+  Rete: open.tiktokapis.com e open-upload-i18n.tiktokapis.com.
+- `tiktok.py`: test `python3 tiktok.py --check`; bozza di prova nella inbox `python3 tiktok.py --test`.
+- Revisione Production non ancora inviata: in bozza c'e' un video segnaposto da sostituire con la registrazione
+  dello schermo del flusso completo in Sandbox. Dopo l'approvazione: chiavi Production e nuovo collegamento.
+- Finche' l'app non e' approvata, i post diretti possono essere solo privati (SELF_ONLY); le bozze nella inbox
+  le pubblica Graziano dall'app.
+
 ## Regole
 
 - Nessun segreto in questo repository o in chat. Il token non va cercato ne' stampato: lo aggiunge il proxy.
