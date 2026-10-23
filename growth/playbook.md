@@ -45,6 +45,8 @@ of 36-44 s (avg 11-12 s), ~0 shares/saves/comments, 120-139 views each.
 16. PROVEN (policy). Upload the clean original file to each platform; never re-upload another app's file.
 17. IDEA. Posting frequency: 2-3 strong reels a day may beat 7 average ones (Buffer 2025, Mosseri "quality over
     volume"). Decision for Graziano; measure per-reel retention as volume grows.
+    2026-10-23: Graziano keeps the plan (6 reels on 25/10, 7 a day from 26/10). Track per-reel retention vs
+    volume and report if it drops.
 18. IDEA. Trial Reels to A/B test hooks once the account has 1,000 followers.
 19. IDEA. Trending audio on TikTok (added in-app by Graziano) and on a few Instagram reels, to compare.
 
@@ -52,6 +54,7 @@ of 36-44 s (avg 11-12 s), ~0 shares/saves/comments, 120-139 views each.
 21. IDEA. A real person or real case as the hook ("A man held in a sneeze...") - strongest pattern in the
     niche (Zack D. Films, Karan Rajan).
 22. IDEA. Test an AI voiceover on 2-3 reels: almost every top channel in the niche uses a narrator.
+    2026-10-23: Graziano says not for now; no voiceover. Ask again only if text-only retention stays low.
 23. IDEA. A tiny source line on screen ("BMJ 2018") as an authority cue.
 24. IDEA. Mild body horror and survival limits (no air, water, altitude) drive shares and comments; keep
     visuals non-gory.
