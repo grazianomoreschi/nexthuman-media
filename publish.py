@@ -8,7 +8,7 @@ Il token Instagram NON e' in questo repository: lo aggiunge il proxy dell'ambien
 (network secret su graph.instagram.com, header Authorization: Bearer).
 I video stanno sul ramo `media` solo finche' il loro post e' in coda.
 """
-import json, os, subprocess, sys, time, urllib.parse, urllib.request
+import json, os, random, subprocess, sys, time, urllib.parse, urllib.request
 from datetime import datetime, timedelta, timezone
 
 IG_USER = "17841480036080171"  # @nnexthuman
@@ -17,6 +17,7 @@ RAW = "https://raw.githubusercontent.com/grazianomoreschi/nexthuman-media/media/
 QUEUE = "queue.json"
 INCOMING = "incoming"  # video scaricati dall'artifact privato, mai nel repository
 WAIT_AHEAD = timedelta(minutes=30)   # se un post scade entro 30 minuti, aspetta l'orario esatto
+JITTER_S = 180  # richiesta di Graziano: pubblica in un momento a caso tra l'orario e 3 minuti dopo
 
 
 def call(method, path, params=None):
@@ -165,7 +166,7 @@ def due():
     stage_media(todo)
     changed = False
     for p in sorted(todo, key=lambda p: p["publish_at"]):
-        at = datetime.fromisoformat(p["publish_at"])
+        at = datetime.fromisoformat(p["publish_at"]) + timedelta(seconds=random.uniform(0, JITTER_S))
         wait = (at - datetime.now(timezone.utc)).total_seconds()
         if wait > 0:
             print(f"aspetto {int(wait)} s per {p['id']}")

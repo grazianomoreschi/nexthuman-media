@@ -40,7 +40,8 @@ AI e futuro. Graziano scrive in italiano: rispondi in italiano, frasi brevi, un 
 
 - `queue.json`: coda. Ogni post ha `id`, `publish_at` (ISO con fuso, ora di Roma), `video` (file sul ramo `media`),
   `caption`, `first_comment`, `status` (`pending`, `published`, `error`).
-- `publish.py`: pubblica su Instagram i post in scadenza (aspetta l'orario esatto se mancano meno di 30 minuti),
+- `publish.py`: pubblica su Instagram i post in scadenza (aspetta l'orario, poi un ritardo a caso fino a 3 minuti
+  per sembrare piu' naturale; regola di Graziano),
   aggiorna la coda, toglie dal ramo `media` i video gia' pubblicati.
 - I video in attesa stanno nell'artifact **privato** https://claude.ai/artifact/UoBSQKjDW8Jfk1ri1RuXGy (un file mp4
   per post, stesso nome del campo `video`). Graziano non vuole i video pubblici su GitHub per ore.
