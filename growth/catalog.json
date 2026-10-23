@@ -1,0 +1,317 @@
+[
+ {
+  "episode": "ep07_quit_smoking_en",
+  "title": "QUIT SMOKING",
+  "pillar": "body",
+  "topic": "habits",
+  "caption_match": "cigarette",
+  "slot": "2026-10-22 22:14",
+  "duration_s": 43.8,
+  "segments": 10,
+  "hook": "YOUR *LAST* CIGARETTE.",
+  "intro_segment": true,
+  "first_timer_at_s": 5.0,
+  "scenes": [
+   "blood",
+   "body",
+   "brain",
+   "chest",
+   "heart",
+   "hook",
+   "lungs"
+  ],
+  "booms": 3,
+  "bg_fx": null,
+  "music_mode": null,
+  "format": "timer-explainer",
+  "tags": [
+   "intro-subtitle",
+   "no-voice",
+   "chiptune",
+   "len-35-45s"
+  ]
+ },
+ {
+  "episode": "ep08_stroke_en",
+  "title": "A STROKE",
+  "pillar": "body",
+  "topic": "brain",
+  "caption_match": "stroke",
+  "slot": "2026-10-23 02:00",
+  "duration_s": 44.3,
+  "segments": 13,
+  "hook": "THIS IS YOUR BRAIN. *RIGHT NOW*.",
+  "intro_segment": true,
+  "first_timer_at_s": 3.6,
+  "scenes": [
+   "brainstroke",
+   "clot",
+   "fast"
+  ],
+  "booms": 4,
+  "bg_fx": "dots",
+  "music_mode": "phrygian",
+  "format": "timer-explainer",
+  "tags": [
+   "intro-subtitle",
+   "no-voice",
+   "chiptune",
+   "len-35-45s"
+  ]
+ },
+ {
+  "episode": "ep09_nosleep_en",
+  "title": "NO SLEEP",
+  "pillar": "body",
+  "topic": "sleep",
+  "caption_match": "hours awake",
+  "slot": "2026-10-23 06:00",
+  "duration_s": 36.0,
+  "segments": 9,
+  "hook": "AT HOUR 17, YOUR BRAIN DRIVES LIKE IT'S _DRUNK_.",
+  "intro_segment": true,
+  "first_timer_at_s": 3.8,
+  "scenes": [
+   "brain",
+   "drunk",
+   "sleepdesk"
+  ],
+  "booms": 3,
+  "bg_fx": "stars",
+  "music_mode": "minor",
+  "format": "timer-explainer",
+  "tags": [
+   "intro-subtitle",
+   "no-voice",
+   "chiptune",
+   "len-35-45s"
+  ]
+ },
+ {
+  "episode": "ep10_ozempic_en",
+  "title": "OZEMPIC",
+  "pillar": "body",
+  "topic": "drugs",
+  "caption_match": "15% of their body weight|Ozempic",
+  "slot": "2026-10-23 10:00",
+  "duration_s": 42.2,
+  "segments": 11,
+  "hook": "THIS WEEKLY SHOT CUT *15%* OF BODY WEIGHT. THEN PEOPLE _STOPPED_.",
+  "intro_segment": true,
+  "first_timer_at_s": 4.0,
+  "scenes": [
+   "brain",
+   "chart",
+   "fast",
+   "gut",
+   "pen",
+   "people"
+  ],
+  "booms": 4,
+  "bg_fx": "grid",
+  "music_mode": "dorian",
+  "format": "timer-explainer",
+  "tags": [
+   "intro-subtitle",
+   "no-voice",
+   "chiptune",
+   "len-35-45s"
+  ]
+ },
+ {
+  "episode": "ep11_80years_en",
+  "title": "80 YEARS OLD",
+  "pillar": "longevity",
+  "topic": "cells",
+  "caption_match": "80[- ]year|80 years",
+  "slot": "2026-10-23 16:00",
+  "duration_s": 39.6,
+  "segments": 10,
+  "hook": "THESE CELLS ARE *80* YEARS OLD. IN 50 DAYS: _UNDER 20_.",
+  "intro_segment": true,
+  "first_timer_at_s": 4.2,
+  "scenes": [
+   "brain",
+   "cell",
+   "dish",
+   "tube"
+  ],
+  "booms": 4,
+  "bg_fx": "helix",
+  "music_mode": "lydian",
+  "format": "timer-explainer",
+  "tags": [
+   "intro-subtitle",
+   "no-voice",
+   "chiptune",
+   "len-35-45s"
+  ]
+ },
+ {
+  "episode": "ep12_coldplunge_en",
+  "title": "COLD PLUNGE",
+  "pillar": "body",
+  "topic": "cold",
+  "caption_match": "ice water|cold plunge|ice",
+  "slot": "2026-10-23 22:00",
+  "duration_s": 42.4,
+  "segments": 11,
+  "hook": "YOUR FIRST BREATH IN ICE WATER IS NOT _YOURS_.",
+  "intro_segment": true,
+  "first_timer_at_s": 4.0,
+  "scenes": [
+   "brain",
+   "heart",
+   "lungs",
+   "plunge",
+   "sea"
+  ],
+  "booms": 4,
+  "bg_fx": "bubbles",
+  "music_mode": "minor",
+  "format": "timer-explainer",
+  "tags": [
+   "intro-subtitle",
+   "no-voice",
+   "chiptune",
+   "len-35-45s"
+  ]
+ },
+ {
+  "episode": "ep13_robot_en",
+  "title": "HUMAN VS ROBOT",
+  "pillar": "ai",
+  "topic": "robots",
+  "caption_match": "humanoid robot",
+  "slot": "2026-10-24 02:00",
+  "duration_s": 39.0,
+  "segments": 10,
+  "hook": "A MAN STEPPED INTO A CAGE WITH A HUMANOID *ROBOT*.",
+  "intro_segment": true,
+  "first_timer_at_s": 4.2,
+  "scenes": [
+   "brain",
+   "cage",
+   "heart"
+  ],
+  "booms": 3,
+  "bg_fx": "scan",
+  "music_mode": "phrygian",
+  "format": "timer-explainer",
+  "tags": [
+   "intro-subtitle",
+   "no-voice",
+   "chiptune",
+   "len-35-45s"
+  ]
+ },
+ {
+  "episode": "ep14_clockshift_en",
+  "title": "CLOCK SHIFT",
+  "pillar": "body",
+  "topic": "circadian",
+  "caption_match": "clock",
+  "slot": "2026-10-24 06:00",
+  "duration_s": 39.2,
+  "segments": 10,
+  "hook": "THIS SUNDAY YOUR CLOCK MOVES *1 HOUR*. YOUR BODY'S CLOCK _DOESN'T_.",
+  "intro_segment": true,
+  "first_timer_at_s": 4.2,
+  "scenes": [
+   "brain",
+   "clock",
+   "heart",
+   "sleepdesk"
+  ],
+  "booms": 2,
+  "bg_fx": "dots",
+  "music_mode": "dorian",
+  "format": "timer-explainer",
+  "tags": [
+   "intro-subtitle",
+   "no-voice",
+   "chiptune",
+   "len-35-45s"
+  ]
+ },
+ {
+  "episode": "ep15_steps_en",
+  "title": "3,000 STEPS",
+  "pillar": "body",
+  "topic": "brain",
+  "caption_match": "10,000 steps",
+  "slot": "2026-10-24 10:00",
+  "duration_s": 38.2,
+  "segments": 10,
+  "hook": "FORGET *10,000* STEPS. YOUR BRAIN WANTS _3,000_.",
+  "intro_segment": true,
+  "first_timer_at_s": 4.2,
+  "scenes": [
+   "brain",
+   "walk"
+  ],
+  "booms": 3,
+  "bg_fx": "grid",
+  "music_mode": "major",
+  "format": "timer-explainer",
+  "tags": [
+   "intro-subtitle",
+   "no-voice",
+   "chiptune",
+   "len-35-45s"
+  ]
+ },
+ {
+  "episode": "ep16_space_en",
+  "title": "TALLER IN SPACE",
+  "pillar": "future",
+  "topic": "space",
+  "caption_match": "taller",
+  "slot": "2026-10-24 16:00",
+  "duration_s": 39.2,
+  "segments": 10,
+  "hook": "ASTRONAUTS COME BACK FROM SPACE *TALLER*.",
+  "intro_segment": true,
+  "first_timer_at_s": 4.2,
+  "scenes": [
+   "heart",
+   "space"
+  ],
+  "booms": 3,
+  "bg_fx": "stars",
+  "music_mode": "lydian",
+  "format": "timer-explainer",
+  "tags": [
+   "intro-subtitle",
+   "no-voice",
+   "chiptune",
+   "len-35-45s"
+  ]
+ },
+ {
+  "episode": "ep17_aiextinction_en",
+  "title": "THE 2100 LIST",
+  "pillar": "ai",
+  "topic": "future-risk",
+  "caption_match": "end humanity",
+  "slot": "2026-10-24 22:00",
+  "duration_s": 38.8,
+  "segments": 10,
+  "hook": "SCIENTISTS JUST LISTED THE THREATS THAT COULD *END* HUMANITY.",
+  "intro_segment": true,
+  "first_timer_at_s": 4.2,
+  "scenes": [
+   "earth"
+  ],
+  "booms": 3,
+  "bg_fx": "scan",
+  "music_mode": "phrygian",
+  "format": "timer-explainer",
+  "tags": [
+   "intro-subtitle",
+   "no-voice",
+   "chiptune",
+   "len-35-45s"
+  ]
+ }
+]

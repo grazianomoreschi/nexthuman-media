@@ -12,7 +12,29 @@
   "shares": 0,
   "saves": 0,
   "interactions": 0,
-  "avg_watch_s": 10.7
+  "avg_watch_s": 10.6,
+  "total_watch_min": 19.3,
+  "episode": "ep10_ozempic_en",
+  "pillar": "body",
+  "topic": "drugs",
+  "duration_s": 42.2,
+  "format": "timer-explainer",
+  "tags": [
+   "intro-subtitle",
+   "no-voice",
+   "chiptune",
+   "len-35-45s"
+  ],
+  "hook": "THIS WEEKLY SHOT CUT *15%* OF BODY WEIGHT. THEN PEOPLE _STOPPED_.",
+  "first_timer_at_s": 4.0,
+  "like_rate_pct": 0.0,
+  "share_rate_pct": 0.0,
+  "save_rate_pct": 0.0,
+  "comment_rate_pct": 0.0,
+  "watch_pct": 25.1,
+  "post_hour": 10,
+  "age_h": 3.1,
+  "views_per_h": 38.7
  },
  {
   "platform": "Instagram",
@@ -21,13 +43,35 @@
   "title": "17 hours awake and your brain performs like it’s had a drink. 🍺",
   "link": "https://www.instagram.com/reel/De0plAdBONc/",
   "views": 132,
-  "reach": 123,
+  "reach": 124,
   "likes": 1,
   "comments": 0,
   "shares": 0,
   "saves": 0,
   "interactions": 1,
-  "avg_watch_s": 11.6
+  "avg_watch_s": 11.4,
+  "total_watch_min": 23.2,
+  "episode": "ep09_nosleep_en",
+  "pillar": "body",
+  "topic": "sleep",
+  "duration_s": 36.0,
+  "format": "timer-explainer",
+  "tags": [
+   "intro-subtitle",
+   "no-voice",
+   "chiptune",
+   "len-35-45s"
+  ],
+  "hook": "AT HOUR 17, YOUR BRAIN DRIVES LIKE IT'S _DRUNK_.",
+  "first_timer_at_s": 3.8,
+  "like_rate_pct": 0.81,
+  "share_rate_pct": 0.0,
+  "save_rate_pct": 0.0,
+  "comment_rate_pct": 0.0,
+  "watch_pct": 31.7,
+  "post_hour": 6,
+  "age_h": 7.1,
+  "views_per_h": 18.6
  },
  {
   "platform": "Instagram",
@@ -42,7 +86,29 @@
   "shares": 0,
   "saves": 0,
   "interactions": 1,
-  "avg_watch_s": 11.6
+  "avg_watch_s": 11.6,
+  "total_watch_min": 23.2,
+  "episode": "ep08_stroke_en",
+  "pillar": "body",
+  "topic": "brain",
+  "duration_s": 44.3,
+  "format": "timer-explainer",
+  "tags": [
+   "intro-subtitle",
+   "no-voice",
+   "chiptune",
+   "len-35-45s"
+  ],
+  "hook": "THIS IS YOUR BRAIN. *RIGHT NOW*.",
+  "first_timer_at_s": 3.6,
+  "like_rate_pct": 0.85,
+  "share_rate_pct": 0.0,
+  "save_rate_pct": 0.0,
+  "comment_rate_pct": 0.0,
+  "watch_pct": 26.2,
+  "post_hour": 2,
+  "age_h": 11.1,
+  "views_per_h": 12.5
  },
  {
   "platform": "Instagram",
@@ -57,7 +123,29 @@
   "shares": 0,
   "saves": 0,
   "interactions": 1,
-  "avg_watch_s": 12.5
+  "avg_watch_s": 12.5,
+  "total_watch_min": 25.3,
+  "episode": "ep07_quit_smoking_en",
+  "pillar": "body",
+  "topic": "habits",
+  "duration_s": 43.8,
+  "format": "timer-explainer",
+  "tags": [
+   "intro-subtitle",
+   "no-voice",
+   "chiptune",
+   "len-35-45s"
+  ],
+  "hook": "YOUR *LAST* CIGARETTE.",
+  "first_timer_at_s": 5.0,
+  "like_rate_pct": 0.83,
+  "share_rate_pct": 0.0,
+  "save_rate_pct": 0.0,
+  "comment_rate_pct": 0.0,
+  "watch_pct": 28.5,
+  "post_hour": 22,
+  "age_h": 14.8,
+  "views_per_h": 8.9
  },
  {
   "platform": "YouTube",
@@ -68,7 +156,27 @@
   "status": "private",
   "views": 0,
   "likes": 0,
-  "comments": 0
+  "comments": 0,
+  "episode": "ep17_aiextinction_en",
+  "pillar": "ai",
+  "topic": "future-risk",
+  "duration_s": 38.8,
+  "format": "timer-explainer",
+  "tags": [
+   "intro-subtitle",
+   "no-voice",
+   "chiptune",
+   "len-35-45s"
+  ],
+  "hook": "SCIENTISTS JUST LISTED THE THREATS THAT COULD *END* HUMANITY.",
+  "first_timer_at_s": 4.2,
+  "like_rate_pct": null,
+  "share_rate_pct": null,
+  "save_rate_pct": null,
+  "comment_rate_pct": null,
+  "post_hour": 5,
+  "age_h": 7.3,
+  "views_per_h": 0.0
  },
  {
   "platform": "YouTube",
@@ -79,7 +187,27 @@
   "status": "private",
   "views": 0,
   "likes": 0,
-  "comments": 0
+  "comments": 0,
+  "episode": "ep16_space_en",
+  "pillar": "future",
+  "topic": "space",
+  "duration_s": 39.2,
+  "format": "timer-explainer",
+  "tags": [
+   "intro-subtitle",
+   "no-voice",
+   "chiptune",
+   "len-35-45s"
+  ],
+  "hook": "ASTRONAUTS COME BACK FROM SPACE *TALLER*.",
+  "first_timer_at_s": 4.2,
+  "like_rate_pct": null,
+  "share_rate_pct": null,
+  "save_rate_pct": null,
+  "comment_rate_pct": null,
+  "post_hour": 5,
+  "age_h": 7.3,
+  "views_per_h": 0.0
  },
  {
   "platform": "YouTube",
@@ -90,7 +218,27 @@
   "status": "private",
   "views": 0,
   "likes": 0,
-  "comments": 0
+  "comments": 0,
+  "episode": "ep15_steps_en",
+  "pillar": "body",
+  "topic": "brain",
+  "duration_s": 38.2,
+  "format": "timer-explainer",
+  "tags": [
+   "intro-subtitle",
+   "no-voice",
+   "chiptune",
+   "len-35-45s"
+  ],
+  "hook": "FORGET *10,000* STEPS. YOUR BRAIN WANTS _3,000_.",
+  "first_timer_at_s": 4.2,
+  "like_rate_pct": null,
+  "share_rate_pct": null,
+  "save_rate_pct": null,
+  "comment_rate_pct": null,
+  "post_hour": 5,
+  "age_h": 7.3,
+  "views_per_h": 0.0
  },
  {
   "platform": "YouTube",
@@ -101,7 +249,27 @@
   "status": "private",
   "views": 0,
   "likes": 0,
-  "comments": 0
+  "comments": 0,
+  "episode": "ep14_clockshift_en",
+  "pillar": "body",
+  "topic": "circadian",
+  "duration_s": 39.2,
+  "format": "timer-explainer",
+  "tags": [
+   "intro-subtitle",
+   "no-voice",
+   "chiptune",
+   "len-35-45s"
+  ],
+  "hook": "THIS SUNDAY YOUR CLOCK MOVES *1 HOUR*. YOUR BODY'S CLOCK _DOESN'T_.",
+  "first_timer_at_s": 4.2,
+  "like_rate_pct": null,
+  "share_rate_pct": null,
+  "save_rate_pct": null,
+  "comment_rate_pct": null,
+  "post_hour": 5,
+  "age_h": 7.3,
+  "views_per_h": 0.0
  },
  {
   "platform": "YouTube",
@@ -112,6 +280,26 @@
   "status": "private",
   "views": 0,
   "likes": 0,
-  "comments": 0
+  "comments": 0,
+  "episode": "ep13_robot_en",
+  "pillar": "ai",
+  "topic": "robots",
+  "duration_s": 39.0,
+  "format": "timer-explainer",
+  "tags": [
+   "intro-subtitle",
+   "no-voice",
+   "chiptune",
+   "len-35-45s"
+  ],
+  "hook": "A MAN STEPPED INTO A CAGE WITH A HUMANOID *ROBOT*.",
+  "first_timer_at_s": 4.2,
+  "like_rate_pct": null,
+  "share_rate_pct": null,
+  "save_rate_pct": null,
+  "comment_rate_pct": null,
+  "post_hour": 5,
+  "age_h": 7.3,
+  "views_per_h": 0.0
  }
 ]

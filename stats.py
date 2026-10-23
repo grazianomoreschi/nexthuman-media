@@ -6,12 +6,14 @@ Uso:
 Instagram: token aggiunto dal proxy (come publish.py). YouTube: variabili YT_* (come youtube.py).
 TikTok: l'app non ha ancora i permessi per leggere le statistiche (servono user.info.stats e video.list).
 """
-import json, os
+import json, os, re
 from datetime import datetime, timezone, timedelta
 import publish as IG
 
 OUT = "stats"
-METRICS = ["views", "reach", "likes", "comments", "shares", "saved", "total_interactions", "ig_reels_avg_watch_time"]
+METRICS = ["views", "reach", "likes", "comments", "shares", "saved", "total_interactions", "ig_reels_avg_watch_time",
+           "ig_reels_video_view_total_time"]
+CATALOG = "growth/catalog.json"  # attributi di ogni episodio (durata, hook, tema, formato, tag degli esperimenti)
 
 
 def rome_now():
@@ -40,8 +42,49 @@ def ig_reels():
         row.update(views=vals.get("views"), reach=vals.get("reach"), likes=vals.get("likes"),
                    comments=vals.get("comments"), shares=vals.get("shares"), saves=vals.get("saved"),
                    interactions=vals.get("total_interactions"),
-                   avg_watch_s=round(vals["ig_reels_avg_watch_time"] / 1000, 1) if vals.get("ig_reels_avg_watch_time") else None)
+                   avg_watch_s=round(vals["ig_reels_avg_watch_time"] / 1000, 1) if vals.get("ig_reels_avg_watch_time") else None,
+                   total_watch_min=round(vals["ig_reels_video_view_total_time"] / 60000, 1) if vals.get("ig_reels_video_view_total_time") else None)
+        row["caption"] = m.get("caption") or ""
         rows.append(row)
+    return rows
+
+
+def ig_comments(media_ids):
+    """Testo dei commenti (senza nomi utente) per capire cosa colpisce il pubblico."""
+    out = []
+    for mid in media_ids:
+        try:
+            r = IG.call("GET", f"/{mid}/comments", {"fields": "text,timestamp,like_count", "limit": 50})
+        except RuntimeError:
+            continue
+        for c in r.get("data", []):
+            out.append({"media_id": mid, "at": to_rome(c["timestamp"]), "text": c.get("text", "")[:500], "likes": c.get("like_count", 0)})
+    return out
+
+
+def enrich(rows, now):
+    """Aggiunge attributi dell'episodio e i tassi che contano per l'algoritmo."""
+    cat = json.load(open(CATALOG)) if os.path.exists(CATALOG) else []
+    for r in rows:
+        ep = next((c for c in cat if re.search(c["caption_match"], r.get("caption") or r.get("title") or "", re.I)), None)
+        r["episode"] = ep["episode"] if ep else None
+        for k in ("pillar", "topic", "duration_s", "format", "tags", "hook", "first_timer_at_s"):
+            r[k] = ep.get(k) if ep else None
+        n = lambda x: x or 0
+        reach = r.get("reach") or r.get("views") or 0
+        rate = lambda x: round(100 * n(x) / reach, 2) if reach else None
+        r["like_rate_pct"], r["share_rate_pct"], r["save_rate_pct"], r["comment_rate_pct"] = (
+            rate(r.get("likes")), rate(r.get("shares")), rate(r.get("saves")), rate(r.get("comments")))
+        if r.get("avg_watch_s") and r.get("duration_s"):
+            r["watch_pct"] = round(100 * r["avg_watch_s"] / r["duration_s"], 1)
+        try:
+            posted = datetime.strptime(r["posted"], "%Y-%m-%d %H:%M").replace(tzinfo=now.tzinfo)
+            r["post_hour"] = posted.hour
+            r["age_h"] = round((now - posted).total_seconds() / 3600, 1)
+            r["views_per_h"] = round(n(r.get("views")) / max(r["age_h"], 0.5), 1)
+        except (KeyError, ValueError):
+            pass
+        r.pop("caption", None)
     return rows
 
 
@@ -49,7 +92,8 @@ def ig_account():
     me = IG.call("GET", "/me", {"fields": "followers_count,media_count"})
     acc = {"followers": me.get("followers_count"), "posts": me.get("media_count")}
     for met, key in (("reach", "reach_day"), ("views", "views_day"), ("profile_views", "profile_views_day"),
-                     ("accounts_engaged", "engaged_day")):
+                     ("accounts_engaged", "engaged_day"), ("total_interactions", "interactions_day"),
+                     ("shares", "shares_day"), ("saves", "saves_day"), ("website_clicks", "link_clicks_day")):
         try:
             r = IG.call("GET", f"/{IG.IG_USER}/insights", {"metric": met, "period": "day", "metric_type": "total_value"})
             acc[key] = r["data"][0]["total_value"]["value"]
@@ -85,9 +129,16 @@ def main():
     os.makedirs(OUT, exist_ok=True)
     now = rome_now(); day = now.strftime("%Y-%m-%d")
     reels = ig_reels()
+    comments = ig_comments([r["id"] for r in reels])
     acc = ig_account()
     yt, chan = yt_videos()
+    reels = enrich(reels, now); yt = enrich(yt, now)
     json.dump(reels + yt, open(f"{OUT}/reels.json", "w"), indent=1, ensure_ascii=False)
+    json.dump(comments, open(f"{OUT}/comments.json", "w"), indent=1, ensure_ascii=False)
+    with open(f"{OUT}/snapshots.jsonl", "a") as f:  # una riga per reel a ogni lettura: serve per la velocita'
+        for r in reels + yt:
+            f.write(json.dumps({"at": now.strftime("%Y-%m-%d %H:%M"), **{k: r.get(k) for k in (
+                "platform", "id", "episode", "views", "reach", "likes", "comments", "shares", "saves", "avg_watch_s")}}) + "\n")
     hist_path = f"{OUT}/history.json"
     hist = json.load(open(hist_path)) if os.path.exists(hist_path) else []
     snap = {"date": day, **acc, **chan,
@@ -100,8 +151,10 @@ def main():
     print(f"STATISTICHE {day} {now.strftime('%H:%M')}")
     print("account:", json.dumps(snap, ensure_ascii=False))
     for r in sorted(reels, key=lambda r: r["posted"], reverse=True):
-        print(f"IG {r['posted']} views={r['views']} reach={r['reach']} likes={r['likes']} comm={r['comments']} "
-              f"shares={r['shares']} saves={r['saves']} watch={r['avg_watch_s']}s | {r['title']}")
+        print(f"IG {r['posted']} {r['episode']} views={r['views']} reach={r['reach']} likes={r['likes']} comm={r['comments']} "
+              f"shares={r['shares']} saves={r['saves']} watch={r['avg_watch_s']}s ({r.get('watch_pct')}% di {r.get('duration_s')}s) "
+              f"views/h={r.get('views_per_h')} | {r['title']}")
+    print(f"commenti: {len(comments)}")
     for r in yt:
         print(f"YT {r['posted']} {r['status']} views={r['views']} likes={r['likes']} comm={r['comments']} | {r['title']}")
 
