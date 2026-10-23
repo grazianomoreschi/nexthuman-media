@@ -81,7 +81,9 @@ AI e futuro. Graziano scrive in italiano: rispondi in italiano, frasi brevi, un 
 - `tiktok.py`: test `python3 tiktok.py --check`; bozza di prova nella inbox `python3 tiktok.py --test`.
 - Revisione Production inviata il 23 ottobre (2 video demo dalla Sandbox). Dopo l'approvazione: chiavi Production
   nelle variabili TT_*, nuovo collegamento dalla pagina tiktok-callback.html, nuovo TT_REFRESH_TOKEN.
-- Flusso: lo script manda la bozza nella inbox TikTok, Graziano la pubblica dall'app (puo' aggiungere musica).
+- Flusso attuale (dal 24/10): Graziano programma i video da TikTok Studio (web), dove le bozze via API non
+  compaiono. Quindi nella coda `tiktok` resta false; ogni giorno gli si mandano i file mp4 del giorno (SendUserFile)
+  con le descrizioni. Le bozze via API arrivano solo nella inbox dell'app TikTok.
 
 ## Statistiche (revisione serale)
 
