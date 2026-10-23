@@ -6,7 +6,7 @@ AI e futuro. Graziano scrive in italiano: rispondi in italiano, frasi brevi, un 
 ## Stato al 23 ottobre 2026 (passaggio dalla chat Claude a Claude Code)
 
 - Produzione video: skill `next-human-reels` (account skill). Il motore si ripristina dall'artifact privato
-  https://claude.ai/artifact/DYZZU4dt455uYpDVFSNhUp (file `nh_engine_v3.txt`), come spiega la skill.
+  https://claude.ai/artifact/DYZZU4dt455uYpDVFSNhUp (file `nh_engine_v4.txt`, con le scene cage, clock, walk, space, earth), come spiega la skill.
 - Reel gia' fatti e programmati a mano per il 23 ottobre: Stroke 02:00, No Sleep 06:00, Ozempic 10:00,
   80 Years Old 16:00, Cold Plunge 22:00 (episodi ep08-ep12 nel bundle del motore).
 - Piano di lavoro con checklist (Claude Docs): https://claude.ai/artifact/5cMdwqk8KsZbgiYJxJT63x
@@ -16,7 +16,7 @@ AI e futuro. Graziano scrive in italiano: rispondi in italiano, frasi brevi, un 
 - 24 ottobre, in coda (descrizione 1 scelta da Graziano): Human vs Robot 02:00, Clock Shift 06:00, 3,000 Steps 10:00,
   Taller in Space 16:00, The 2100 List 22:00 (ep13-ep17). Idee: https://claude.ai/artifact/XaGrbTxPpS3MEYxJR9DkCE ,
   descrizioni: https://claude.ai/artifact/9nJdAvbyrXMgkTsmBegKQ8 . Stile voluto: hype nel tono, niente decimali,
-  ma ogni frase vera. Le scene nuove (cage, clock, walk, space, earth) vanno salvate nel bundle del motore (v4).
+  ma ogni frase vera. Scene nuove salvate nel bundle v4.
 
 ### Fase 1 (accessi) - fatto
 - Instagram @nnexthuman professionale (Creator). App Meta "Next Human Publisher" (Instagram Login, senza Pagina FB):
