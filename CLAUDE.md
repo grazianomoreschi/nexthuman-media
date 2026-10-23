@@ -112,6 +112,9 @@ AI e futuro. Graziano scrive in italiano: rispondi in italiano, frasi brevi, un 
 
 - Nessun segreto in questo repository o in chat. Il token non va cercato ne' stampato: lo aggiunge il proxy.
   Se l'API risponde 401 o errore 190, il token e' scaduto: avvisa Graziano.
+  Se risponde "API access blocked" (errore 200), Meta ha segnalato attivita' sospette (successo il 23/10 sera):
+  avvisa subito Graziano. Deve aprire Instagram/Facebook e confermare email e telefono, poi tutto riparte senza
+  cambiare token. Mentre aspetti, mandagli i video e le descrizioni del giorno per programmarli a mano.
 - Non modificare caption, video o orari approvati da Graziano. Non pubblicare nulla fuori dalla coda,
   non cancellare post.
 - Se `publish.py --due` stampa ERRORE, riporta il messaggio esatto in una riga senza ritentare a mano.
