@@ -44,8 +44,10 @@ AI e futuro. Graziano scrive in italiano: rispondi in italiano, frasi brevi, un 
 
 ## YouTube (in prova)
 
-- Progetto Google Cloud "Next Human Publisher", YouTube Data API v3, client OAuth web, app in modalita' Test
-  (l'autorizzazione scade dopo 7 giorni finche' l'app non e' pubblicata: serve la pagina Branding con privacy e termini).
+- Progetto Google Cloud "Next Human Publisher", YouTube Data API v3, client OAuth web. App pubblicata
+  (In produzione, non verificata) il 23 ottobre: l'autorizzazione non scade dopo 7 giorni.
+- Pagine pubbliche (ramo `gh-pages`, GitHub Pages): https://grazianomoreschi.github.io/nexthuman-media/
+  con privacy.html e terms.html. Servono anche per l'app TikTok.
 - Chiavi come variabili dell'ambiente Default: `YT_CLIENT_ID`, `YT_CLIENT_SECRET`, `YT_REFRESH_TOKEN`. Mai stamparle.
 - `youtube.py`: test `python3 youtube.py --check`; video di prova privato `python3 youtube.py --test`.
 - Finche' Google non verifica il progetto, i video caricati via API restano privati: Graziano li rende pubblici.
