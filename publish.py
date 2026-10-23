@@ -92,6 +92,38 @@ def rebuild_media_branch(queue):
         git("worktree", "remove", "--force", tmp)
 
 
+def other_platforms(post):
+    """YouTube (privato finche' Google non verifica l'app) e TikTok (bozza nella inbox): un tentativo ciascuno."""
+    want_yt = post.get("youtube") and not post.get("youtube_id") and not post.get("youtube_error")
+    want_tt = post.get("tiktok") and not post.get("tiktok_status") and not post.get("tiktok_error")
+    if not (want_yt or want_tt):
+        return
+    path = f"/tmp/nh_{post['id']}.mp4"
+    data = subprocess.run(["git", "show", f"origin/media:{post['video']}"], capture_output=True).stdout
+    if not data:
+        subprocess.run(["git", "fetch", "-q", "origin", "media"], check=False)
+        data = subprocess.run(["git", "show", f"origin/media:{post['video']}"], capture_output=True).stdout
+    open(path, "wb").write(data)
+    if want_yt:
+        import youtube
+        try:
+            yt = post["youtube"]
+            post["youtube_id"] = youtube.upload(path, yt["title"], yt.get("description", post["caption"]))
+            print(f"YOUTUBE {post['id']}: https://youtube.com/shorts/{post['youtube_id']} (privato)")
+        except Exception as e:
+            post["youtube_error"] = str(e)[:400]
+            print(f"ERRORE YOUTUBE {post['id']}: {e}")
+    if want_tt:
+        import tiktok
+        try:
+            st = tiktok.upload_draft(path)
+            post["tiktok_status"] = st.get("status")
+            print(f"TIKTOK {post['id']}: {st.get('status')} (bozza nella inbox)")
+        except Exception as e:
+            post["tiktok_error"] = str(e)[:400]
+            print(f"ERRORE TIKTOK {post['id']}: {e}")
+
+
 def due():
     queue = json.load(open(QUEUE))
     now = datetime.now(timezone.utc)
@@ -118,6 +150,7 @@ def due():
             if p["attempts"] >= 2:
                 p["status"] = "error"
             print(f"ERRORE {p['id']}: {e}")
+        other_platforms(p)
         changed = True
     if changed:
         json.dump(queue, open(QUEUE, "w"), indent=1, ensure_ascii=False)

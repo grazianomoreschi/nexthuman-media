@@ -41,6 +41,9 @@ AI e futuro. Graziano scrive in italiano: rispondi in italiano, frasi brevi, un 
 - Ramo `media`: solo i video in attesa (il repository e' pubblico). Per aggiungere un video: commit sul ramo `media`
   e push; poi la voce in `queue.json` su `main`.
 - Comandi: test `python3 publish.py --check`; pubblicazione `python3 publish.py --due`.
+- Campi facoltativi per le altre piattaforme: `youtube` ({`title`, `description`}) carica lo Short (privato) e
+  `tiktok` (true) manda la bozza nella inbox. Un tentativo ciascuno; esiti in `youtube_id` / `tiktok_status`
+  oppure `youtube_error` / `tiktok_error`. Non bloccano Instagram.
 
 ## YouTube (in prova)
 
