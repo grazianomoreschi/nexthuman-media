@@ -93,6 +93,18 @@ AI e futuro. Graziano scrive in italiano: rispondi in italiano, frasi brevi, un 
 - `stats/notes.json`: la revisione di Claude (righe `{date, order, kind, text}`: order 1 = Sintesi, poi Funziona,
   Non funziona, 3 x Da cambiare). Graziano vuole una revisione ogni sera perche' i numeri non vanno bene.
 
+## Sistema di crescita (impara da solo)
+
+- Skill di progetto `.claude/skills/next-human-growth` (revisioni, controllo prima di ogni reel, idee).
+  Usala per OGNI revisione e PRIMA di scrivere qualsiasi nuovo reel (insieme alla skill next-human-reels):
+  le regole PROVEN e TESTING di `growth/playbook.md` vincono sulle abitudini della skill dei reel.
+- File vivi: `growth/playbook.md` (regole con stato ed evidenze), `growth/experiments.json`,
+  `growth/learnings.md`, `growth/catalog.json` (una riga per ogni episodio, da aggiungere a ogni render),
+  `growth/ideas.md` (banca idee).
+- Revisioni automatiche: 13:05 (meta' giornata) e 23:05 (fine giornata), attivita' "Next Human - revisione serale".
+- Esperimento aperto E1: formato v2 (20-25 s, frase e numero al primo fotogramma, niente intro, CTA "send this
+  to the friend who...") contro v1. I reel del 24/10 sono v1; dal 25/10 si producono in v2.
+
 ## Regole
 
 - Nessun segreto in questo repository o in chat. Il token non va cercato ne' stampato: lo aggiunge il proxy.

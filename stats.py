@@ -12,7 +12,7 @@ import publish as IG
 
 OUT = "stats"
 METRICS = ["views", "reach", "likes", "comments", "shares", "saved", "total_interactions", "ig_reels_avg_watch_time",
-           "ig_reels_video_view_total_time"]
+           "ig_reels_video_view_total_time", "reels_skip_rate"]
 CATALOG = "growth/catalog.json"  # attributi di ogni episodio (durata, hook, tema, formato, tag degli esperimenti)
 
 
@@ -43,6 +43,7 @@ def ig_reels():
                    comments=vals.get("comments"), shares=vals.get("shares"), saves=vals.get("saved"),
                    interactions=vals.get("total_interactions"),
                    avg_watch_s=round(vals["ig_reels_avg_watch_time"] / 1000, 1) if vals.get("ig_reels_avg_watch_time") else None,
+                   skip_rate_pct=vals.get("reels_skip_rate"),
                    total_watch_min=round(vals["ig_reels_video_view_total_time"] / 60000, 1) if vals.get("ig_reels_video_view_total_time") else None)
         row["caption"] = m.get("caption") or ""
         rows.append(row)
@@ -138,7 +139,7 @@ def main():
     with open(f"{OUT}/snapshots.jsonl", "a") as f:  # una riga per reel a ogni lettura: serve per la velocita'
         for r in reels + yt:
             f.write(json.dumps({"at": now.strftime("%Y-%m-%d %H:%M"), **{k: r.get(k) for k in (
-                "platform", "id", "episode", "views", "reach", "likes", "comments", "shares", "saves", "avg_watch_s")}}) + "\n")
+                "platform", "id", "episode", "views", "reach", "likes", "comments", "shares", "saves", "avg_watch_s", "skip_rate_pct")}}) + "\n")
     hist_path = f"{OUT}/history.json"
     hist = json.load(open(hist_path)) if os.path.exists(hist_path) else []
     snap = {"date": day, **acc, **chan,
@@ -152,7 +153,7 @@ def main():
     print("account:", json.dumps(snap, ensure_ascii=False))
     for r in sorted(reels, key=lambda r: r["posted"], reverse=True):
         print(f"IG {r['posted']} {r['episode']} views={r['views']} reach={r['reach']} likes={r['likes']} comm={r['comments']} "
-              f"shares={r['shares']} saves={r['saves']} watch={r['avg_watch_s']}s ({r.get('watch_pct')}% di {r.get('duration_s')}s) "
+              f"shares={r['shares']} saves={r['saves']} skip={r.get('skip_rate_pct')}% watch={r['avg_watch_s']}s ({r.get('watch_pct')}% di {r.get('duration_s')}s) "
               f"views/h={r.get('views_per_h')} | {r['title']}")
     print(f"commenti: {len(comments)}")
     for r in yt:

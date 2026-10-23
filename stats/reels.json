@@ -13,6 +13,7 @@
   "saves": 0,
   "interactions": 0,
   "avg_watch_s": 10.6,
+  "skip_rate_pct": 51.4,
   "total_watch_min": 19.3,
   "episode": "ep10_ozempic_en",
   "pillar": "body",
@@ -50,6 +51,7 @@
   "saves": 0,
   "interactions": 1,
   "avg_watch_s": 11.4,
+  "skip_rate_pct": 31.4,
   "total_watch_min": 23.2,
   "episode": "ep09_nosleep_en",
   "pillar": "body",
@@ -87,6 +89,7 @@
   "saves": 0,
   "interactions": 1,
   "avg_watch_s": 11.6,
+  "skip_rate_pct": 50,
   "total_watch_min": 23.2,
   "episode": "ep08_stroke_en",
   "pillar": "body",
@@ -124,6 +127,7 @@
   "saves": 0,
   "interactions": 1,
   "avg_watch_s": 12.5,
+  "skip_rate_pct": 37.5,
   "total_watch_min": 25.3,
   "episode": "ep07_quit_smoking_en",
   "pillar": "body",
@@ -144,8 +148,8 @@
   "comment_rate_pct": 0.0,
   "watch_pct": 28.5,
   "post_hour": 22,
-  "age_h": 14.8,
-  "views_per_h": 8.9
+  "age_h": 14.9,
+  "views_per_h": 8.8
  },
  {
   "platform": "YouTube",
