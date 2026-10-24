@@ -1,5 +1,13 @@
 # Learnings (newest first)
 
+## 2026-10-24 23:35 (addendum)
+- Only 2 of 11 reels left the first test (~130 views): Cold Plunge (skip 34%, watch 42%) and Space (skip 33%,
+  watch 38%). No Sleep had a low skip (32%) but watch 31% and stayed at 135. Hypothesis (IDEA): Instagram
+  widens a reel when BOTH skip is about 34% or lower AND watch is about 37% or higher. v2 (20-23 s) should
+  lift watch %; check on the 25/10 reels.
+- 25/10 runs the first 6 v2 reels (ep24-ep28, ep30), made for 26/10 and moved up one day; After You Die is
+  held in reserve.
+
 ## 2026-10-24 23:05 (end-of-day review)
 - Baseline (last 10 reels, 3 h+): skip 41.5%, watch 27.7% (11.4 s), 134 views, reach 120. Account: 3 followers.
 - Space (16:00, v1) left the first test: 1,306 views, reach 1,086, skip 32.8%, watch 37.5%, 17 likes, first
