@@ -69,4 +69,5 @@ Bacteria, ChatGPT Brain, Hep B Cure, Weed Panic, Immune Clock, Mars Heart, Memor
 ## Done (do not repeat without a new angle)
 Quit smoking, stroke, no sleep, Ozempic, 80-year-old cells, cold plunge, human vs robot, clock change,
 3,000 steps, taller in space, Lancet 2100 threats, strongest muscle, cotton swabs, cut healing, bone vs
-concrete, taller surgery, ice water 1-10-1, after you die (rendered, reserve).
+concrete, taller surgery, ice water 1-10-1, after you die, sleep paralysis, ice after gym, fluid brain, spit boil, back to earth,
+lost at sea (Poon Lim), coffee lie, sugar spike, pill trip, fat burn clock, death zone, breath hold, moon no suit.

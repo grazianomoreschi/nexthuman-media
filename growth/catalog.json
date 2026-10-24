@@ -730,5 +730,224 @@
    "real-case",
    "viral-topic:zack-37.5M"
   ]
+ },
+ {
+  "episode": "ep37_coffee_en",
+  "title": "COFFEE LIE",
+  "pillar": "body",
+  "topic": "caffeine",
+  "caption_match": "coffee doesn|energy",
+  "slot": "2026-10-27 02:00",
+  "duration_s": 19.8,
+  "segments": 6,
+  "hook": "YOUR COFFEE DOESN'T GIVE YOU *ENERGY*.",
+  "intro_segment": false,
+  "first_timer_at_s": 0.0,
+  "scenes": [
+   "receptor",
+   "sleepdesk"
+  ],
+  "booms": 3,
+  "bg_fx": "dots",
+  "music_mode": "dorian",
+  "format": "timer-explainer",
+  "tags": [
+   "v2",
+   "hook-hit",
+   "no-intro",
+   "no-voice",
+   "chiptune",
+   "len-20-25s",
+   "send-cta",
+   "myth",
+   "viral-topic:zack-19.2M"
+  ]
+ },
+ {
+  "episode": "ep38_sugar_en",
+  "title": "SUGAR SPIKE",
+  "pillar": "body",
+  "topic": "nutrition",
+  "caption_match": "donut|blood sugar",
+  "slot": "2026-10-27 06:00",
+  "duration_s": 21.6,
+  "segments": 7,
+  "hook": "EAT A DONUT. YOUR BLOOD SUGAR *SHOOTS UP*.",
+  "intro_segment": false,
+  "first_timer_at_s": 0.0,
+  "scenes": [
+   "glucose",
+   "gut"
+  ],
+  "booms": 3,
+  "bg_fx": "grid",
+  "music_mode": "major",
+  "format": "timer-explainer",
+  "tags": [
+   "v2",
+   "hook-hit",
+   "no-intro",
+   "no-voice",
+   "chiptune",
+   "len-20-25s",
+   "send-cta",
+   "inside-journey",
+   "viral-topic:healthroutine-29.1M"
+  ]
+ },
+ {
+  "episode": "ep39_pill_en",
+  "title": "PILL TRIP",
+  "pillar": "body",
+  "topic": "medicine",
+  "caption_match": "pill|trip",
+  "slot": "2026-10-27 10:00",
+  "duration_s": 20.0,
+  "segments": 6,
+  "hook": "SWALLOW A PILL. HERE'S ITS *TRIP*.",
+  "intro_segment": false,
+  "first_timer_at_s": 0.0,
+  "scenes": [
+   "pill"
+  ],
+  "booms": 3,
+  "bg_fx": "scan",
+  "music_mode": "dorian",
+  "format": "timer-explainer",
+  "tags": [
+   "v2",
+   "hook-hit",
+   "no-intro",
+   "no-voice",
+   "chiptune",
+   "len-20-25s",
+   "send-cta",
+   "inside-journey",
+   "viral-topic:medexplained-37M"
+  ]
+ },
+ {
+  "episode": "ep40_fatburn_en",
+  "title": "FAT BURN CLOCK",
+  "pillar": "body",
+  "topic": "fasting",
+  "caption_match": "burn fat|skip food",
+  "slot": "2026-10-27 13:00",
+  "duration_s": 19.8,
+  "segments": 6,
+  "hook": "SKIP FOOD. WHEN DOES YOUR BODY *BURN FAT*?",
+  "intro_segment": false,
+  "first_timer_at_s": 0.0,
+  "scenes": [
+   "fuel"
+  ],
+  "booms": 3,
+  "bg_fx": "dots",
+  "music_mode": "minor",
+  "format": "timer-explainer",
+  "tags": [
+   "v2",
+   "hook-hit",
+   "no-intro",
+   "no-voice",
+   "chiptune",
+   "len-20-25s",
+   "send-cta",
+   "timeline",
+   "viral-topic:howz-12.6M"
+  ]
+ },
+ {
+  "episode": "ep41_deathzone_en",
+  "title": "DEATH ZONE",
+  "pillar": "body",
+  "topic": "altitude",
+  "caption_match": "8,000|dying",
+  "slot": "2026-10-27 16:00",
+  "duration_s": 19.8,
+  "segments": 6,
+  "hook": "ABOVE 8,000 M, YOUR BODY IS SLOWLY *DYING*.",
+  "intro_segment": false,
+  "first_timer_at_s": 0.0,
+  "scenes": [
+   "mountain"
+  ],
+  "booms": 3,
+  "bg_fx": "stars",
+  "music_mode": "phrygian",
+  "format": "timer-explainer",
+  "tags": [
+   "v2",
+   "hook-hit",
+   "no-intro",
+   "no-voice",
+   "chiptune",
+   "len-20-25s",
+   "send-cta",
+   "extreme-environment",
+   "idea-bank-11"
+  ]
+ },
+ {
+  "episode": "ep42_breath_en",
+  "title": "BREATH HOLD",
+  "pillar": "body",
+  "topic": "breathing",
+  "caption_match": "urge to breathe",
+  "slot": "2026-10-27 19:00",
+  "duration_s": 20.0,
+  "segments": 6,
+  "hook": "YOUR URGE TO BREATHE ISN'T ABOUT *OXYGEN*.",
+  "intro_segment": false,
+  "first_timer_at_s": 0.0,
+  "scenes": [
+   "breath"
+  ],
+  "booms": 3,
+  "bg_fx": "bubbles",
+  "music_mode": "minor",
+  "format": "timer-explainer",
+  "tags": [
+   "v2",
+   "hook-hit",
+   "no-intro",
+   "no-voice",
+   "chiptune",
+   "len-20-25s",
+   "send-cta",
+   "myth",
+   "idea-bank-1"
+  ]
+ },
+ {
+  "episode": "ep43_moon_en",
+  "title": "MOON, NO SUIT",
+  "pillar": "future",
+  "topic": "space",
+  "caption_match": "moon|explode",
+  "slot": "2026-10-27 22:00",
+  "duration_s": 19.6,
+  "segments": 6,
+  "hook": "ON THE MOON WITHOUT A SUIT, YOU WOULDN'T *EXPLODE*.",
+  "intro_segment": false,
+  "first_timer_at_s": 0.0,
+  "scenes": [
+   "moon"
+  ],
+  "booms": 3,
+  "bg_fx": "stars",
+  "music_mode": "lydian",
+  "format": "timer-explainer",
+  "tags": [
+   "v2",
+   "hook-hit",
+   "no-intro",
+   "no-voice",
+   "chiptune",
+   "len-20-25s",
+   "send-cta",
+   "extreme-environment",
+   "viral-topic:andyy-17.9M"
+  ]
  }
 ]
