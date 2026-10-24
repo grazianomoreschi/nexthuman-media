@@ -6,7 +6,7 @@ AI e futuro. Graziano scrive in italiano: rispondi in italiano, frasi brevi, un 
 ## Stato al 23 ottobre 2026 (passaggio dalla chat Claude a Claude Code)
 
 - Produzione video: skill `next-human-reels` (account skill). Il motore si ripristina dall'artifact privato
-  https://claude.ai/artifact/DYZZU4dt455uYpDVFSNhUp (file `nh_engine_v5.txt`: formato v2 con `hook_hit` e `state0`; scene nuove icesea, leg, wound, muscle, ear, press, hand), come spiega la skill.
+  https://claude.ai/artifact/DYZZU4dt455uYpDVFSNhUp (file `nh_engine_v6.txt`: formato v2 con `hook_hit`, `state0` e `thermo`; 20 scene nuove dal 24 al 25 ottobre, episodi ep24-ep43), come spiega la skill.
 - Reel gia' fatti e programmati a mano per il 23 ottobre: Stroke 02:00, No Sleep 06:00, Ozempic 10:00,
   80 Years Old 16:00, Cold Plunge 22:00 (episodi ep08-ep12 nel bundle del motore).
 - Piano di lavoro con checklist (Claude Docs): https://claude.ai/artifact/5cMdwqk8KsZbgiYJxJT63x
