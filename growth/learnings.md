@@ -1,5 +1,13 @@
 # Learnings (newest first)
 
+## 2026-10-24 13:05 (mid-day review)
+- Baseline (last 10 reels): skip 42.6%, watch 26.9% (11.3 s), 132 views, reach 118. Account: 2 followers.
+- Today's 3 v1 reels (Robot, Clock Shift, Steps): 121-129 views, none left the first test; Cold Plunge stalled
+  (1,400 -> 1,458 in 12 h). Still 0 shares on 9 reels; first 2 saves and 3 comments came today.
+- Robot (real-person hook) skip 39.8%; Steps 42.6%; Clock Shift 50.4%, watch 21.7%: "your clock" is not a
+  physical situation, consistent with rule 2 (stays PROVEN, no status change).
+- E1: still no v2 reel published; v1 control now 11 episodes. No rule changed status.
+
 ## 2026-10-24 01:15 (review after the API block)
 - Instagram API was blocked 23/10 ~21:00-01:10 ("API access blocked", code 200): Meta flagged suspicious
   activity; fixed when Graziano confirmed email and phone. The 23:05 review was lost.

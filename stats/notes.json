@@ -1,8 +1,74 @@
 [
- {"date": "2026-10-23", "order": 1, "kind": "Sintesi", "text": "Aggiornamento di meta' giornata (ore 12). 4 reel su Instagram, 522 visualizzazioni totali (519 oggi), reach 454, secondi medi di visione 10.7-11.6 oggi (12.5 il reel di ieri sera). Interazioni: 3 like, 0 commenti, 0 condivisioni, 0 salvataggi. Follower: 1. Ieri non c'e' storico (primo giorno di dati): confronto possibile solo col reel di ieri 22:14 (131 views, 12.5s)."},
- {"date": "2026-10-23", "order": 2, "kind": "Funziona", "text": "Stroke delle 02:00: 139 views e 117 reach, il piu' visto; il reel di ieri sera (sigarette) ha la visione media piu' alta, 12.5s. Ogni reel raggiunge oltre 100 persone con 1 follower: la distribuzione iniziale c'e'."},
- {"date": "2026-10-23", "order": 3, "kind": "Non funziona", "text": "Ozempic 10:00 e' il piu' debole finora: 120 views, 0 like, 10.7s di visione. Zero commenti, condivisioni e salvataggi su tutti e 4; la visione media scende da 12.5s a 10.7s nei 4 reel in ordine di orario. YouTube: 0 views (video ancora privati)."},
- {"date": "2026-10-23", "order": 4, "kind": "Da cambiare", "text": "1. Durata: provare reel da 20-25 secondi; con 10-12s di visione media su video piu' lunghi, un reel corto viene visto in percentuale molto maggiore."},
- {"date": "2026-10-23", "order": 5, "kind": "Da cambiare", "text": "2. Primi 2 secondi: partire dal numero piu' forte (es. 15% del peso, 1.9 milioni di neuroni) gia' sullo schermo, senza intro."},
- {"date": "2026-10-23", "order": 6, "kind": "Da cambiare", "text": "3. CTA: 0 commenti e 0 salvataggi su 4 reel. Chiudere con una domanda precisa o 'salvalo' e confrontare i prossimi reel delle 13:00-16:00 con quelli notturni (02:00 e 06:00 hanno dato 139 e 132 views, gli orari di giorno vanno ancora misurati)."}
+ {
+  "date": "2026-10-23",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Aggiornamento di meta' giornata (ore 12). 4 reel su Instagram, 522 visualizzazioni totali (519 oggi), reach 454, secondi medi di visione 10.7-11.6 oggi (12.5 il reel di ieri sera). Interazioni: 3 like, 0 commenti, 0 condivisioni, 0 salvataggi. Follower: 1. Ieri non c'e' storico (primo giorno di dati): confronto possibile solo col reel di ieri 22:14 (131 views, 12.5s)."
+ },
+ {
+  "date": "2026-10-23",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Stroke delle 02:00: 139 views e 117 reach, il piu' visto; il reel di ieri sera (sigarette) ha la visione media piu' alta, 12.5s. Ogni reel raggiunge oltre 100 persone con 1 follower: la distribuzione iniziale c'e'."
+ },
+ {
+  "date": "2026-10-23",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Ozempic 10:00 e' il piu' debole finora: 120 views, 0 like, 10.7s di visione. Zero commenti, condivisioni e salvataggi su tutti e 4; la visione media scende da 12.5s a 10.7s nei 4 reel in ordine di orario. YouTube: 0 views (video ancora privati)."
+ },
+ {
+  "date": "2026-10-23",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Durata: provare reel da 20-25 secondi; con 10-12s di visione media su video piu' lunghi, un reel corto viene visto in percentuale molto maggiore."
+ },
+ {
+  "date": "2026-10-23",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. Primi 2 secondi: partire dal numero piu' forte (es. 15% del peso, 1.9 milioni di neuroni) gia' sullo schermo, senza intro."
+ },
+ {
+  "date": "2026-10-23",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. CTA: 0 commenti e 0 salvataggi su 4 reel. Chiudere con una domanda precisa o 'salvalo' e confrontare i prossimi reel delle 13:00-16:00 con quelli notturni (02:00 e 06:00 hanno dato 139 e 132 views, gli orari di giorno vanno ancora misurati)."
+ },
+ {
+  "date": "2026-10-24",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Meta' giornata (13:05). 9 reel su Instagram, 2.509 views totali, follower 2, reach del giorno 1.714. I 3 reel di oggi (v1) hanno 121-129 views e 107-111 reach, 0 condivisioni, 2 salvataggi, 3 commenti. Baseline (ultimi 10 reel): skip 42,6%, visione 26,9% (11,3 s), 132 views. Cold Plunge si e' fermato: 1.400 -> 1.458 views in 12 ore. YouTube: 2 views in tutto."
+ },
+ {
+  "date": "2026-10-24",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Robot delle 02:00 (\"A man stepped into a cage...\"): skip 39,8% contro 42,6% di baseline, il migliore di oggi; un caso reale come gancio regge. Steps delle 10:00 cresce piu' degli altri (41 views/h all'inizio) e ha il primo salvataggio e il primo commento. Primi commenti e salvataggi dell'account (3 e 2): i reel di oggi sono i primi a ricevere qualcosa oltre ai like."
+ },
+ {
+  "date": "2026-10-24",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Clock Shift delle 06:00: skip 50,4% (baseline 42,6%), visione 21,7% (8,5 s): gancio fallito, \"your clock\" non e' una situazione fisica. Nessun reel di oggi ripete Cold Plunge: ogni reel si ferma a ~120-130 views (test iniziale), nessuno passa al secondo giro. Condivisioni: 0 su 9 reel."
+ },
+ {
+  "date": "2026-10-24",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Primo fotogramma: tutti i reel v1 hanno ancora 4 s di intro prima del timer (skip 40-50% oggi). Dal 25/10 i v2 partono con il corpo in azione e il numero gia' al fotogramma 1: serve a questo."
+ },
+ {
+  "date": "2026-10-24",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. Gancio: usare \"tuo corpo\" + una situazione che si sente (ghiaccio, ora 17 sveglio), come Cold Plunge (skip 33,9%). Evitare orologi, grafici, cellule come primo oggetto (Clock Shift 50,4%, 80 Years 59,7%)."
+ },
+ {
+  "date": "2026-10-24",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. Condivisioni a 0 su 9 reel: mettere il fatto da mandare entro il secondo 10 e chiudere con \"send this to the friend who...\" (v2). Dopo 3 reel v2 si confronta con i v1."
+ }
 ]

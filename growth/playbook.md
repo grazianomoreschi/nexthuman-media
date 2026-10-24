@@ -59,7 +59,7 @@ of 36-44 s (avg 11-12 s), ~0 shares/saves/comments, 120-139 views each.
 19. IDEA. Trending audio on TikTok (added in-app by Graziano) and on a few Instagram reels, to compare.
 
 ## From competitor research (2026-10-23)
-21. IDEA. A real person or real case as the hook ("A man held in a sneeze...") - strongest pattern in the
+21. IDEA (first data 2026-10-24: Robot, "A man stepped into a cage", skip 39.8% vs baseline 42.6%, n=1). A real person or real case as the hook ("A man held in a sneeze...") - strongest pattern in the
     niche (Zack D. Films, Karan Rajan).
 22. IDEA. Test an AI voiceover on 2-3 reels: almost every top channel in the niche uses a narrator.
     2026-10-23: Graziano says not for now; no voiceover. Ask again only if text-only retention stays low.
