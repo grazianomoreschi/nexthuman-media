@@ -481,7 +481,7 @@
   "pillar": "body",
   "topic": "death",
   "caption_match": "after you die|nails",
-  "slot": "reserve",
+  "slot": "2026-10-26 19:00",
   "duration_s": 20.4,
   "segments": 6,
   "hook": "YOUR NAILS DON'T KEEP GROWING AFTER YOU *DIE*.",
@@ -538,6 +538,197 @@
    "hook-your-situation",
    "survival",
    "viral-topic:own-coldplunge"
+  ]
+ },
+ {
+  "episode": "ep31_sleepparalysis_en",
+  "title": "FROZEN AWAKE",
+  "pillar": "body",
+  "topic": "sleep",
+  "caption_match": "sleep paralysis|body doesn",
+  "slot": "2026-10-26 02:00",
+  "duration_s": 20.2,
+  "segments": 6,
+  "hook": "YOU WAKE UP. YOUR BODY *DOESN'T*.",
+  "intro_segment": false,
+  "first_timer_at_s": 0.0,
+  "scenes": [
+   "bed"
+  ],
+  "booms": 3,
+  "bg_fx": "stars",
+  "music_mode": "phrygian",
+  "format": "timer-explainer",
+  "tags": [
+   "v2",
+   "hook-hit",
+   "no-intro",
+   "no-voice",
+   "chiptune",
+   "len-20-25s",
+   "send-cta",
+   "you-situation",
+   "viral-topic:lowpoly-16.9M"
+  ]
+ },
+ {
+  "episode": "ep32_icegym_en",
+  "title": "ICE AFTER GYM",
+  "pillar": "body",
+  "topic": "cold",
+  "caption_match": "ice bath|gains",
+  "slot": "2026-10-26 06:00",
+  "duration_s": 20.2,
+  "segments": 6,
+  "hook": "AN ICE BATH AFTER THE GYM CAN *SLOW* YOUR GAINS.",
+  "intro_segment": false,
+  "first_timer_at_s": 0.0,
+  "scenes": [
+   "bars",
+   "muscle",
+   "plunge"
+  ],
+  "booms": 2,
+  "bg_fx": "grid",
+  "music_mode": "dorian",
+  "format": "timer-explainer",
+  "tags": [
+   "v2",
+   "hook-hit",
+   "no-intro",
+   "no-voice",
+   "chiptune",
+   "len-20-25s",
+   "send-cta",
+   "study",
+   "viral-topic:howz-12.3M"
+  ]
+ },
+ {
+  "episode": "ep33_nobrain_en",
+  "title": "FLUID BRAIN",
+  "pillar": "body",
+  "topic": "brain",
+  "caption_match": "mostly fluid|skull",
+  "slot": "2026-10-26 10:00",
+  "duration_s": 20.4,
+  "segments": 6,
+  "hook": "YOUR BRAIN FILLS YOUR SKULL. HIS WAS MOSTLY *FLUID*.",
+  "intro_segment": false,
+  "first_timer_at_s": 0.0,
+  "scenes": [
+   "brain",
+   "skull",
+   "walk"
+  ],
+  "booms": 3,
+  "bg_fx": "scan",
+  "music_mode": "lydian",
+  "format": "timer-explainer",
+  "tags": [
+   "v2",
+   "hook-hit",
+   "no-intro",
+   "no-voice",
+   "chiptune",
+   "len-20-25s",
+   "send-cta",
+   "real-case",
+   "viral-topic:factoholic-66.5M"
+  ]
+ },
+ {
+  "episode": "ep34_spitboil_en",
+  "title": "SPIT BOIL",
+  "pillar": "future",
+  "topic": "space",
+  "caption_match": "spit|vacuum",
+  "slot": "2026-10-26 13:00",
+  "duration_s": 20.0,
+  "segments": 6,
+  "hook": "IN A VACUUM, THE SPIT ON YOUR TONGUE *BOILS*.",
+  "intro_segment": false,
+  "first_timer_at_s": 0.0,
+  "scenes": [
+   "chamber"
+  ],
+  "booms": 3,
+  "bg_fx": "grid",
+  "music_mode": "minor",
+  "format": "timer-explainer",
+  "tags": [
+   "v2",
+   "hook-hit",
+   "no-intro",
+   "no-voice",
+   "chiptune",
+   "len-20-25s",
+   "send-cta",
+   "real-case",
+   "viral-topic:pasttheblue-1.4M"
+  ]
+ },
+ {
+  "episode": "ep35_backfromspace_en",
+  "title": "BACK TO EARTH",
+  "pillar": "future",
+  "topic": "space",
+  "caption_match": "walk straight|6 months in space",
+  "slot": "2026-10-26 16:00",
+  "duration_s": 20.0,
+  "segments": 6,
+  "hook": "6 MONTHS IN SPACE. NOW YOU *CAN'T WALK* STRAIGHT.",
+  "intro_segment": false,
+  "first_timer_at_s": 0.0,
+  "scenes": [
+   "landing",
+   "space"
+  ],
+  "booms": 3,
+  "bg_fx": "stars",
+  "music_mode": "lydian",
+  "format": "timer-explainer",
+  "tags": [
+   "v2",
+   "hook-hit",
+   "no-intro",
+   "no-voice",
+   "chiptune",
+   "len-20-25s",
+   "send-cta",
+   "extreme-environment",
+   "viral-topic:universia-18.5M"
+  ]
+ },
+ {
+  "episode": "ep36_raft_en",
+  "title": "LOST AT SEA",
+  "pillar": "body",
+  "topic": "survival",
+  "caption_match": "133|lost at sea",
+  "slot": "2026-10-26 22:00",
+  "duration_s": 20.0,
+  "segments": 6,
+  "hook": "LOST AT SEA, YOU'D LAST DAYS. HE LASTED *133*.",
+  "intro_segment": false,
+  "first_timer_at_s": 0.0,
+  "scenes": [
+   "raft"
+  ],
+  "booms": 3,
+  "bg_fx": "dots",
+  "music_mode": "minor",
+  "format": "timer-explainer",
+  "tags": [
+   "v2",
+   "hook-hit",
+   "no-intro",
+   "no-voice",
+   "chiptune",
+   "len-20-25s",
+   "send-cta",
+   "real-case",
+   "viral-topic:zack-37.5M"
   ]
  }
 ]
