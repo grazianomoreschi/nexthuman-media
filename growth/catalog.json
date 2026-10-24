@@ -313,5 +313,231 @@
    "chiptune",
    "len-35-45s"
   ]
+ },
+ {
+  "episode": "ep24_muscle_en",
+  "title": "MUSCLE MYTH",
+  "pillar": "body",
+  "topic": "muscle",
+  "caption_match": "strongest muscle|biceps",
+  "slot": "2026-10-26 02:00",
+  "duration_s": 23.4,
+  "segments": 7,
+  "hook": "YOUR STRONGEST MUSCLE ISN'T YOUR *BICEPS*.",
+  "intro_segment": false,
+  "first_timer_at_s": 0.0,
+  "scenes": [
+   "heart",
+   "muscle"
+  ],
+  "booms": 3,
+  "bg_fx": "grid",
+  "music_mode": "dorian",
+  "format": "timer-explainer",
+  "tags": [
+   "v2",
+   "hook-hit",
+   "no-intro",
+   "no-voice",
+   "chiptune",
+   "len-20-25s",
+   "send-cta",
+   "hook-your-situation",
+   "myth",
+   "viral-topic:zack-75M"
+  ]
+ },
+ {
+  "episode": "ep25_swabs_en",
+  "title": "COTTON SWABS",
+  "pillar": "body",
+  "topic": "ears",
+  "caption_match": "cotton swab",
+  "slot": "2026-10-26 06:00",
+  "duration_s": 21.0,
+  "segments": 6,
+  "hook": "STOP PUTTING COTTON SWABS IN YOUR *EARS*.",
+  "intro_segment": false,
+  "first_timer_at_s": 0.0,
+  "scenes": [
+   "ear"
+  ],
+  "booms": 2,
+  "bg_fx": "dots",
+  "music_mode": "minor",
+  "format": "timer-explainer",
+  "tags": [
+   "v2",
+   "hook-hit",
+   "no-intro",
+   "no-voice",
+   "chiptune",
+   "len-20-25s",
+   "send-cta",
+   "hook-your-situation",
+   "practical",
+   "viral-topic:zack-77M"
+  ]
+ },
+ {
+  "episode": "ep26_cut_en",
+  "title": "A CUT HEALS",
+  "pillar": "body",
+  "topic": "skin",
+  "caption_match": "cut heals|80%",
+  "slot": "2026-10-26 10:00",
+  "duration_s": 20.0,
+  "segments": 6,
+  "hook": "YOUR CUT HEALS. BUT ONLY TO ABOUT *80%*.",
+  "intro_segment": false,
+  "first_timer_at_s": 0.0,
+  "scenes": [
+   "wound"
+  ],
+  "booms": 3,
+  "bg_fx": "bubbles",
+  "music_mode": "minor",
+  "format": "timer-explainer",
+  "tags": [
+   "v2",
+   "hook-hit",
+   "no-intro",
+   "no-voice",
+   "chiptune",
+   "len-20-25s",
+   "send-cta",
+   "hook-your-situation",
+   "timeline",
+   "viral-topic:zack-255M"
+  ]
+ },
+ {
+  "episode": "ep27_bones_en",
+  "title": "BONE STRENGTH",
+  "pillar": "body",
+  "topic": "bones",
+  "caption_match": "stronger than concrete",
+  "slot": "2026-10-26 13:00",
+  "duration_s": 20.6,
+  "segments": 6,
+  "hook": "YOUR BONES ARE STRONGER THAN *CONCRETE*.",
+  "intro_segment": false,
+  "first_timer_at_s": 0.0,
+  "scenes": [
+   "press"
+  ],
+  "booms": 3,
+  "bg_fx": "scan",
+  "music_mode": "phrygian",
+  "format": "timer-explainer",
+  "tags": [
+   "v2",
+   "hook-hit",
+   "no-intro",
+   "no-voice",
+   "chiptune",
+   "len-20-25s",
+   "send-cta",
+   "hook-your-situation",
+   "giant-number",
+   "viral-topic:zack-88M"
+  ]
+ },
+ {
+  "episode": "ep28_taller_en",
+  "title": "TALLER SURGERY",
+  "pillar": "body",
+  "topic": "surgery",
+  "caption_match": "taller",
+  "slot": "2026-10-26 16:00",
+  "duration_s": 20.6,
+  "segments": 6,
+  "hook": "DOCTORS CAN BREAK YOUR LEGS TO MAKE YOU *TALLER*.",
+  "intro_segment": false,
+  "first_timer_at_s": 0.0,
+  "scenes": [
+   "leg"
+  ],
+  "booms": 3,
+  "bg_fx": "grid",
+  "music_mode": "lydian",
+  "format": "timer-explainer",
+  "tags": [
+   "v2",
+   "hook-hit",
+   "no-intro",
+   "no-voice",
+   "chiptune",
+   "len-20-25s",
+   "send-cta",
+   "hook-your-situation",
+   "body-horror-lite",
+   "viral-topic:zack-62M"
+  ]
+ },
+ {
+  "episode": "ep29_afterdeath_en",
+  "title": "AFTER YOU DIE",
+  "pillar": "body",
+  "topic": "death",
+  "caption_match": "after you die|nails",
+  "slot": "2026-10-26 19:00",
+  "duration_s": 20.4,
+  "segments": 6,
+  "hook": "YOUR NAILS DON'T KEEP GROWING AFTER YOU *DIE*.",
+  "intro_segment": false,
+  "first_timer_at_s": 0.0,
+  "scenes": [
+   "hand"
+  ],
+  "booms": 3,
+  "bg_fx": "stars",
+  "music_mode": "phrygian",
+  "format": "timer-explainer",
+  "tags": [
+   "v2",
+   "hook-hit",
+   "no-intro",
+   "no-voice",
+   "chiptune",
+   "len-20-25s",
+   "send-cta",
+   "hook-your-situation",
+   "myth",
+   "viral-topic:infographics-27M"
+  ]
+ },
+ {
+  "episode": "ep30_icewater_en",
+  "title": "ICE WATER",
+  "pillar": "body",
+  "topic": "cold",
+  "caption_match": "ice water|1-10-1",
+  "slot": "2026-10-26 22:00",
+  "duration_s": 22.8,
+  "segments": 7,
+  "hook": "YOU FALL INTO ICE WATER. THE FIRST *MINUTE* DECIDES.",
+  "intro_segment": false,
+  "first_timer_at_s": 0.0,
+  "scenes": [
+   "icesea",
+   "lungs"
+  ],
+  "booms": 3,
+  "bg_fx": "stars",
+  "music_mode": "phrygian",
+  "format": "timer-explainer",
+  "tags": [
+   "v2",
+   "hook-hit",
+   "no-intro",
+   "no-voice",
+   "chiptune",
+   "len-20-25s",
+   "send-cta",
+   "hook-your-situation",
+   "survival",
+   "viral-topic:own-coldplunge"
+  ]
  }
 ]

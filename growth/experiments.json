@@ -25,7 +25,15 @@
    },
    "v2": {
     "desc": "20-25 s, body in action + claim + number on screen at frame 1 with punch-in and boom, no intro and no brain opener, fact worth sending by second 10, re-hook at ~45%, named-persona send CTA",
-    "episodes": []
+    "episodes": [
+     "ep24_muscle_en",
+     "ep25_swabs_en",
+     "ep26_cut_en",
+     "ep27_bones_en",
+     "ep28_taller_en",
+     "ep29_afterdeath_en",
+     "ep30_icewater_en"
+    ]
    }
   },
   "decides_on": [
