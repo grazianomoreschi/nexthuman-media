@@ -8,6 +8,18 @@ Each idea: title | hook (true) | timer | rule/pattern it uses | facts to check. 
 - "FUTURE BODY" (AI and future medicine): ideas 20, 21, 22.
 - "YOUR BODY AFTER..." (timeline series): ideas 2, 3, 18, 19.
 
+## From proven viral topics (YouTube API, 2026-10-24) - our angle, our facts, timer format
+26. Ice Water 1-10-1 | "Fall into ice water. You have 1 minute." | 0 -> 60 min | our Cold Plunge + survival | Giesbrecht 1-10-1 rule (cold shock 1 min, ~10 min useful movement, ~1 h to hypothermic unconsciousness)
+27. Taller Surgery | "Doctors break both legs to make people taller." | day 0 -> ~day 90 | Zack 62M, body horror lite | limb lengthening ~1 mm/day; say "up to about 8 cm"
+28. Cut Healing | "Cut your finger. Your body closes it in 4 stages." | 0 s -> ~3 weeks | Zack 255M (stitches) | hemostasis, inflammation, proliferation, remodeling
+29. Strongest Muscle | "Your strongest muscle isn't your biceps." | per measure | Zack 75M, myth twist | depends on the measure: jaw (masseter) for force, heart for work, glutes for size
+30. Cotton Swabs | "Stop putting cotton swabs in your ears." | 0 -> weeks | Zack 77M, practical, send-worthy | ears self-clean; swabs push wax in (AAO-HNS guideline)
+31. Bones vs Concrete | "Your bones are stronger than concrete." | 0 -> breaking load | Zack 88M, giant number | compressive strength bone ~170 MPa vs common concrete ~20-40 MPa
+32. After You Die | "Your nails don't keep growing after you die." | 0 min -> 72 h | Infographics 27M, myth | skin retracts; rigor mortis onset ~2-6 h; non-gory
+33. Neuralink | "A chip let a paralyzed man move a cursor with his mind." | day 0 -> 100 | Zack 42M, AI pillar | Noland Arbaugh 2024
+34. Fall Asleep in 2 Min | "Navy pilots were trained to fall asleep in 2 minutes." | 0 -> 120 s | AsapSCIENCE 32M, saveable | technique from "Relax and Win" (1981); success claims not rigorous: say "they claimed"
+35. Blood Vessels | "Your blood vessels could circle Earth twice." | count up km | Zack 157M, giant number | classic ~100,000 km estimate is disputed; must say "the classic estimate"
+
 ## Ideas (from research 2026-10-23)
 1. Hold Your Breath | "Your urge to breathe is driven by CO2, not oxygen." | 0 s -> 180 s | 1, 5 | record ~24 min after pure oxygen (Sobat 2021)
 2. No Water 3 Days | "Most people survive only days without water." | 0 h -> 72 h | 1, 5 | say "days", not one number

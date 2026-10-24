@@ -32,3 +32,19 @@ No Italian 3D or pixel-art body channel at scale was found: open niche.
 
 Key difference: almost all of them use a voiceover. Without voice, our on-screen text must do the narrator's
 job: huge type, 3-6 words per beat, a new beat every 2-3 s, first line on screen at 0 s.
+
+## Top videos by views (YouTube Data API, 2026-10-24)
+Zack D. Films (29.3M subs), all 24-46 s: How Stitches Work 255M; How Long Are Your Blood Vessels? 157M;
+Bone Grafting Explained 123M; What Is The Purpose Of Your Uvula? 114M; How Strong Are Human Bones? 88M;
+How To Properly Remove Ear Wax 77M; The Strongest Muscle In Your Body (not what you think) 75M; How
+Blackhead Extraction Works 70M; What Is A Root Canal? 66M; Could Humans Huddle For Warmth Like Penguins? 63M;
+The Surgery To Become Taller 62M; How To Become A Mummy 49M; How Cremation Works 45M; How Neuralink Works 42M;
+Could You Survive Without Bones? 38M; Why You Snore 35M.
+The Infographics Show: What Happens When You Die? 27M; Most Painful Things A Human Can Experience 8M.
+AsapSCIENCE: How To Fall Asleep In 2 Minutes 32M; This Is 200 Calories 27M; What Happens When You Stop
+Smoking? 23M; How Old Are Your Ears? (test) 24M.
+What If: What If Earth Was Shaped Like a Donut? 51M (15 s); Top 10 Events That Could End the World 11M.
+Patterns in the numbers: (a) a body part or procedure everyone has or fears + "how/why" (stitches, uvula,
+ear wax, root canal); (b) a giant number about your body (blood vessels, bone strength); (c) myth twist in
+the title ("not what you think"); (d) survival hypotheticals (penguin huddle, no bones); (e) titles are
+questions or "how X works", 3-7 words; (f) length 24-46 s, but with a voiceover.
