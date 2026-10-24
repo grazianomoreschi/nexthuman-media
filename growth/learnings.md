@@ -1,5 +1,15 @@
 # Learnings (newest first)
 
+## 2026-10-24 23:05 (end-of-day review)
+- Baseline (last 10 reels, 3 h+): skip 41.5%, watch 27.7% (11.4 s), 134 views, reach 120. Account: 3 followers.
+- Space (16:00, v1) left the first test: 1,306 views, reach 1,086, skip 32.8%, watch 37.5%, 17 likes, first
+  share. Second reel after Cold Plunge to do so; both open on a concrete, surprising body fact.
+- Clock Shift skip 50.9%, watch 21.4% and Steps 43.1% stayed at ~130 views; Robot 39.8%, Cold Plunge frozen at 1,461.
+- Totals on 11 reels: 1 share, 2 saves, 5 comments. Reels with 1,000+ views still bring almost no sends: the
+  payoff to send arrives late (rule 6), not fixed yet in v1 reels.
+- AI Extinction (22:00) only 1 h old: 96 views, skip 15.5%, too early to judge.
+- E1: no v2 reel published yet (first on 25/10); no rule changed status.
+
 ## 2026-10-24 13:05 (mid-day review)
 - Baseline (last 10 reels): skip 42.6%, watch 26.9% (11.3 s), 132 views, reach 118. Account: 2 followers.
 - Today's 3 v1 reels (Robot, Clock Shift, Steps): 121-129 views, none left the first test; Cold Plunge stalled

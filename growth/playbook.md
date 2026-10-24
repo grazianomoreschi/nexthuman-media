@@ -15,7 +15,10 @@ of 36-44 s (avg 11-12 s), ~0 shares/saves/comments, 120-139 views each.
    last cigarette). Never "this/these" + an abstract object (cells, a shot, "your brain right now").
    Evidence: you-situation hooks skip 32% / 33% / 38% (No Sleep, Cold Plunge, Quit Smoking), abstract hooks
    50% / 51% / 59% (Stroke, Ozempic, 80 Years Old). Median 33% vs 51%, n=3+3, all v1 format. Cold Plunge
-   (best hook) is the only reel that left the first test: 1,400 views vs median 136.
+   (best hook) left the first test: 1,400 views vs median 136. 2026-10-24 22:00 check: Space ("Astronauts come back
+   from space taller", concrete surprising body fact, v1) also left the test: 1,306 views, skip 32.8%, watch 37.5%;
+   Clock Shift ("your clock", not a physical situation) skip 50.9%. Rule stands; the working pattern is a concrete,
+   felt or surprising body fact, not "your" alone.
 2b. TESTING (2026-10-24). Frame 1 is a body IN ACTION (falling into ice, holding breath, climbing), not a lab
    object (cell, dish, chart, pen) and not the generic brain opener. Evidence: Cold Plunge (plunge, sea) and
    No Sleep (drunk) vs 80 Years Old (cell, dish, tube) and Ozempic (chart, pen).

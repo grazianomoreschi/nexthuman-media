@@ -39,36 +39,36 @@
   "date": "2026-10-24",
   "order": 1,
   "kind": "Sintesi",
-  "text": "Meta' giornata (13:05). 9 reel su Instagram, 2.509 views totali, follower 2, reach del giorno 1.714. I 3 reel di oggi (v1) hanno 121-129 views e 107-111 reach, 0 condivisioni, 2 salvataggi, 3 commenti. Baseline (ultimi 10 reel): skip 42,6%, visione 26,9% (11,3 s), 132 views. Cold Plunge si e' fermato: 1.400 -> 1.458 views in 12 ore. YouTube: 2 views in tutto."
+  "text": "Fine giornata (23:05). 5 reel di oggi: 1.782 views, la reach del giorno e' 2.807, follower 3 (ieri 1). Baseline ultimi 10 reel: skip 41,5%, visione 27,7% (11,4 s), 134 views. Space delle 16:00 e' uscito dal primo test: 1.306 views, reach 1.086, skip 32,8%, visione 37,5% (14,7 s), 17 like, la prima condivisione. Gli altri 3 reel di oggi (Robot, Clock Shift, Steps) fermi a 121-130 views. AI Extinction (22:00) ha solo 1 ora di vita: 96 views, skip 15,5%, ancora presto. Totale: 5 commenti, 2 salvataggi, 1 condivisione su 11 reel."
  },
  {
   "date": "2026-10-24",
   "order": 2,
   "kind": "Funziona",
-  "text": "Robot delle 02:00 (\"A man stepped into a cage...\"): skip 39,8% contro 42,6% di baseline, il migliore di oggi; un caso reale come gancio regge. Steps delle 10:00 cresce piu' degli altri (41 views/h all'inizio) e ha il primo salvataggio e il primo commento. Primi commenti e salvataggi dell'account (3 e 2): i reel di oggi sono i primi a ricevere qualcosa oltre ai like."
+  "text": "Space: 'Astronauts come back taller' ha dato skip 32,8% contro 41,5%, e visione 37,5% contro 27,7%. Un fatto concreto e sorprendente sul corpo regge come il 'tuo corpo in una situazione'. Cold Plunge resta il miglior reel (41,7% di visione). Robot (persona vera): skip 39,8%, in linea."
  },
  {
   "date": "2026-10-24",
   "order": 3,
   "kind": "Non funziona",
-  "text": "Clock Shift delle 06:00: skip 50,4% (baseline 42,6%), visione 21,7% (8,5 s): gancio fallito, \"your clock\" non e' una situazione fisica. Nessun reel di oggi ripete Cold Plunge: ogni reel si ferma a ~120-130 views (test iniziale), nessuno passa al secondo giro. Condivisioni: 0 su 9 reel."
+  "text": "Clock Shift: skip 50,9%, visione 21,4% ('your clock' non e' una situazione fisica). Steps: skip 43,1%, 129 views, 0 condivisioni. Condivisioni 1 e salvataggi 2 su 11 reel: la gente guarda ma non manda. Cold Plunge e Space hanno piu' di 1.000 views ma 0 e 1 condivisioni: il fatto da mandare arriva troppo tardi."
  },
  {
   "date": "2026-10-24",
   "order": 4,
   "kind": "Da cambiare",
-  "text": "1. Primo fotogramma: tutti i reel v1 hanno ancora 4 s di intro prima del timer (skip 40-50% oggi). Dal 25/10 i v2 partono con il corpo in azione e il numero gia' al fotogramma 1: serve a questo."
+  "text": "1. Da domani i reel sono in formato v2 (20-25 s, fatto sul primo fotogramma): vedere se la visione sale sopra il 37,5% di Space. E1 e' ancora senza dati v2."
  },
  {
   "date": "2026-10-24",
   "order": 5,
   "kind": "Da cambiare",
-  "text": "2. Gancio: usare \"tuo corpo\" + una situazione che si sente (ghiaccio, ora 17 sveglio), come Cold Plunge (skip 33,9%). Evitare orologi, grafici, cellule come primo oggetto (Clock Shift 50,4%, 80 Years 59,7%)."
+  "text": "2. Aprire sempre con un fatto concreto e sorprendente sul corpo (taller, ice water): Space 32,8% e Cold Plunge 34% di skip contro 50,9% di Clock Shift. Evitare titoli astratti ('your clock')."
  },
  {
   "date": "2026-10-24",
   "order": 6,
   "kind": "Da cambiare",
-  "text": "3. Condivisioni a 0 su 9 reel: mettere il fatto da mandare entro il secondo 10 e chiudere con \"send this to the friend who...\" (v2). Dopo 3 reel v2 si confronta con i v1."
+  "text": "3. Mettere il fatto da mandare entro il secondo 10 e la CTA 'send this to the friend who...': 2 reel sopra 1.000 views hanno prodotto 1 sola condivisione."
  }
 ]
