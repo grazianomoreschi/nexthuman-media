@@ -8,6 +8,19 @@ Each idea: title | hook (true) | timer | rule/pattern it uses | facts to check. 
 - "FUTURE BODY" (AI and future medicine): ideas 20, 21, 22.
 - "YOUR BODY AFTER..." (timeline series): ideas 2, 3, 18, 19.
 
+## Round 3 (2026-10-25): viral last 12 months x our winners (extreme environment, real case, timer)
+36. Back From Space | "After 6 months in space, your legs forget how to walk." | day 0 -> 6 months -> landing | Space breakout + 18.5M | NASA: bone loss ~1-1.5%/month in weight-bearing bones; muscle loss; balance after landing
+37. Spit Boil | "In 1966, a man felt his spit boil on his tongue." | 0 s -> ~15 s | real case + vacuum, 1.4M rising | Jim LeBlanc, NASA vacuum chamber; ~14 s of consciousness
+38. 133 Days at Sea | "He survived 133 days alone on a raft." | day 0 -> 133 | Zack 37.5M, real case, survival | Poon Lim 1942-43; rainwater, fish
+39. Cold After Gym | "An ice bath after the gym can shrink your gains." | session 0 -> week 12 | cold winner + 12.3M | Roberts et al., J Physiol 2015 (regular cold water after strength training blunted gains)
+40. Sleep Paralysis | "You wake up. Your body doesn't." | 0 s -> 2 min | 16.9M, you-situation | REM atonia; ~8% of people at least once (Sharpless 2011)
+41. Almost No Brain | "His skull was mostly fluid. He lived a normal life." | birth -> 44 years | 66.5M, real case | Feuillet et al., Lancet 2007; say "brain was severely compressed", not "no brain"
+42. Pill Journey | "Swallow a pill. Here's its trip in 60 minutes." | 0 -> 60 min | 37M, timer, gut scene | general absorption path; no drug names, no doses
+43. Sugar Spike | "Eat a donut. Your blood sugar peaks in about 30-60 minutes." | 0 -> 3 h | 29M, gut + chart | insulin response; healthy adults
+44. Caffeine Lie | "Your coffee doesn't give you energy. It hides tiredness." | 0 -> 10 h | Zack 19.2M | adenosine; half-life ~5 h, varies
+45. Fat Burn Clock | "Skip food: when does your body start burning fat?" | 0 -> 72 h | 12.6M | glycogen and fat use timeline, ranges not exact hours
+46. Moon No Suit | "On the Moon without a suit, you'd have about 15 seconds." | 0 -> 90 s | 17.9M | NASA ~15 s conscious; overlaps 37
+
 ## From proven viral topics (YouTube API, 2026-10-24) - our angle, our facts, timer format
 26. Ice Water 1-10-1 | "Fall into ice water. You have 1 minute." | 0 -> 60 min | our Cold Plunge + survival | Giesbrecht 1-10-1 rule (cold shock 1 min, ~10 min useful movement, ~1 h to hypothermic unconsciousness)
 27. Taller Surgery | "Doctors break both legs to make people taller." | day 0 -> ~day 90 | Zack 62M, body horror lite | limb lengthening ~1 mm/day; say "up to about 8 cm"
@@ -55,4 +68,5 @@ Bacteria, ChatGPT Brain, Hep B Cure, Weed Panic, Immune Clock, Mars Heart, Memor
 
 ## Done (do not repeat without a new angle)
 Quit smoking, stroke, no sleep, Ozempic, 80-year-old cells, cold plunge, human vs robot, clock change,
-3,000 steps, taller in space, Lancet 2100 threats.
+3,000 steps, taller in space, Lancet 2100 threats, strongest muscle, cotton swabs, cut healing, bone vs
+concrete, taller surgery, ice water 1-10-1, after you die (rendered, reserve).

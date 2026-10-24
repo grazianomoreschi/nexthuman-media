@@ -48,3 +48,19 @@ Patterns in the numbers: (a) a body part or procedure everyone has or fears + "h
 ear wax, root canal); (b) a giant number about your body (blood vessels, bone strength); (c) myth twist in
 the title ("not what you think"); (d) survival hypotheticals (penguin huddle, no bones); (e) titles are
 questions or "how X works", 3-7 words; (f) length 24-46 s, but with a voiceover.
+
+## Viral body shorts, last 12 months (YouTube Data API, 2026-10-25)
+Zack D. Films since April 2026 (body-related): He Drifted At Sea For 133 Days 37.5M; How To Get Water Out Of
+Your Ear 38.0M; The Simple Experiment About Happiness 57.7M; What Caffeine Really Does To Your Brain 19.2M;
+Why You Can't Juggle A Human Brain 17.6M; Could You Charge Your Phone With Your Body? 14.5M; His Brain Injury
+Made Him A Sculpting Genius 36.7M.
+Other channels: Man With No Brain (FactoHolic) 66.5M; How Astronauts Poop In Space 53.4M; What Happens to a
+Tablet After You Swallow It? (MedExplained) 37.0M; Weird Things About Your Body 30.6M; This Happens Every Time
+You Eat Sugar 29.1M; The Creepiest Fact About The Human Body 28.1M; Brain Cells Can Play Pong 25.8M; Smoking vs
+Milk inside your body 20.9M; Why Astronauts Struggle After Returning to Earth 18.5M; How Long You'd Survive On
+The Moon 17.9M; Why You Get Sleep Paralysis 16.9M; When Do You Actually Start Burning Fat? 12.6M; What If You
+Take a Cold Shower After a Workout? 12.3M; The Man Who Felt His Spit Boil 1.4M (1 week old).
+Read with our data: our only 2 breakouts (Cold Plunge, Space) are "an extreme environment changes YOUR body";
+the same family is big here (space, cold, sea survival, no-suit vacuum). Second family: a real person with an
+impossible body story (no brain, 133 days at sea, spit boiling). Third: "X inside your body" journeys (pill,
+sugar) with a timer.
