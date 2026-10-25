@@ -84,6 +84,8 @@ AI e futuro. Graziano scrive in italiano: rispondi in italiano, frasi brevi, un 
 - Flusso attuale (dal 24/10): Graziano programma i video da TikTok Studio (web), dove le bozze via API non
   compaiono. Quindi nella coda `tiktok` resta false; ogni giorno gli si mandano i file mp4 del giorno (SendUserFile)
   con le descrizioni. Le bozze via API arrivano solo nella inbox dell'app TikTok.
+- Pausa TikTok dal 26/10 per 2-3 giorni (decisione di Graziano): i 6 video del 25/10 sono a 0 views. Non mandare i video
+  TikTok del giorno finche' Graziano non dice di ripartire; poi 1-2 al giorno, partendo dai migliori di Instagram.
 
 ## Statistiche (revisione serale)
 

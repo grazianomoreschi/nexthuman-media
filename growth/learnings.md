@@ -1,5 +1,10 @@
 # Learnings (newest first)
 
+## 2026-10-25 23:55 (TikTok)
+- TikTok: all 6 videos of 25/10 at 0 views although public; the 24/10 ones had ~80 views each. Likely held back by
+  TikTok (review or restriction), cause not confirmed. Graziano pauses TikTok for 2-3 days (until about 28/10); then
+  restart with 1-2 a day, best Instagram reels first. Instagram and YouTube continue as planned.
+
 ## 2026-10-25 23:35 (end-of-day addendum)
 - Correction: Ice Water skip 16.8% at 23:05 was read at 1 h on partial reach (360 of 1,136 views). At 1.5 h, reach 1,002:
   skip 38.1%, watch 37.3%. Lesson: judge skip and watch only after 3 h (baseline already uses 3 h+).
