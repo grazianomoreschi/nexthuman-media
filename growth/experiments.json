@@ -56,6 +56,9 @@
    "save_rate_pct"
   ],
   "min_reels_per_variant": 3,
-  "result": null
+  "result": null,
+  "interim": {
+   "2026-10-25 13:05": "v2 n=3 (Muscle, Swabs, Cut, last at 3 h): median skip 20.6% vs v1 43% (n=11), watch 56.8% vs 28.3%, views 1,464 vs 136. Share rate v2 0.00/0.07/0.29% vs v1 median 0.00%, save rate ~0.07% both: sends not moved. Waiting for 3 more v2 reels (Bones 16:00, Taller 19:00, Ice Water 22:00) and for Cut to mature before closing on share/save."
+  }
  }
 ]
