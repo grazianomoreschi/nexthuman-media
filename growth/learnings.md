@@ -1,5 +1,18 @@
 # Learnings (newest first)
 
+## 2026-10-25 23:05 (end-of-day review)
+- Day: 10,583 views, reach 8,275, 8 shares, 5 saves, followers 3 (flat), 11 profile visits. Baseline (last 10, 3 h+): skip 37.2%,
+  watch 38.3% (11.4 s), 1,348 views, share rate 0.04%.
+- E1 closed, v2 wins on skip/watch: n=5 v2 median skip 27.9% vs 43% (v1, n=11), watch 55.8% vs 28.3%, 5/5 left the first test
+  vs 2/11. Avg seconds watched flat (~11.5 s), so the gain is fewer early exits and a higher %, not longer viewing. Rule 5
+  (length) to PROVEN; rule 1 already PROVEN.
+- Hook subject decides: Ice Water "You fall into..." skip 16.8% (1 h old, ~1,000 views/h) vs Taller "Doctors can break your
+  legs" skip 41.6%, watch 39% (worst v2, still 1,354 views). Supports rule 2.
+- Sends not fixed: 6 shares on 6,130 reach (0.10%) for v2, 3 saves. Rule 9 below the 0.15% threshold: mid-reel CTA is the next test.
+- Velocity: Muscle frozen (+6 views since 13:06), Swabs +51, Cut +222 in 10 h (slowing). 6 reels a day did not lower
+  per-reel reach (1,100-1,500): no volume penalty so far (rule 17).
+- No new comments. YouTube: Swabs 1,224, Muscle 1,120, Bones 150 views; Taller and Ice Water too young.
+
 ## 2026-10-25 13:05 (mid-day review)
 - Baseline (last 10 reels, 3 h+): skip 37.3%, watch 33.7%, 976 views, reach 650; v1 only: skip 43%, watch 28%, 136 views.
 - v2 n=3: Muscle skip 29.1% / watch 56.8% / 1,464 views (frozen since ~11:00); Swabs 19.6% / 82.4% / 1,965 (slowing to

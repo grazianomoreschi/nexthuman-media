@@ -1,7 +1,7 @@
 [
  {
   "id": "E1-format-v2",
-  "status": "open",
+  "status": "closed",
   "opened": "2026-10-23",
   "hypothesis": "Short reels (20-25 s) that open on the claim at frame 1 (no subtitle intro) and end with a named-persona send CTA get lower skip and higher watch % than the v1 format (35-45 s, 4 s intro, comment CTA).",
   "variable": "format",
@@ -56,9 +56,11 @@
    "save_rate_pct"
   ],
   "min_reels_per_variant": 3,
-  "result": null,
+  "result": "v2 wins on skip and watch %, not on sends. n=5 mature v2 (Muscle, Swabs, Cut, Bones, Taller) vs 11 v1: median skip 27.9% vs 43%, watch 55.8% vs 28.3%, views ~1,470 vs 136, 5/5 left the first test vs 2/11. Average watch seconds are flat (~11.5 s both), so the watch % gain is mostly shorter length; the real gain is fewer early exits (skip) and reach. Share rate 6/6,130 = 0.10% (v1 ~0.04%), save rate ~0.05%: sends not moved. Weakest v2: Taller (third-person 'Doctors' hook), skip 41.6%. Ice Water (skip 16.8%) too young.",
   "interim": {
-   "2026-10-25 13:05": "v2 n=3 (Muscle, Swabs, Cut, last at 3 h): median skip 20.6% vs v1 43% (n=11), watch 56.8% vs 28.3%, views 1,464 vs 136. Share rate v2 0.00/0.07/0.29% vs v1 median 0.00%, save rate ~0.07% both: sends not moved. Waiting for 3 more v2 reels (Bones 16:00, Taller 19:00, Ice Water 22:00) and for Cut to mature before closing on share/save."
-  }
+   "2026-10-25 13:05": "v2 n=3 (Muscle, Swabs, Cut, last at 3 h): median skip 20.6% vs v1 43% (n=11), watch 56.8% vs 28.3%, views 1,464 vs 136. Share rate v2 0.00/0.07/0.29% vs v1 median 0.00%, save rate ~0.07% both: sends not moved. Waiting for 3 more v2 reels (Bones 16:00, Taller 19:00, Ice Water 22:00) and for Cut to mature before closing on share/save.",
+   "2026-10-25 23:05": "Closed. See result."
+  },
+  "closed": "2026-10-25"
  }
 ]

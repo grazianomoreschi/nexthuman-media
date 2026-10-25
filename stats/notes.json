@@ -75,36 +75,36 @@
   "date": "2026-10-25",
   "order": 1,
   "kind": "Sintesi",
-  "text": "Meta' giornata (13:05). Oggi 6.466 views, reach 5.175 (ieri 3.562 / 2.884), ma follower ancora 3 e solo 6 visite al profilo. 3 reel v2 (Muscle, Swabs, Cut): skip 29% / 20% / 21% contro 43% dei v1 (baseline ultimi 10: skip 37,3%, visione 33,7%, 976 views). Visione 57% / 82% / 54% contro 28%. Condivisioni oggi 5, salvataggi 3, commenti nuovi 0."
+  "text": "Fine giornata (23:05). Oggi 10.583 views, reach 8.275 (ieri 3.562 / 2.884), 6 reel v2 pubblicati. Follower ancora 3, 11 visite al profilo, 8 condivisioni e 5 salvataggi in tutto il giorno. Baseline ultimi 10 reel: skip 37,2%, visione 38,3% (11,4 s), 1.348 views, condivisioni 0,04% della reach. Commenti nuovi: 0."
  },
  {
   "date": "2026-10-25",
   "order": 2,
   "kind": "Funziona",
-  "text": "Il v2 apre bene: tutti e 3 i reel escono dal test iniziale (1.464 / 1.965 / 1.248 views, 3 su 3 contro 2 su 11 dei v1). Swabs ha la visione migliore di sempre: 82% (17,3 s su 21). Cut a 3 ore e' a ~400 views/h e ancora in crescita (reach 694, skip 20,6%)."
+  "text": "Il v2 tiene: 5 reel maturi su 5 escono dal test (1.354-2.016 views) contro 2 su 11 dei v1. Skip mediano 27,9% contro 43%, visione 55,8% contro 28%. Ice Water (22:00) ha lo skip piu' basso di sempre, 16,8%, a 1 ora e ~1.000 views/h: ancora troppo presto per giudicarlo. Il volume non danneggia: con 6 reel al giorno ogni reel porta ancora 1.100-1.500 reach."
  },
  {
   "date": "2026-10-25",
   "order": 3,
   "kind": "Non funziona",
-  "text": "Le condivisioni: 3 reel v2 con 3.300 reach hanno 3 condivisioni totali (0,09%), e Swabs con 82% di visione ne ha solo 1. Muscle e' fermo a 1.464 da 2 ore (reach 1.128) e Swabs rallenta (~20 views/h). Conversione quasi zero: 5.175 persone raggiunte, 0 nuovi follower, 6 visite al profilo."
+  "text": "Invii e follower: 6 condivisioni su 6.100 reach per i 5 v2 maturi (0,10%) e 3 salvataggi; 0 nuovi follower su 8.275 di reach. Taller (19:00) e' il v2 piu' debole: skip 41,6%, visione 39% (apre con 'Doctors', terza persona, non 'you'). Muscle e' fermo (1.470) e Swabs ha aggiunto solo ~50 views in 10 ore."
  },
  {
   "date": "2026-10-25",
   "order": 4,
   "kind": "Da cambiare",
-  "text": "1. Il problema ora e' l'invio, non l'inizio: Swabs tiene l'82% ma 1 condivisione su 1.486 reach. Per i reel di stasera e di domani mettere il fatto da mandare entro il secondo 8 e la CTA 'send this to the friend who...' sullo schermo gia' a meta' reel, non solo alla fine."
+  "text": "1. Condivisioni sotto la soglia 0,15% (rule 9): per i prossimi reel spostare la CTA 'send this to the friend who...' a meta' reel (secondo ~10, accanto al fatto da mandare), non solo nella schermata finale. Da decidere con Graziano: i reel ep29-ep43 sono gia' renderizzati."
  },
  {
   "date": "2026-10-25",
   "order": 5,
   "kind": "Da cambiare",
-  "text": "2. Portare gente al profilo: 0 follower nuovi su 5.175 reach. Provare su 3 reel v2 una chiusura 'Follow @nnexthuman: one body fact a day' al posto di una CTA generica, e confrontare le visite al profilo e i follower (nuovo esperimento E2, una variabile)."
+  "text": "2. Aprire sempre con 'you/your' + situazione fisica: Ice Water ('You fall into ice water') skip 16,8% contro Taller ('Doctors can break your legs') 41,6%. Riscrivere gli hook con soggetto terzo (es. Doctors, Scientists) in prima persona prima del render."
  },
  {
   "date": "2026-10-25",
   "order": 6,
   "kind": "Da cambiare",
-  "text": "3. Non cambiare il formato v2: tenere 20-23 s, fatto concreto sul corpo al primo fotogramma (Cut 53% di visione, Swabs 82%). Il confronto con Space/Cold Plunge dice che le cose pratiche ('stop putting...') durano di piu' dei fatti curiosi."
+  "text": "3. Portare gente al profilo: 0 follower su 8.275 reach, 11 visite. Provare la chiusura 'Follow @nnexthuman: one body fact a day' su 3 reel contro 3 senza (E2, una variabile) e misurare visite al profilo e follower."
  }
 ]

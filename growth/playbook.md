@@ -21,6 +21,8 @@ of 36-44 s (avg 11-12 s), ~0 shares/saves/comments, 120-139 views each.
    from space taller", concrete surprising body fact, v1) also left the test: 1,306 views, skip 32.8%, watch 37.5%;
    Clock Shift ("your clock", not a physical situation) skip 50.9%. Rule stands; the working pattern is a concrete,
    felt or surprising body fact, not "your" alone.
+   2026-10-25 23:05: Ice Water ("You fall into ice water", v2) skip 16.8%, lowest ever; Taller ("Doctors can break
+   your legs", third person) skip 41.6%, worst v2. Same format, so the subject of the hook decides.
 2b. TESTING (2026-10-24). Frame 1 is a body IN ACTION (falling into ice, holding breath, climbing), not a lab
    object (cell, dish, chart, pen) and not the generic brain opener. Evidence: Cold Plunge (plunge, sea) and
    No Sleep (drunk) vs 80 Years Old (cell, dish, tube) and Ozempic (chart, pen).
@@ -30,11 +32,14 @@ of 36-44 s (avg 11-12 s), ~0 shares/saves/comments, 120-139 views each.
 4. TESTING. Max 8 words of on-screen text per beat, high contrast, away from the top and bottom fifth.
 
 ## Length and pacing
-5. TESTING. 20-25 s reels (4-6 timer stops) instead of 35-45 s until watch % beats 50%. Evidence: avg watch
+5. PROVEN (2026-10-25). 20-25 s reels (4-6 timer stops) instead of 35-45 s until watch % beats 50%. Evidence: avg watch
    11-12 s on every reel regardless of length; shortest reel (36 s) had the best watch % (32%). Since
    2026-10-23.
    2026-10-25: v2 watch 56.8% / 82.4% / 53.5% (13.3 / 17.3 / 10.7 s) vs v1 28%; seconds up only ~20% (part of
    the % gain is arithmetic), so it stays TESTING until E1 closes.
+   PROVEN (2026-10-25 23:05, E1 closed): watch % beats 50% (median 55.8%, n=5 v2 vs 28.3%, n=11 v1) and 5/5 left
+   the first test. Caveat: average seconds watched are flat (~11.5 s in both), so length helps the % and the exit
+   rate, not the seconds; the lever to push next is the payoff before second 10.
 6. TESTING. Every stop beats the previous one; re-hook ("but...") at ~40-50%. (Loewenstein 1994.)
    2026-10-24: the fact worth sending lands by second 10 (average watch is 11.5 s; even the best reel holds
    17 s), the twist at the end only adds to it. Cold Plunge: 0 shares on 1,087 reach - the payoff came too late.
@@ -45,10 +50,12 @@ of 36-44 s (avg 11-12 s), ~0 shares/saves/comments, 120-139 views each.
 9. TESTING. One send-worthy angle per reel and a named-persona CTA ("Send this to the friend who ...");
    no "comment WORD" bait. (Berger & Milkman 2012; Instagram CTA guidance 2024.)
    2026-10-25: not working yet. 3 v2 reels with the CTA: 3 shares on 3,308 reach (0.09%); Swabs 82% watch, 1 share.
+   2026-10-25 23:05: 5 mature v2: 6 shares on 6,130 reach (0.10%), below the 0.15% threshold: test a mid-reel CTA
+   (E2 proposal, needs Graziano's ok since ep29-ep43 are rendered).
    If the next 3 v2 reels stay below 0.15% shares, test a mid-reel CTA instead of the end-card wording.
 10. TESTING. Each script has an awe or personal-stakes beat plus one practical takeaway; avoid the neutral
     "science fact" tone (Tellis 2019).
-11b. IDEA (2026-10-25). Follow conversion: reach 5,175, 6 profile visits, 0 new followers. Test a closing line
+11b. IDEA (2026-10-25). Follow conversion: reach 5,175, 6 profile visits, 0 new followers (23:05: reach 8,275, 11 visits, still 3 followers). Test a closing line
     "Follow @nnexthuman: one body fact a day" (E2 proposal, 3 reels vs 3 reels).
 11. IDEA. End question people can actually answer ("Which hour would you quit at?") for comments.
 
