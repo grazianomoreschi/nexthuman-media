@@ -62,5 +62,74 @@
    "2026-10-25 23:05": "Closed. See result."
   },
   "closed": "2026-10-25"
+ },
+ {
+  "id": "E3-voice-v3",
+  "status": "open",
+  "opened": "2026-10-26",
+  "hypothesis": "An AI voiceover (Kokoro am_michael, music ducked under it) on true psychology/real-case topics with proven viral demand raises watch seconds, sends and reach versus the text-only v2 format.",
+  "variable": "format (voice + psychology topics; bundled, Graziano's call for a quality jump)",
+  "note": "Bundles voice, topic family (psychology, dark psychology, attraction) and length 25-30 s, so a win says 'v3 package', not 'voice alone'. Mid/late send CTA right after the payoff. Inside it, E2 (follow closing) runs on 3 of 5 reels.",
+  "variants": {
+   "v2": {
+    "desc": "text-only, 20-25 s (control: v2 reels of 25-27/10)",
+    "episodes": [
+     "ep24_muscle_en",
+     "ep25_swabs_en",
+     "ep26_cut_en",
+     "ep27_bones_en",
+     "ep28_taller_en",
+     "ep30_icewater_en"
+    ]
+   },
+   "v3": {
+    "desc": "voiceover, 25-30 s, psychology real cases, bloom post",
+    "episodes": [
+     "ep44_milgram_en",
+     "ep45_bridge_en",
+     "ep46_smoke_en",
+     "ep47_liar_en",
+     "ep48_brokenheart_en"
+    ]
+   }
+  },
+  "decides_on": [
+   "avg_watch_s",
+   "skip_rate_pct",
+   "share_rate_pct",
+   "views",
+   "follows"
+  ],
+  "min_reels_per_variant": 3,
+  "result": null
+ },
+ {
+  "id": "E2-follow-closing",
+  "status": "open",
+  "opened": "2026-10-26",
+  "hypothesis": "A closing line 'Follow @nnexthuman: one truth about you, every day' raises profile visits and follows per reach.",
+  "variable": "closing segment (follow CTA vs none)",
+  "variants": {
+   "follow": {
+    "episodes": [
+     "ep44_milgram_en",
+     "ep46_smoke_en",
+     "ep47_liar_en"
+    ]
+   },
+   "none": {
+    "episodes": [
+     "ep45_bridge_en",
+     "ep48_brokenheart_en"
+    ]
+   }
+  },
+  "decides_on": [
+   "profile_views per reach (account level, same day)",
+   "follows"
+  ],
+  "min_reels_per_variant": 3,
+  "note": "Follows are only account-level in our data: compare days and reel age carefully; needs 1 more 'none' reel.",
+  "result": null
  }
 ]

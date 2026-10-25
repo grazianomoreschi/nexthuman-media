@@ -956,7 +956,7 @@
   "pillar": "body",
   "topic": "psychology",
   "caption_match": "milgram|shock a stranger|obey",
-  "slot": "2026-10-28 (test, slot da decidere)",
+  "slot": "2026-10-28 06:00",
   "duration_s": 29.6,
   "segments": 9,
   "hook": "SHOCK A STRANGER. WOULD YOU *STOP*?",
@@ -983,6 +983,143 @@
    "dark-psychology",
    "post-bloom",
    "viral-topic:zackdfilms-43.9M"
+  ]
+ },
+ {
+  "episode": "ep45_bridge_en",
+  "title": "SCARY BRIDGE",
+  "pillar": "body",
+  "topic": "attraction",
+  "caption_match": "scary|bridge|date",
+  "slot": "2026-10-28 02:00",
+  "duration_s": 25.1,
+  "segments": 7,
+  "hook": "TAKE YOUR DATE SOMEWHERE *SCARY*.",
+  "intro_segment": false,
+  "first_timer_at_s": 0.0,
+  "scenes": [
+   "bridge"
+  ],
+  "booms": 3,
+  "bg_fx": "dots",
+  "music_mode": "dorian",
+  "format": "timer-explainer",
+  "tags": [
+   "v3",
+   "voiceover",
+   "kokoro-am_michael",
+   "music-ducked",
+   "hook-hit",
+   "no-intro",
+   "len-25-30s",
+   "send-cta-after-payoff",
+   "post-bloom",
+   "no-follow-cta",
+   "attraction",
+   "viral-topic:crush-signs-16M"
+  ]
+ },
+ {
+  "episode": "ep47_liar_en",
+  "title": "SPOT THE LIAR",
+  "pillar": "body",
+  "topic": "psychology",
+  "caption_match": "liar|lying",
+  "slot": "2026-10-28 10:00",
+  "duration_s": 28.7,
+  "segments": 9,
+  "hook": "YOU THINK YOU CAN SPOT A *LIAR*. YOU CAN'T.",
+  "intro_segment": false,
+  "first_timer_at_s": 0.0,
+  "scenes": [
+   "liar"
+  ],
+  "booms": 3,
+  "bg_fx": "dots",
+  "music_mode": "phrygian",
+  "format": "timer-explainer",
+  "tags": [
+   "v3",
+   "voiceover",
+   "kokoro-am_michael",
+   "music-ducked",
+   "hook-hit",
+   "no-intro",
+   "len-25-30s",
+   "send-cta-after-payoff",
+   "post-bloom",
+   "follow-cta",
+   "myth-bust",
+   "viral-topic:catch-a-liar-12.6M"
+  ]
+ },
+ {
+  "episode": "ep46_smoke_en",
+  "title": "SMOKE ROOM",
+  "pillar": "body",
+  "topic": "psychology",
+  "caption_match": "smoke|room",
+  "slot": "2026-10-28 16:00",
+  "duration_s": 27.2,
+  "segments": 8,
+  "hook": "SMOKE FILLS THE ROOM. DO YOU *MOVE*?",
+  "intro_segment": false,
+  "first_timer_at_s": 0.0,
+  "scenes": [
+   "smoke"
+  ],
+  "booms": 3,
+  "bg_fx": "grid",
+  "music_mode": "minor",
+  "format": "timer-explainer",
+  "tags": [
+   "v3",
+   "voiceover",
+   "kokoro-am_michael",
+   "music-ducked",
+   "hook-hit",
+   "no-intro",
+   "len-25-30s",
+   "send-cta-after-payoff",
+   "post-bloom",
+   "follow-cta",
+   "real-case",
+   "you-situation",
+   "viral-topic:psych-experiments-13-44M"
+  ]
+ },
+ {
+  "episode": "ep48_brokenheart_en",
+  "title": "BROKEN HEART",
+  "pillar": "body",
+  "topic": "heart",
+  "caption_match": "heartbreak|broken heart|takotsubo",
+  "slot": "2026-10-28 22:00",
+  "duration_s": 26.4,
+  "segments": 8,
+  "hook": "HEARTBREAK CAN *STUN* YOUR HEART.",
+  "intro_segment": false,
+  "first_timer_at_s": 0.0,
+  "scenes": [
+   "tako"
+  ],
+  "booms": 3,
+  "bg_fx": "bubbles",
+  "music_mode": "minor",
+  "format": "timer-explainer",
+  "tags": [
+   "v3",
+   "voiceover",
+   "kokoro-am_michael",
+   "music-ducked",
+   "hook-hit",
+   "no-intro",
+   "len-25-30s",
+   "send-cta-after-payoff",
+   "post-bloom",
+   "no-follow-cta",
+   "love",
+   "body-horror-lite"
   ]
  }
 ]
