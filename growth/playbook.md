@@ -8,9 +8,11 @@ Baseline on 2026-10-23 (4 Instagram reels, new account, 1 follower): skip 31-51%
 of 36-44 s (avg 11-12 s), ~0 shares/saves/comments, 120-139 views each.
 
 ## Hook and first frame
-1. TESTING. Frame 1 already shows the subject, the key claim and the number. No subtitle intro, no title-only
-   frame. Evidence: Mosseri, TikTok tips (first 3 s); our reels all had a 4 s intro before the timer and skip
-   was 31-51%. Since 2026-10-23.
+1. PROVEN (2026-10-25). Frame 1 already shows the subject, the key claim and the number. No subtitle intro, no
+   title-only frame. Evidence: v2 reels (claim at frame 1, no intro) skip 29.1% / 19.6% / 20.6% (Muscle, Swabs,
+   Cut), all below the best of 11 v1 reels (32%, which had a 4 s intro; median 43%). All 3 left the first test
+   (v1: 2 of 11). Caveat: bundled with length and moving hook (E1), so the part that works is not isolated.
+   Mosseri, TikTok tips (first 3 s). Since 2026-10-23.
 2. PROVEN (2026-10-24). Hook = "your" + a physical situation the viewer can feel (ice water, hour 17 awake,
    last cigarette). Never "this/these" + an abstract object (cells, a shot, "your brain right now").
    Evidence: you-situation hooks skip 32% / 33% / 38% (No Sleep, Cold Plunge, Quit Smoking), abstract hooks
@@ -31,6 +33,8 @@ of 36-44 s (avg 11-12 s), ~0 shares/saves/comments, 120-139 views each.
 5. TESTING. 20-25 s reels (4-6 timer stops) instead of 35-45 s until watch % beats 50%. Evidence: avg watch
    11-12 s on every reel regardless of length; shortest reel (36 s) had the best watch % (32%). Since
    2026-10-23.
+   2026-10-25: v2 watch 56.8% / 82.4% / 53.5% (13.3 / 17.3 / 10.7 s) vs v1 28%; seconds up only ~20% (part of
+   the % gain is arithmetic), so it stays TESTING until E1 closes.
 6. TESTING. Every stop beats the previous one; re-hook ("but...") at ~40-50%. (Loewenstein 1994.)
    2026-10-24: the fact worth sending lands by second 10 (average watch is 11.5 s; even the best reel holds
    17 s), the twist at the end only adds to it. Cold Plunge: 0 shares on 1,087 reach - the payoff came too late.
@@ -40,8 +44,12 @@ of 36-44 s (avg 11-12 s), ~0 shares/saves/comments, 120-139 views each.
 ## Sends, saves, comments
 9. TESTING. One send-worthy angle per reel and a named-persona CTA ("Send this to the friend who ...");
    no "comment WORD" bait. (Berger & Milkman 2012; Instagram CTA guidance 2024.)
+   2026-10-25: not working yet. 3 v2 reels with the CTA: 3 shares on 3,308 reach (0.09%); Swabs 82% watch, 1 share.
+   If the next 3 v2 reels stay below 0.15% shares, test a mid-reel CTA instead of the end-card wording.
 10. TESTING. Each script has an awe or personal-stakes beat plus one practical takeaway; avoid the neutral
     "science fact" tone (Tellis 2019).
+11b. IDEA (2026-10-25). Follow conversion: reach 5,175, 6 profile visits, 0 new followers. Test a closing line
+    "Follow @nnexthuman: one body fact a day" (E2 proposal, 3 reels vs 3 reels).
 11. IDEA. End question people can actually answer ("Which hour would you quit at?") for comments.
 
 ## Topics and format

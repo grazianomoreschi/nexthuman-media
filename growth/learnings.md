@@ -1,5 +1,15 @@
 # Learnings (newest first)
 
+## 2026-10-25 13:05 (mid-day review)
+- Baseline (last 10 reels, 3 h+): skip 37.3%, watch 33.7%, 976 views, reach 650; v1 only: skip 43%, watch 28%, 136 views.
+- v2 n=3: Muscle skip 29.1% / watch 56.8% / 1,464 views (frozen since ~11:00); Swabs 19.6% / 82.4% / 1,965 (slowing to
+  ~20/h); Cut 20.6% / 53.5% / 1,248 at 3 h, ~400 views/h and still growing. Rule 1 (frame 1 = claim) promoted to PROVEN.
+- Sends are the broken lever: 3 shares on 3,308 reach for v2 (0.09%), 2 saves. Follow conversion near zero: reach 5,175
+  today, profile visits 6, followers 3 (unchanged since yesterday). No new comments (comments.json empty).
+- E1 stays open (needs Bones, Taller, Ice Water and Cut to mature). Proposed E2: follow end card.
+- Data note: daily.json yt_views shows 2 while Shorts list 1,000+ views each (Swabs 1,027, Muscle 896): the account-level
+  YouTube total in stats.py looks wrong, to check.
+
 ## 2026-10-25 10:55 (first v2 reels, early read)
 - Instagram v2 (20-23 s, hook in motion at frame 1): Muscle Myth 1,463 views in 9 h, skip 29%, watch 57%;
   Cotton Swabs 1,925 views in 5 h and still at ~390 views/h, skip 19%, watch 83%, 1 share; A Cut Heals 1 h old:
