@@ -7,7 +7,7 @@ AI e futuro. Graziano scrive in italiano: rispondi in italiano, frasi brevi, un 
 
 - Produzione video: skill `next-human-reels` (account skill). Il motore si ripristina dall'artifact privato
   https://claude.ai/artifact/DYZZU4dt455uYpDVFSNhUp (file `nh_engine_v6.txt`: formato v2 con `hook_hit`, `state0` e `thermo`; 20 scene nuove dal 24 al 25 ottobre, episodi ep24-ep43), come spiega la skill.
-  Dal 26/10 c'e' `nh_engine_v7.txt`: voce AI Kokoro-82M (gratis, voce am_michael scelta da Graziano, `tts.py`), musica
+  Dal 26/10 c'e' `nh_engine_v8.txt`: voce AI Kokoro-82M (gratis, voce am_michael scelta da Graziano, `tts.py`), musica
   abbassata sotto la voce, effetto bloom (`theme.post`), scene `milgram`, `bridge`, `smoke`, `liar`, `tako` (ep44-ep48).
 - 28 ottobre, in coda (formato v3 con voce, scelta di Graziano: 5 reel di qualita' piu' alta, psicologia): Scary Bridge 02:00,
   Milgram 06:00, Spot the Liar 10:00, Smoke Room 16:00, Broken Heart 22:00 (esperimenti E3 voce ed E2 chiusura follow).
