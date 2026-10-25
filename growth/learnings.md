@@ -1,5 +1,15 @@
 # Learnings (newest first)
 
+## 2026-10-25 10:55 (first v2 reels, early read)
+- Instagram v2 (20-23 s, hook in motion at frame 1): Muscle Myth 1,463 views in 9 h, skip 29%, watch 57%;
+  Cotton Swabs 1,925 views in 5 h and still at ~390 views/h, skip 19%, watch 83%, 1 share; A Cut Heals 1 h old:
+  skip 18%, watch 49%. v1 baseline: skip ~42%, watch ~27%. 2 of 2 mature v2 reels left the first test (v1: 2 of 11).
+- YouTube Studio (from Graziano, launch to 25/10): 3,405 views, 52.8% average viewed. v2 Shorts: Muscle 71.7% and
+  Swabs 66.9% average viewed vs ~50% for the 40 s v1 Shorts. On YouTube the v1 Steps and Clock Shift got ~1,230
+  views each although they flopped on Instagram: platforms judge differently.
+- TikTok: today's videos at 0 views (account or post status to check in TikTok Studio).
+- Bug fixed: catalog regexes too broad ("ice", "taller") mapped Muscle Myth to Cold Plunge in stats.
+
 ## 2026-10-24 23:35 (addendum)
 - Only 2 of 11 reels left the first test (~130 views): Cold Plunge (skip 34%, watch 42%) and Space (skip 33%,
   watch 38%). No Sleep had a low skip (32%) but watch 31% and stayed at 135. Hypothesis (IDEA): Instagram
