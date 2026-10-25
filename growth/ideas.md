@@ -8,6 +8,25 @@ Each idea: title | hook (true) | timer | rule/pattern it uses | facts to check. 
 - "FUTURE BODY" (AI and future medicine): ideas 20, 21, 22.
 - "YOUR BODY AFTER..." (timeline series): ideas 2, 3, 18, 19.
 
+## Round 4 (2026-10-26): psychology, dark psychology and attraction (Graziano: 5 high-quality reels on 28/10, voiceover, goal 100k)
+Viral proof from the YouTube Data API (2026-10-26, Shorts, views): Milgram Experiment (Zack D.) 43.9M; Worst Experiment
+in History 39.5M; Learned Helplessness 24.6M; Experiment That Fooled Doctors 18.2M; Rolex psychology tricks 18.3M; How To
+Read People 17.8M; Signs Someone Secretly Likes You 16.1M; Catch a Liar 12.6M; Rat Park 13.4M. Our angle: true study,
+"you" in the situation, a counter on screen, the body inside the psychology. Explain manipulation so people spot it,
+never teach how to manipulate.
+47. Milgram Shock | "A man in a lab coat tells you to shock a stranger. Would you stop?" | volts 15 -> 450 | 43.9M + real case + "you" | Milgram 1963: 26/40 (65%) to 450 V, learner was an actor, no real shocks; Burger 2009 replication ~70% past 150 V; caveat: later critiques (Perry 2012)
+48. Smoke Room | "The room fills with smoke. You stay seated. Why?" | 0 -> 6 min | bystander effect, you-situation | Latane & Darley 1968: alone 75% reported, with 2 passive strangers 10%
+49. Scary Bridge | "Take your date somewhere scary. Your body does the rest." | heart rate | attraction + body | Dutton & Aron 1974: 9/18 men called after the high bridge vs 2/16 low bridge; misattribution of arousal; caveat: small study, mixed replications
+50. 36 Questions | "36 questions made two strangers fall in love." | question 1 -> 36 -> 4 min eye contact | attraction, 16M crush family | Aron et al. 1997, closeness after 45 min; NYT Modern Love 2015 (Mandy Len Catron)
+51. Liar Myth | "You think you can spot a liar. You can't." | accuracy % | 12.6M + 17.8M read-people family, myth twist | Bond & DePaulo 2006 meta-analysis: 54% (coin flip 50%), 24,483 judges
+52. Rejection = Pain | "Getting dumped hurts in the same brain areas as a burn." | brain scan | heartbreak, body | Eisenberger 2003 (Cyberball); Kross 2011 (photos of ex vs heat); no medication advice
+53. Broken Heart | "Grief can stun your heart like a heart attack." | 0 -> weeks | body horror lite + love | takotsubo cardiomyopathy (Mayo, AHA); ~90% women; usually recovers in weeks
+54. Love Is a Drug | "Falling in love lights up the same circuit as cocaine." | days | attraction, dopamine | Fisher et al. 2005 (VTA, caudate); Fisher 2010 rejected lovers: reward and craving areas
+55. Smelly T-shirt | "Women picked men by the smell of their T-shirt." | 2 nights -> sniff test | attraction + body | Wedekind 1995: preferred MHC-different men; caveat: replications mixed
+56. Learned Helplessness | "They stopped trying to escape. Even when the door was open." | trials | 24.6M | Seligman & Maier 1967; Maier & Seligman 2016 update (passivity is the default, control is learned); non-gory animals
+57. Rat Park | "Lonely rats chose the drug. Happy rats didn't." | days | 13.4M, addiction | Alexander 1978-81; caveat: replications mixed, say "in this study"
+58. Asch Lines | "Everyone gives the wrong answer. So do you." | trial 1 -> 12 | conformity | Asch 1951-56: ~75% conformed at least once, ~37% of answers overall
+
 ## Round 3 (2026-10-25): viral last 12 months x our winners (extreme environment, real case, timer)
 36. Back From Space | "After 6 months in space, your legs forget how to walk." | day 0 -> 6 months -> landing | Space breakout + 18.5M | NASA: bone loss ~1-1.5%/month in weight-bearing bones; muscle loss; balance after landing
 37. Spit Boil | "In 1966, a man felt his spit boil on his tongue." | 0 s -> ~15 s | real case + vacuum, 1.4M rising | Jim LeBlanc, NASA vacuum chamber; ~14 s of consciousness

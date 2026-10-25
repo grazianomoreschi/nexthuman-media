@@ -85,6 +85,8 @@ of 36-44 s (avg 11-12 s), ~0 shares/saves/comments, 120-139 views each.
     niche (Zack D. Films, Karan Rajan).
 22. IDEA. Test an AI voiceover on 2-3 reels: almost every top channel in the niche uses a narrator.
     2026-10-23: Graziano says not for now; no voiceover. Ask again only if text-only retention stays low.
+    2026-10-26: Graziano asks for a realistic AI voiceover (free software): Kokoro-82M (Apache 2.0, runs locally).
+    TESTING from one test reel; 28/10 = 5 higher-quality reels with voice, mid-reel send CTA and follow closing.
 23. IDEA. A tiny source line on screen ("BMJ 2018") as an authority cue.
 24. IDEA. Mild body horror and survival limits (no air, water, altitude) drive shares and comments; keep
     visuals non-gory.
