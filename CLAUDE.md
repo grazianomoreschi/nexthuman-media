@@ -7,6 +7,8 @@ AI e futuro. Graziano scrive in italiano: rispondi in italiano, frasi brevi, un 
 
 - Produzione video: skill `next-human-reels` (account skill). Il motore si ripristina dall'artifact privato
   https://claude.ai/artifact/DYZZU4dt455uYpDVFSNhUp (file `nh_engine_v6.txt`: formato v2 con `hook_hit`, `state0` e `thermo`; 20 scene nuove dal 24 al 25 ottobre, episodi ep24-ep43), come spiega la skill.
+  Dal 26/10 c'e' `nh_engine_v7.txt`: voce AI Kokoro-82M (gratis, voce am_michael scelta da Graziano, `tts.py`), musica
+  abbassata sotto la voce, effetto bloom (`theme.post`), scena `milgram` (ep44, reel di prova). Il 28/10: 5 reel di qualita' piu' alta.
 - Reel gia' fatti e programmati a mano per il 23 ottobre: Stroke 02:00, No Sleep 06:00, Ozempic 10:00,
   80 Years Old 16:00, Cold Plunge 22:00 (episodi ep08-ep12 nel bundle del motore).
 - Piano di lavoro con checklist (Claude Docs): https://claude.ai/artifact/5cMdwqk8KsZbgiYJxJT63x

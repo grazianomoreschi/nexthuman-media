@@ -949,5 +949,40 @@
    "extreme-environment",
    "viral-topic:andyy-17.9M"
   ]
+ },
+ {
+  "episode": "ep44_milgram_en",
+  "title": "MILGRAM, 1961",
+  "pillar": "body",
+  "topic": "psychology",
+  "caption_match": "milgram|shock a stranger|obey",
+  "slot": "2026-10-28 (test, slot da decidere)",
+  "duration_s": 29.6,
+  "segments": 9,
+  "hook": "SHOCK A STRANGER. WOULD YOU *STOP*?",
+  "intro_segment": false,
+  "first_timer_at_s": 0.0,
+  "scenes": [
+   "milgram"
+  ],
+  "booms": 3,
+  "bg_fx": "scan",
+  "music_mode": "phrygian",
+  "format": "timer-explainer",
+  "tags": [
+   "v3",
+   "voiceover",
+   "kokoro-am_michael",
+   "music-ducked",
+   "hook-hit",
+   "no-intro",
+   "len-25-30s",
+   "send-cta-after-payoff",
+   "follow-cta",
+   "real-case",
+   "dark-psychology",
+   "post-bloom",
+   "viral-topic:zackdfilms-43.9M"
+  ]
  }
 ]
