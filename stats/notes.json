@@ -75,36 +75,36 @@
   "date": "2026-10-25",
   "order": 1,
   "kind": "Sintesi",
-  "text": "Fine giornata (23:05). Oggi 10.583 views, reach 8.275 (ieri 3.562 / 2.884), 6 reel v2 pubblicati. Follower ancora 3, 11 visite al profilo, 8 condivisioni e 5 salvataggi in tutto il giorno. Baseline ultimi 10 reel: skip 37,2%, visione 38,3% (11,4 s), 1.348 views, condivisioni 0,04% della reach. Commenti nuovi: 0."
+  "text": "Fine giornata, aggiornata alle 23:35. Oggi 11.361 views, reach 8.863 (ieri 3.562 / 2.884), 6 reel v2. Follower ancora 3, 11 visite al profilo, 8 condivisioni e 5 salvataggi. Baseline ultimi 10 reel: skip 37,2%, visione 38,3% (11,4 s), 1.348 views. Correzione: lo skip 16,8% di Ice Water delle 23:05 era letto a 1 ora su reach parziale (360); ora e' 38,1% su 1.002 di reach. YouTube: 4.425 views in tutto, 2 iscritti."
  },
  {
   "date": "2026-10-25",
   "order": 2,
   "kind": "Funziona",
-  "text": "Il v2 tiene: 5 reel maturi su 5 escono dal test (1.354-2.016 views) contro 2 su 11 dei v1. Skip mediano 27,9% contro 43%, visione 55,8% contro 28%. Ice Water (22:00) ha lo skip piu' basso di sempre, 16,8%, a 1 ora e ~1.000 views/h: ancora troppo presto per giudicarlo. Il volume non danneggia: con 6 reel al giorno ogni reel porta ancora 1.100-1.500 reach."
+  "text": "Il v2 esce dal test: 6 reel su 6 tra 1.317 e 2.016 views (v1: 2 su 11). Skip mediano 28,5% contro 43% dei v1, visione 55% contro 28%. Il migliore e' Swabs (06:00): skip 20,3%, visione 81%, 2.016 views. Ice Water cresce ancora (+181 views in 30 minuti). Il volume non danneggia: ogni reel porta 1.000-1.500 di reach. Su YouTube Swabs 1.224 e Muscle 1.120 views."
  },
  {
   "date": "2026-10-25",
   "order": 3,
   "kind": "Non funziona",
-  "text": "Invii e follower: 6 condivisioni su 6.100 reach per i 5 v2 maturi (0,10%) e 3 salvataggi; 0 nuovi follower su 8.275 di reach. Taller (19:00) e' il v2 piu' debole: skip 41,6%, visione 39% (apre con 'Doctors', terza persona, non 'you'). Muscle e' fermo (1.470) e Swabs ha aggiunto solo ~50 views in 10 ore."
+  "text": "Invii e follower: 6 condivisioni su 7.135 di reach dei v2 (0,08%), 3 salvataggi, 0 follower nuovi. I due reel della sera sono i v2 piu' deboli: Taller (19:00) skip 41,7% / visione 39% e Ice Water (22:00) 38,1% / 37%, contro 20-29% / 54-81% dei 4 reel di notte, mattina e pomeriggio. Taller e' fermo a 1.354. YouTube: Cut ancora privato (0 views); Space 15 e AI 6 views anche se su Instagram sono andati bene."
  },
  {
   "date": "2026-10-25",
   "order": 4,
   "kind": "Da cambiare",
-  "text": "1. Condivisioni sotto la soglia 0,15% (rule 9): per i prossimi reel spostare la CTA 'send this to the friend who...' a meta' reel (secondo ~10, accanto al fatto da mandare), non solo nella schermata finale. Da decidere con Graziano: i reel ep29-ep43 sono gia' renderizzati."
+  "text": "1. Condivisioni allo 0,08%, sotto la soglia 0,15% (rule 9): dai reel nuovi (dopo ep43) mettere la CTA 'send this to the friend who...' a meta' reel, accanto al fatto da mandare. I reel del 26 e 27 sono gia' pronti e restano cosi'."
  },
  {
   "date": "2026-10-25",
   "order": 5,
   "kind": "Da cambiare",
-  "text": "2. Aprire sempre con 'you/your' + situazione fisica: Ice Water ('You fall into ice water') skip 16,8% contro Taller ('Doctors can break your legs') 41,6%. Riscrivere gli hook con soggetto terzo (es. Doctors, Scientists) in prima persona prima del render."
+  "text": "2. Sera: 2 reel su 2 dopo le 19:00 sopra il 38% di skip. Domani confrontare After Death (19:00) e Lost at Sea (22:00) con i reel del mattino prima di cambiare orari o temi. Giudicare lo skip solo dopo 3 ore (l'errore di Ice Water)."
  },
  {
   "date": "2026-10-25",
   "order": 6,
   "kind": "Da cambiare",
-  "text": "3. Portare gente al profilo: 0 follower su 8.275 reach, 11 visite. Provare la chiusura 'Follow @nnexthuman: one body fact a day' su 3 reel contro 3 senza (E2, una variabile) e misurare visite al profilo e follower."
+  "text": "3. Portare gente al profilo: 0 follower su 8.863 di reach, 11 visite. Provare la chiusura 'Follow @nnexthuman: one body fact a day' su 3 reel contro 3 senza (E2, una variabile) e misurare visite al profilo e follower."
  }
 ]

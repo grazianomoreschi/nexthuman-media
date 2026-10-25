@@ -1,5 +1,15 @@
 # Learnings (newest first)
 
+## 2026-10-25 23:35 (end-of-day addendum)
+- Correction: Ice Water skip 16.8% at 23:05 was read at 1 h on partial reach (360 of 1,136 views). At 1.5 h, reach 1,002:
+  skip 38.1%, watch 37.3%. Lesson: judge skip and watch only after 3 h (baseline already uses 3 h+).
+- So Ice Water ("You fall into...") vs Taller ("Doctors can break...") is 38.1% vs 41.7%: no real evidence for rule 2.
+- v2 n=6: median skip 28.5% vs 43% (v1), watch 55% vs 28%, 6/6 left the first test. Shares 6 on 7,135 reach (0.08%).
+- New IDEA: evening slots weaker. 19:00 and 22:00 v2 skip 38-42% / watch 37-39% vs 20-29% / 54-81% for 02-16. n=2 per
+  side and different topics: check on 26/10 (After Death 19:00, Lost at Sea 22:00).
+- YouTube: Shorts land either at ~1,100-1,250 views (Steps, Clock Shift, Swabs, Muscle) or under 20 (Space, AI); IG
+  winners and YT winners differ. Cut still private on YouTube (0 views).
+
 ## 2026-10-25 23:05 (end-of-day review)
 - Day: 10,583 views, reach 8,275, 8 shares, 5 saves, followers 3 (flat), 11 profile visits. Baseline (last 10, 3 h+): skip 37.2%,
   watch 38.3% (11.4 s), 1,348 views, share rate 0.04%.

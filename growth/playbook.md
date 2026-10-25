@@ -23,6 +23,8 @@ of 36-44 s (avg 11-12 s), ~0 shares/saves/comments, 120-139 views each.
    felt or surprising body fact, not "your" alone.
    2026-10-25 23:05: Ice Water ("You fall into ice water", v2) skip 16.8%, lowest ever; Taller ("Doctors can break
    your legs", third person) skip 41.6%, worst v2. Same format, so the subject of the hook decides.
+   2026-10-25 23:35 correction: Ice Water skip was a 1 h read; at 1.5 h it is 38.1% vs Taller 41.7%, so this pair
+   does not support the rule. Rule stays PROVEN on the 2026-10-24 evidence.
 2b. TESTING (2026-10-24). Frame 1 is a body IN ACTION (falling into ice, holding breath, climbing), not a lab
    object (cell, dish, chart, pen) and not the generic brain opener. Evidence: Cold Plunge (plunge, sea) and
    No Sleep (drunk) vs 80 Years Old (cell, dish, tube) and Ozempic (chart, pen).
@@ -73,6 +75,8 @@ of 36-44 s (avg 11-12 s), ~0 shares/saves/comments, 120-139 views each.
     volume"). Decision for Graziano; measure per-reel retention as volume grows.
     2026-10-23: Graziano keeps the plan (6 reels on 25/10, 7 a day from 26/10). Track per-reel retention vs
     volume and report if it drops.
+17b. IDEA (2026-10-25). Evening slots weaker: 19:00 and 22:00 v2 skip 38-42% vs 20-29% for 02-16 (n=2 vs 4,
+    different topics). Check on 26/10 before moving strong reels away from the evening.
 18. IDEA. Trial Reels to A/B test hooks once the account has 1,000 followers.
 19. IDEA. Trending audio on TikTok (added in-app by Graziano) and on a few Instagram reels, to compare.
 
