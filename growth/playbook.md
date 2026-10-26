@@ -27,7 +27,10 @@ of 36-44 s (avg 11-12 s), ~0 shares/saves/comments, 120-139 views each.
    does not support the rule. Rule stays PROVEN on the 2026-10-24 evidence.
 2b. TESTING (2026-10-24). Frame 1 is a body IN ACTION (falling into ice, holding breath, climbing), not a lab
    object (cell, dish, chart, pen) and not the generic brain opener. 2026-10-26: Fluid Brain ("Your brain fills your skull")
-   37 views/h at 3 h, skip 35.5%, vs Ice Gym 259/h, skip 26.4%: one more case for it. Evidence: Cold Plunge (plunge, sea) and
+   37 views/h at 3 h, skip 35.5%, vs Ice Gym 259/h, skip 26.4%: one more case for it.
+   2026-10-26 23:05: Fluid Brain final 127 views (skip 35.7%); Spit Boil (vacuum, 182 views, skip 38.9%) and Back from Space
+   (133 views, skip 44.6%) also stayed in the first test: remote subjects (space, vacuum, brain trivia) stall, while the
+   body-in-a-habit reels (Ice Gym, Sleep Paralysis, After Death) left it. Evidence: Cold Plunge (plunge, sea) and
    No Sleep (drunk) vs 80 Years Old (cell, dish, tube) and Ozempic (chart, pen).
 2c. TESTING (2026-10-24). Aggressive, moving hook (Graziano): at 0.0 s a punch-in or shake plus a boom, the
    big number already counting, the timer already running. Nothing static in the first second.
@@ -76,7 +79,10 @@ of 36-44 s (avg 11-12 s), ~0 shares/saves/comments, 120-139 views each.
     volume"). Decision for Graziano; measure per-reel retention as volume grows.
     2026-10-23: Graziano keeps the plan (6 reels on 25/10, 7 a day from 26/10). Track per-reel retention vs
     volume and report if it drops.
-17b. IDEA (2026-10-25). Evening slots weaker: 19:00 and 22:00 v2 skip 38-42% vs 20-29% for 02-16 (n=2 vs 4,
+    2026-10-26 23:05: first sign: 7 reels, reach_day 8,643 (6 reels on 25/10: 8,863) and 3 of 7 left the first test (25/10: 6 of 6).
+    Topic is the likelier cause (see 2b, 25) but the reach is flat as volume grows; recheck on 28/10 before any decision.
+17b. IDEA (2026-10-25; 2026-10-26: weakened by After Death 19:00, skip 25%, watch 54%, 205 views/h; Lost at Sea 22:00 too young,
+    recheck 27/10). Evening slots weaker: 19:00 and 22:00 v2 skip 38-42% vs 20-29% for 02-16 (n=2 vs 4,
     different topics). Check on 26/10 before moving strong reels away from the evening.
 18. IDEA. Trial Reels to A/B test hooks once the account has 1,000 followers.
 19. IDEA. Trending audio on TikTok (added in-app by Graziano) and on a few Instagram reels, to compare.
@@ -91,6 +97,11 @@ of 36-44 s (avg 11-12 s), ~0 shares/saves/comments, 120-139 views each.
 23. IDEA. A tiny source line on screen ("BMJ 2018") as an authority cue.
 24. IDEA. Mild body horror and survival limits (no air, water, altitude) drive shares and comments; keep
     visuals non-gory.
+
+25. IDEA (2026-10-26). Topic family "your body + a daily habit + a myth corrected" (cotton swabs, ice bath after the gym,
+    nails after death, cut healing). Evidence: Swabs 2,031 / Ice Gym 1,919 / After Death 841 (4 h, 205/h) all left the first
+    test with skip 20-27%; remote-subject reels (space, vacuum, brain trivia) stalled at ~130. n=4 vs 4, topics differ: needs
+    3 more reels of each family (ep37-43 mix both) before PROVEN.
 
 ## Truth
 20. PROVEN (non-negotiable). Every claim true; hype the tone, not the facts. A source for every timer stop.

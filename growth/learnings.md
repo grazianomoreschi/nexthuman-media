@@ -1,5 +1,15 @@
 # Learnings (newest first)
 
+## 2026-10-26 23:05 (end-of-day review)
+- Day: 11,079 views, reach 8,643, 5 shares, 5 saves, followers 3 (flat), 9 profile visits. Baseline (last 10, 3 h+): skip 33.6%,
+  watch 43.8% (9.3 s), 1,347 views, shares 5 on 8,028 reach (0.06%).
+- 3 of 7 reels left the first test: Ice Gym 1,919 (skip 26.5%), Sleep Paralysis 1,343, After Death 841 at 4 h and 205 views/h (skip 25%).
+  Fluid Brain, Back from Space and Spit Boil stalled at 127-182 views (skip 36-45%). Habit/myth about your own body wins, remote subjects stall.
+- After Death at 19:00 weakens the "evening is weaker" idea (17b). Lost at Sea (22:00) is 1 h old: judge it tomorrow.
+- Sends: 0 shares on all 7 reels of today (After Death 841 views, 0). Mid-reel CTA starts with E3 on 28/10.
+- Volume: reach_day flat at ~8.7k with 7 reels vs 6; 3 of 7 left the test vs 6 of 6. Watch on 28/10 (rule 17).
+- E3/E2 open, no v3 reel yet. No rule changed status; new IDEA 25.
+
 ## 2026-10-26 13:05 (mid-day review)
 - Baseline (last 10, 3 h+): skip 30.3%, watch 50.5% (11.1 s), 1,419 views, shares 0.07% of reach. Day so far: 9,770 views,
   reach 7,742, 5 shares, 5 saves, followers 3, 8 profile visits, 0 new comments.
