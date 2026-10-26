@@ -26,7 +26,8 @@ of 36-44 s (avg 11-12 s), ~0 shares/saves/comments, 120-139 views each.
    2026-10-25 23:35 correction: Ice Water skip was a 1 h read; at 1.5 h it is 38.1% vs Taller 41.7%, so this pair
    does not support the rule. Rule stays PROVEN on the 2026-10-24 evidence.
 2b. TESTING (2026-10-24). Frame 1 is a body IN ACTION (falling into ice, holding breath, climbing), not a lab
-   object (cell, dish, chart, pen) and not the generic brain opener. Evidence: Cold Plunge (plunge, sea) and
+   object (cell, dish, chart, pen) and not the generic brain opener. 2026-10-26: Fluid Brain ("Your brain fills your skull")
+   37 views/h at 3 h, skip 35.5%, vs Ice Gym 259/h, skip 26.4%: one more case for it. Evidence: Cold Plunge (plunge, sea) and
    No Sleep (drunk) vs 80 Years Old (cell, dish, tube) and Ozempic (chart, pen).
 2c. TESTING (2026-10-24). Aggressive, moving hook (Graziano): at 0.0 s a punch-in or shake plus a boom, the
    big number already counting, the timer already running. Nothing static in the first second.

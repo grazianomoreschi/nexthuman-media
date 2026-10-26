@@ -1,5 +1,16 @@
 # Learnings (newest first)
 
+## 2026-10-26 13:05 (mid-day review)
+- Baseline (last 10, 3 h+): skip 30.3%, watch 50.5% (11.1 s), 1,419 views, shares 0.07% of reach. Day so far: 9,770 views,
+  reach 7,742, 5 shares, 5 saves, followers 3, 8 profile visits, 0 new comments.
+- Ice Gym (06:00, 7 h): 1,891 views, 259/h, skip 26.4%, watch 60.4%, 2 saves: best reel so far; YouTube 772. Sleep Paralysis
+  (02:00): 1,303 views, skip 31.5%. Both = a lived situation plus a fact against a habit (rule 2 pattern).
+- Fluid Brain (10:00, 3 h): 124 views, 37 views/h (Cut had ~400/h at 3 h), skip 35.5%: generic "Your brain" opener, like Steps and
+  Stroke before. Still young; recheck at 23:05. Supports rule 2b (no generic brain opener); stays TESTING.
+- Sends still broken: 0 shares on the 4 reels of today (0.07% over the last 10). Mid-reel CTA comes with E3 on 28/10.
+- Slots (17b): 02:00 and 06:00 skip 31.5% / 26.4%, so mornings stay strong; evening check waits for After Death 19:00 and
+  22:00. No rule changed status.
+
 ## 2026-10-25 23:55 (TikTok)
 - TikTok: all 6 videos of 25/10 at 0 views although public; the 24/10 ones had ~80 views each. Likely held back by
   TikTok (review or restriction), cause not confirmed. Graziano pauses TikTok for 2-3 days (until about 28/10); then

@@ -61,5 +61,26 @@
   "ig_shares_total": 8,
   "ig_saves_total": 6,
   "ig_comments_total": 11
+ },
+ {
+  "date": "2026-10-26",
+  "followers": 3,
+  "posts": 21,
+  "reach_day": 7742,
+  "views_day": 9770,
+  "profile_views_day": 8,
+  "engaged_day": 86,
+  "interactions_day": 92,
+  "shares_day": 5,
+  "saves_day": 5,
+  "link_clicks_day": 0,
+  "yt_subscribers": 4,
+  "yt_views": 4425,
+  "ig_views_total": 17348,
+  "ig_reels": 21,
+  "ig_likes_total": 136,
+  "ig_shares_total": 8,
+  "ig_saves_total": 8,
+  "ig_comments_total": 15
  }
 ]
