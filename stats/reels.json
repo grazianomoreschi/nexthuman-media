@@ -1,10 +1,10 @@
 [
  {
   "platform": "Instagram",
-  "id": "18503941591100778",
-  "posted": "2026-10-27 13:03",
-  "title": "Skip food. When does your body burn fat? 🔥",
-  "link": "https://www.instagram.com/reel/De_z-mKk6Fb/",
+  "id": "17943146976364278",
+  "posted": "2026-10-27 17:36",
+  "title": "Above 8,000 m, your body is slowly dying. 🏔️",
+  "link": "https://www.instagram.com/reel/DfATPOolVey/",
   "views": 0,
   "reach": 0,
   "likes": 0,
@@ -15,6 +15,48 @@
   "avg_watch_s": null,
   "skip_rate_pct": 0,
   "total_watch_min": null,
+  "episode": "ep41_deathzone_en",
+  "pillar": "body",
+  "topic": "altitude",
+  "duration_s": 19.8,
+  "format": "timer-explainer",
+  "tags": [
+   "v2",
+   "hook-hit",
+   "no-intro",
+   "no-voice",
+   "chiptune",
+   "len-20-25s",
+   "send-cta",
+   "extreme-environment",
+   "idea-bank-11"
+  ],
+  "hook": "ABOVE 8,000 M, YOUR BODY IS SLOWLY *DYING*.",
+  "first_timer_at_s": 0.0,
+  "like_rate_pct": null,
+  "share_rate_pct": null,
+  "save_rate_pct": null,
+  "comment_rate_pct": null,
+  "post_hour": 17,
+  "age_h": 0.0,
+  "views_per_h": 0.0
+ },
+ {
+  "platform": "Instagram",
+  "id": "18503941591100778",
+  "posted": "2026-10-27 13:03",
+  "title": "Skip food. When does your body burn fat? 🔥",
+  "link": "https://www.instagram.com/reel/De_z-mKk6Fb/",
+  "views": 1292,
+  "reach": 936,
+  "likes": 7,
+  "comments": 2,
+  "shares": 1,
+  "saves": 1,
+  "interactions": 12,
+  "avg_watch_s": 10.8,
+  "skip_rate_pct": 34.2,
+  "total_watch_min": 167.8,
   "episode": "ep40_fatburn_en",
   "pillar": "body",
   "topic": "fasting",
@@ -33,13 +75,14 @@
   ],
   "hook": "SKIP FOOD. WHEN DOES YOUR BODY *BURN FAT*?",
   "first_timer_at_s": 0.0,
-  "like_rate_pct": null,
-  "share_rate_pct": null,
-  "save_rate_pct": null,
-  "comment_rate_pct": null,
+  "like_rate_pct": 0.75,
+  "share_rate_pct": 0.11,
+  "save_rate_pct": 0.11,
+  "comment_rate_pct": 0.21,
+  "watch_pct": 54.5,
   "post_hour": 13,
-  "age_h": 0.2,
-  "views_per_h": 0.0
+  "age_h": 4.6,
+  "views_per_h": 280.9
  },
  {
   "platform": "Instagram",
@@ -47,16 +90,16 @@
   "posted": "2026-10-27 10:03",
   "title": "Swallow a pill. Here's its trip. 💊",
   "link": "https://www.instagram.com/reel/De_fY7QD202/",
-  "views": 1242,
-  "reach": 843,
-  "likes": 8,
+  "views": 1494,
+  "reach": 1172,
+  "likes": 10,
   "comments": 1,
   "shares": 2,
   "saves": 0,
-  "interactions": 11,
-  "avg_watch_s": 9.8,
-  "skip_rate_pct": 23.8,
-  "total_watch_min": 136.0,
+  "interactions": 13,
+  "avg_watch_s": 10.0,
+  "skip_rate_pct": 27.5,
+  "total_watch_min": 192.4,
   "episode": "ep39_pill_en",
   "pillar": "body",
   "topic": "medicine",
@@ -75,14 +118,14 @@
   ],
   "hook": "SWALLOW A PILL. HERE'S ITS *TRIP*.",
   "first_timer_at_s": 0.0,
-  "like_rate_pct": 0.95,
-  "share_rate_pct": 0.24,
+  "like_rate_pct": 0.85,
+  "share_rate_pct": 0.17,
   "save_rate_pct": 0.0,
-  "comment_rate_pct": 0.12,
-  "watch_pct": 49.0,
+  "comment_rate_pct": 0.09,
+  "watch_pct": 50.0,
   "post_hour": 10,
-  "age_h": 3.2,
-  "views_per_h": 388.1
+  "age_h": 7.6,
+  "views_per_h": 196.6
  },
  {
   "platform": "Instagram",
@@ -90,8 +133,8 @@
   "posted": "2026-10-27 06:02",
   "title": "Eat a donut. Your blood sugar shoots up. 🍩",
   "link": "https://www.instagram.com/reel/De_D0xfkki0/",
-  "views": 1336,
-  "reach": 1114,
+  "views": 1351,
+  "reach": 1125,
   "likes": 10,
   "comments": 1,
   "shares": 4,
@@ -99,7 +142,7 @@
   "interactions": 19,
   "avg_watch_s": 8.2,
   "skip_rate_pct": 34.9,
-  "total_watch_min": 150.4,
+  "total_watch_min": 151.4,
   "episode": "ep38_sugar_en",
   "pillar": "body",
   "topic": "nutrition",
@@ -118,14 +161,14 @@
   ],
   "hook": "EAT A DONUT. YOUR BLOOD SUGAR *SHOOTS UP*.",
   "first_timer_at_s": 0.0,
-  "like_rate_pct": 0.9,
+  "like_rate_pct": 0.89,
   "share_rate_pct": 0.36,
   "save_rate_pct": 0.36,
   "comment_rate_pct": 0.09,
   "watch_pct": 38.0,
   "post_hour": 6,
-  "age_h": 7.2,
-  "views_per_h": 185.6
+  "age_h": 11.6,
+  "views_per_h": 116.5
  },
  {
   "platform": "Instagram",
@@ -133,16 +176,16 @@
   "posted": "2026-10-27 02:03",
   "title": "Your coffee doesn't give you energy. ☕",
   "link": "https://www.instagram.com/reel/De-odXcFcRT/",
-  "views": 165,
-  "reach": 138,
+  "views": 190,
+  "reach": 156,
   "likes": 0,
   "comments": 1,
   "shares": 0,
   "saves": 0,
   "interactions": 1,
-  "avg_watch_s": 7.4,
-  "skip_rate_pct": 44.7,
-  "total_watch_min": 17.3,
+  "avg_watch_s": 7.5,
+  "skip_rate_pct": 45.3,
+  "total_watch_min": 20.0,
   "episode": "ep37_coffee_en",
   "pillar": "body",
   "topic": "caffeine",
@@ -164,11 +207,11 @@
   "like_rate_pct": 0.0,
   "share_rate_pct": 0.0,
   "save_rate_pct": 0.0,
-  "comment_rate_pct": 0.72,
-  "watch_pct": 37.4,
+  "comment_rate_pct": 0.64,
+  "watch_pct": 37.9,
   "post_hour": 2,
-  "age_h": 11.2,
-  "views_per_h": 14.7
+  "age_h": 15.6,
+  "views_per_h": 12.2
  },
  {
   "platform": "Instagram",
@@ -176,16 +219,16 @@
   "posted": "2026-10-26 22:01",
   "title": "Lost at sea, you'd last days. He lasted 133. 🌊",
   "link": "https://www.instagram.com/reel/De-MxkmDWVp/",
-  "views": 145,
-  "reach": 123,
+  "views": 147,
+  "reach": 125,
   "likes": 3,
   "comments": 1,
   "shares": 0,
   "saves": 0,
   "interactions": 4,
-  "avg_watch_s": 5.7,
-  "skip_rate_pct": 50.8,
-  "total_watch_min": 11.5,
+  "avg_watch_s": 5.8,
+  "skip_rate_pct": 50,
+  "total_watch_min": 11.8,
   "episode": "ep36_raft_en",
   "pillar": "body",
   "topic": "survival",
@@ -204,14 +247,14 @@
   ],
   "hook": "LOST AT SEA, YOU'D LAST DAYS. HE LASTED *133*.",
   "first_timer_at_s": 0.0,
-  "like_rate_pct": 2.44,
+  "like_rate_pct": 2.4,
   "share_rate_pct": 0.0,
   "save_rate_pct": 0.0,
-  "comment_rate_pct": 0.81,
-  "watch_pct": 28.5,
+  "comment_rate_pct": 0.8,
+  "watch_pct": 29.0,
   "post_hour": 22,
-  "age_h": 15.3,
-  "views_per_h": 9.5
+  "age_h": 19.6,
+  "views_per_h": 7.5
  },
  {
   "platform": "Instagram",
@@ -219,16 +262,16 @@
   "posted": "2026-10-26 19:03",
   "title": "Your nails don't keep growing after you die. 🖐️",
   "link": "https://www.instagram.com/reel/De94W6fD1Gf/",
-  "views": 1349,
-  "reach": 1030,
+  "views": 1361,
+  "reach": 1039,
   "likes": 9,
   "comments": 1,
   "shares": 0,
   "saves": 1,
   "interactions": 11,
-  "avg_watch_s": 11.2,
-  "skip_rate_pct": 27.6,
-  "total_watch_min": 190.7,
+  "avg_watch_s": 11.3,
+  "skip_rate_pct": 27.7,
+  "total_watch_min": 193.3,
   "episode": "ep29_afterdeath_en",
   "pillar": "body",
   "topic": "death",
@@ -252,10 +295,10 @@
   "share_rate_pct": 0.0,
   "save_rate_pct": 0.1,
   "comment_rate_pct": 0.1,
-  "watch_pct": 54.9,
+  "watch_pct": 55.4,
   "post_hour": 19,
-  "age_h": 18.2,
-  "views_per_h": 74.1
+  "age_h": 22.6,
+  "views_per_h": 60.2
  },
  {
   "platform": "Instagram",
@@ -297,8 +340,8 @@
   "comment_rate_pct": 0.89,
   "watch_pct": 37.0,
   "post_hour": 16,
-  "age_h": 21.3,
-  "views_per_h": 6.3
+  "age_h": 25.6,
+  "views_per_h": 5.3
  },
  {
   "platform": "Instagram",
@@ -306,16 +349,16 @@
   "posted": "2026-10-26 13:00",
   "title": "In a vacuum, the spit on your tongue boils. One man felt it. 🫧",
   "link": "https://www.instagram.com/reel/De9O3ZACOiq/",
-  "views": 207,
-  "reach": 174,
+  "views": 208,
+  "reach": 175,
   "likes": 0,
   "comments": 1,
   "shares": 0,
   "saves": 0,
   "interactions": 1,
   "avg_watch_s": 8.6,
-  "skip_rate_pct": 37.5,
-  "total_watch_min": 25.3,
+  "skip_rate_pct": 37.9,
+  "total_watch_min": 25.4,
   "episode": "ep34_spitboil_en",
   "pillar": "future",
   "topic": "space",
@@ -340,8 +383,8 @@
   "comment_rate_pct": 0.57,
   "watch_pct": 43.0,
   "post_hour": 13,
-  "age_h": 24.3,
-  "views_per_h": 8.5
+  "age_h": 28.6,
+  "views_per_h": 7.3
  },
  {
   "platform": "Instagram",
@@ -383,8 +426,8 @@
   "comment_rate_pct": 0.92,
   "watch_pct": 38.2,
   "post_hour": 10,
-  "age_h": 27.2,
-  "views_per_h": 4.7
+  "age_h": 31.6,
+  "views_per_h": 4.0
  },
  {
   "platform": "Instagram",
@@ -392,7 +435,7 @@
   "posted": "2026-10-26 06:02",
   "title": "An ice bath after the gym can slow your gains. 🧊💪",
   "link": "https://www.instagram.com/reel/De8e-Mzih1Y/",
-  "views": 1931,
+  "views": 1934,
   "reach": 1396,
   "likes": 11,
   "comments": 1,
@@ -401,7 +444,7 @@
   "interactions": 14,
   "avg_watch_s": 12.2,
   "skip_rate_pct": 26.4,
-  "total_watch_min": 284.9,
+  "total_watch_min": 285.3,
   "episode": "ep32_icegym_en",
   "pillar": "body",
   "topic": "cold",
@@ -426,8 +469,8 @@
   "comment_rate_pct": 0.07,
   "watch_pct": 60.4,
   "post_hour": 6,
-  "age_h": 31.2,
-  "views_per_h": 61.9
+  "age_h": 35.6,
+  "views_per_h": 54.3
  },
  {
   "platform": "Instagram",
@@ -469,8 +512,8 @@
   "comment_rate_pct": 0.09,
   "watch_pct": 47.5,
   "post_hour": 2,
-  "age_h": 35.3,
-  "views_per_h": 38.1
+  "age_h": 39.6,
+  "views_per_h": 34.0
  },
  {
   "platform": "Instagram",
@@ -513,8 +556,8 @@
   "comment_rate_pct": 0.09,
   "watch_pct": 39.0,
   "post_hour": 22,
-  "age_h": 39.2,
-  "views_per_h": 34.5
+  "age_h": 43.6,
+  "views_per_h": 31.0
  },
  {
   "platform": "Instagram",
@@ -557,8 +600,8 @@
   "comment_rate_pct": 0.09,
   "watch_pct": 39.3,
   "post_hour": 19,
-  "age_h": 42.2,
-  "views_per_h": 32.5
+  "age_h": 46.6,
+  "views_per_h": 29.4
  },
  {
   "platform": "Instagram",
@@ -566,8 +609,8 @@
   "posted": "2026-10-25 16:02",
   "title": "Your bones are stronger than concrete. 🦴",
   "link": "https://www.instagram.com/reel/De6-53FFBGh/",
-  "views": 1573,
-  "reach": 1251,
+  "views": 1574,
+  "reach": 1252,
   "likes": 12,
   "comments": 1,
   "shares": 0,
@@ -575,7 +618,7 @@
   "interactions": 13,
   "avg_watch_s": 11.5,
   "skip_rate_pct": 28,
-  "total_watch_min": 239.3,
+  "total_watch_min": 239.6,
   "episode": "ep27_bones_en",
   "pillar": "body",
   "topic": "bones",
@@ -601,8 +644,8 @@
   "comment_rate_pct": 0.08,
   "watch_pct": 55.8,
   "post_hour": 16,
-  "age_h": 45.2,
-  "views_per_h": 34.8
+  "age_h": 49.6,
+  "views_per_h": 31.7
  },
  {
   "platform": "Instagram",
@@ -645,8 +688,8 @@
   "comment_rate_pct": 0.09,
   "watch_pct": 53.5,
   "post_hour": 10,
-  "age_h": 51.2,
-  "views_per_h": 29.0
+  "age_h": 55.6,
+  "views_per_h": 26.7
  },
  {
   "platform": "Instagram",
@@ -689,8 +732,8 @@
   "comment_rate_pct": 0.06,
   "watch_pct": 80.5,
   "post_hour": 6,
-  "age_h": 55.3,
-  "views_per_h": 36.8
+  "age_h": 59.6,
+  "views_per_h": 34.1
  },
  {
   "platform": "Instagram",
@@ -733,8 +776,8 @@
   "comment_rate_pct": 0.09,
   "watch_pct": 56.8,
   "post_hour": 2,
-  "age_h": 59.2,
-  "views_per_h": 24.9
+  "age_h": 63.6,
+  "views_per_h": 23.1
  },
  {
   "platform": "Instagram",
@@ -771,8 +814,8 @@
   "comment_rate_pct": 0.13,
   "watch_pct": 30.7,
   "post_hour": 22,
-  "age_h": 63.3,
-  "views_per_h": 14.1
+  "age_h": 67.6,
+  "views_per_h": 13.2
  },
  {
   "platform": "Instagram",
@@ -809,8 +852,8 @@
   "comment_rate_pct": 0.09,
   "watch_pct": 37.2,
   "post_hour": 16,
-  "age_h": 69.2,
-  "views_per_h": 19.4
+  "age_h": 73.6,
+  "views_per_h": 18.2
  },
  {
   "platform": "Instagram",
@@ -847,8 +890,8 @@
   "comment_rate_pct": 0.89,
   "watch_pct": 29.1,
   "post_hour": 10,
-  "age_h": 75.2,
-  "views_per_h": 1.8
+  "age_h": 79.6,
+  "views_per_h": 1.7
  },
  {
   "platform": "Instagram",
@@ -885,8 +928,8 @@
   "comment_rate_pct": 0.86,
   "watch_pct": 20.9,
   "post_hour": 6,
-  "age_h": 79.3,
-  "views_per_h": 1.7
+  "age_h": 83.6,
+  "views_per_h": 1.6
  },
  {
   "platform": "Instagram",
@@ -923,8 +966,8 @@
   "comment_rate_pct": 0.88,
   "watch_pct": 25.9,
   "post_hour": 2,
-  "age_h": 83.3,
-  "views_per_h": 1.5
+  "age_h": 87.6,
+  "views_per_h": 1.4
  },
  {
   "platform": "Instagram",
@@ -961,8 +1004,8 @@
   "comment_rate_pct": 0.0,
   "watch_pct": 41.7,
   "post_hour": 22,
-  "age_h": 87.3,
-  "views_per_h": 16.8
+  "age_h": 91.6,
+  "views_per_h": 16.0
  },
  {
   "platform": "Instagram",
@@ -999,8 +1042,8 @@
   "comment_rate_pct": 0.0,
   "watch_pct": 18.9,
   "post_hour": 16,
-  "age_h": 93.3,
-  "views_per_h": 1.6
+  "age_h": 97.6,
+  "views_per_h": 1.5
  },
  {
   "platform": "Instagram",
@@ -1037,8 +1080,8 @@
   "comment_rate_pct": 0.0,
   "watch_pct": 24.2,
   "post_hour": 10,
-  "age_h": 99.3,
-  "views_per_h": 1.3
+  "age_h": 103.6,
+  "views_per_h": 1.2
  },
  {
   "platform": "Instagram",
@@ -1075,7 +1118,7 @@
   "comment_rate_pct": 0.0,
   "watch_pct": 30.8,
   "post_hour": 6,
-  "age_h": 103.3,
+  "age_h": 107.6,
   "views_per_h": 1.3
  },
  {
@@ -1113,7 +1156,7 @@
   "comment_rate_pct": 0.0,
   "watch_pct": 25.5,
   "post_hour": 2,
-  "age_h": 107.3,
+  "age_h": 111.6,
   "views_per_h": 1.3
  },
  {
@@ -1122,16 +1165,16 @@
   "posted": "2026-10-22 22:14",
   "title": "Your body starts healing 20 minutes after your last cigarette. 🫁",
   "link": "https://www.instagram.com/reel/Dez0LOxtFV0/",
-  "views": 133,
-  "reach": 123,
+  "views": 134,
+  "reach": 124,
   "likes": 1,
   "comments": 0,
   "shares": 0,
   "saves": 0,
   "interactions": 1,
   "avg_watch_s": 12.4,
-  "skip_rate_pct": 37.7,
-  "total_watch_min": 25.5,
+  "skip_rate_pct": 37.4,
+  "total_watch_min": 25.6,
   "episode": "ep07_quit_smoking_en",
   "pillar": "body",
   "topic": "habits",
@@ -1151,8 +1194,44 @@
   "comment_rate_pct": 0.0,
   "watch_pct": 28.3,
   "post_hour": 22,
-  "age_h": 111.0,
+  "age_h": 115.4,
   "views_per_h": 1.2
+ },
+ {
+  "platform": "YouTube",
+  "id": "J5gYQhOSkro",
+  "posted": "2026-10-27 16:00",
+  "title": "Above 8,000 m, your body is slowly dying 🏔️",
+  "link": "https://youtube.com/shorts/J5gYQhOSkro",
+  "status": "public",
+  "views": 0,
+  "likes": 0,
+  "comments": 0,
+  "episode": "ep41_deathzone_en",
+  "pillar": "body",
+  "topic": "altitude",
+  "duration_s": 19.8,
+  "format": "timer-explainer",
+  "tags": [
+   "v2",
+   "hook-hit",
+   "no-intro",
+   "no-voice",
+   "chiptune",
+   "len-20-25s",
+   "send-cta",
+   "extreme-environment",
+   "idea-bank-11"
+  ],
+  "hook": "ABOVE 8,000 M, YOUR BODY IS SLOWLY *DYING*.",
+  "first_timer_at_s": 0.0,
+  "like_rate_pct": null,
+  "share_rate_pct": null,
+  "save_rate_pct": null,
+  "comment_rate_pct": null,
+  "post_hour": 16,
+  "age_h": 1.6,
+  "views_per_h": 0.0
  },
  {
   "platform": "YouTube",
@@ -1161,8 +1240,8 @@
   "title": "Skip food. When does your body start burning fat? 🔥",
   "link": "https://youtube.com/shorts/c5nGhoBgBrQ",
   "status": "public",
-  "views": 0,
-  "likes": 0,
+  "views": 804,
+  "likes": 9,
   "comments": 0,
   "episode": "ep40_fatburn_en",
   "pillar": "body",
@@ -1182,13 +1261,13 @@
   ],
   "hook": "SKIP FOOD. WHEN DOES YOUR BODY *BURN FAT*?",
   "first_timer_at_s": 0.0,
-  "like_rate_pct": null,
-  "share_rate_pct": null,
-  "save_rate_pct": null,
-  "comment_rate_pct": null,
+  "like_rate_pct": 1.12,
+  "share_rate_pct": 0.0,
+  "save_rate_pct": 0.0,
+  "comment_rate_pct": 0.0,
   "post_hour": 13,
-  "age_h": 0.3,
-  "views_per_h": 0.0
+  "age_h": 4.6,
+  "views_per_h": 174.8
  },
  {
   "platform": "YouTube",
@@ -1197,8 +1276,8 @@
   "title": "Swallow a pill. Here's its trip inside your body 💊",
   "link": "https://youtube.com/shorts/HeMwJBpKYhc",
   "status": "public",
-  "views": 787,
-  "likes": 14,
+  "views": 1027,
+  "likes": 12,
   "comments": 0,
   "episode": "ep39_pill_en",
   "pillar": "body",
@@ -1218,13 +1297,13 @@
   ],
   "hook": "SWALLOW A PILL. HERE'S ITS *TRIP*.",
   "first_timer_at_s": 0.0,
-  "like_rate_pct": 1.78,
+  "like_rate_pct": 1.17,
   "share_rate_pct": 0.0,
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 10,
-  "age_h": 3.3,
-  "views_per_h": 238.5
+  "age_h": 7.6,
+  "views_per_h": 135.1
  },
  {
   "platform": "YouTube",
@@ -1233,7 +1312,7 @@
   "title": "Eat a donut. Your blood sugar shoots up 🍩",
   "link": "https://youtube.com/shorts/u66crMO1Sg8",
   "status": "public",
-  "views": 1090,
+  "views": 1106,
   "likes": 2,
   "comments": 0,
   "episode": "ep38_sugar_en",
@@ -1259,8 +1338,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 6,
-  "age_h": 7.3,
-  "views_per_h": 149.3
+  "age_h": 11.6,
+  "views_per_h": 95.3
  },
  {
   "platform": "YouTube",
@@ -1269,7 +1348,7 @@
   "title": "Your coffee doesn't give you energy ☕",
   "link": "https://youtube.com/shorts/voB2RkOc4Q4",
   "status": "public",
-  "views": 330,
+  "views": 526,
   "likes": 6,
   "comments": 0,
   "episode": "ep37_coffee_en",
@@ -1290,13 +1369,13 @@
   ],
   "hook": "YOUR COFFEE DOESN'T GIVE YOU *ENERGY*.",
   "first_timer_at_s": 0.0,
-  "like_rate_pct": 1.82,
+  "like_rate_pct": 1.14,
   "share_rate_pct": 0.0,
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 2,
-  "age_h": 11.3,
-  "views_per_h": 29.2
+  "age_h": 15.6,
+  "views_per_h": 33.7
  },
  {
   "platform": "YouTube",
@@ -1334,7 +1413,7 @@
   "save_rate_pct": null,
   "comment_rate_pct": null,
   "post_hour": 0,
-  "age_h": 13.1,
+  "age_h": 17.4,
   "views_per_h": 0.0
  },
  {
@@ -1374,7 +1453,7 @@
   "save_rate_pct": null,
   "comment_rate_pct": null,
   "post_hour": 0,
-  "age_h": 13.1,
+  "age_h": 17.4,
   "views_per_h": 0.0
  },
  {
@@ -1413,7 +1492,7 @@
   "save_rate_pct": null,
   "comment_rate_pct": null,
   "post_hour": 0,
-  "age_h": 13.1,
+  "age_h": 17.4,
   "views_per_h": 0.0
  },
  {
@@ -1453,7 +1532,7 @@
   "save_rate_pct": null,
   "comment_rate_pct": null,
   "post_hour": 0,
-  "age_h": 13.1,
+  "age_h": 17.4,
   "views_per_h": 0.0
  },
  {
@@ -1492,7 +1571,7 @@
   "save_rate_pct": null,
   "comment_rate_pct": null,
   "post_hour": 0,
-  "age_h": 13.1,
+  "age_h": 17.4,
   "views_per_h": 0.0
  },
  {
@@ -1502,7 +1581,7 @@
   "title": "Lost at sea, you'd last days. He lasted 133 🌊",
   "link": "https://youtube.com/shorts/fS94ss_3Erc",
   "status": "public",
-  "views": 961,
+  "views": 948,
   "likes": 6,
   "comments": 0,
   "episode": "ep36_raft_en",
@@ -1523,13 +1602,13 @@
   ],
   "hook": "LOST AT SEA, YOU'D LAST DAYS. HE LASTED *133*.",
   "first_timer_at_s": 0.0,
-  "like_rate_pct": 0.62,
+  "like_rate_pct": 0.63,
   "share_rate_pct": 0.0,
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 22,
-  "age_h": 15.3,
-  "views_per_h": 62.8
+  "age_h": 19.6,
+  "views_per_h": 48.4
  },
  {
   "platform": "YouTube",
@@ -1538,7 +1617,7 @@
   "title": "Your nails don't keep growing after you die 🖐️",
   "link": "https://youtube.com/shorts/D_F7zdk2zzs",
   "status": "public",
-  "views": 164,
+  "views": 166,
   "likes": 2,
   "comments": 0,
   "episode": "ep29_afterdeath_en",
@@ -1560,13 +1639,13 @@
   ],
   "hook": "YOUR NAILS DON'T KEEP GROWING AFTER YOU *DIE*.",
   "first_timer_at_s": 0.0,
-  "like_rate_pct": 1.22,
+  "like_rate_pct": 1.2,
   "share_rate_pct": 0.0,
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 19,
-  "age_h": 18.3,
-  "views_per_h": 9.0
+  "age_h": 22.6,
+  "views_per_h": 7.3
  },
  {
   "platform": "YouTube",
@@ -1575,8 +1654,8 @@
   "title": "6 months in space. Now you can't walk straight 🧑‍🚀",
   "link": "https://youtube.com/shorts/pcZBhmkffBQ",
   "status": "public",
-  "views": 348,
-  "likes": 3,
+  "views": 566,
+  "likes": 5,
   "comments": 0,
   "episode": "ep35_backfromspace_en",
   "pillar": "future",
@@ -1596,13 +1675,13 @@
   ],
   "hook": "6 MONTHS IN SPACE. NOW YOU *CAN'T WALK* STRAIGHT.",
   "first_timer_at_s": 0.0,
-  "like_rate_pct": 0.86,
+  "like_rate_pct": 0.88,
   "share_rate_pct": 0.0,
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 16,
-  "age_h": 21.3,
-  "views_per_h": 16.3
+  "age_h": 25.6,
+  "views_per_h": 22.1
  },
  {
   "platform": "YouTube",
@@ -1611,7 +1690,7 @@
   "title": "In a vacuum, the spit on your tongue boils. One man felt it 🫧",
   "link": "https://youtube.com/shorts/gGLJUGFnUR8",
   "status": "public",
-  "views": 1124,
+  "views": 1134,
   "likes": 15,
   "comments": 0,
   "episode": "ep34_spitboil_en",
@@ -1632,13 +1711,13 @@
   ],
   "hook": "IN A VACUUM, THE SPIT ON YOUR TONGUE *BOILS*.",
   "first_timer_at_s": 0.0,
-  "like_rate_pct": 1.33,
+  "like_rate_pct": 1.32,
   "share_rate_pct": 0.0,
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 13,
-  "age_h": 24.3,
-  "views_per_h": 46.3
+  "age_h": 28.6,
+  "views_per_h": 39.7
  },
  {
   "platform": "YouTube",
@@ -1673,8 +1752,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 10,
-  "age_h": 27.3,
-  "views_per_h": 11.7
+  "age_h": 31.6,
+  "views_per_h": 10.1
  },
  {
   "platform": "YouTube",
@@ -1710,8 +1789,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 10,
-  "age_h": 27.3,
-  "views_per_h": 35.4
+  "age_h": 31.6,
+  "views_per_h": 30.6
  },
  {
   "platform": "YouTube",
@@ -1720,7 +1799,7 @@
   "title": "An ice bath after the gym can slow your gains 🧊",
   "link": "https://youtube.com/shorts/7OTkHC9Y71I",
   "status": "public",
-  "views": 1149,
+  "views": 1150,
   "likes": 6,
   "comments": 0,
   "episode": "ep32_icegym_en",
@@ -1746,8 +1825,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 6,
-  "age_h": 31.3,
-  "views_per_h": 36.7
+  "age_h": 35.6,
+  "views_per_h": 32.3
  },
  {
   "platform": "YouTube",
@@ -1756,7 +1835,7 @@
   "title": "You wake up. Your body doesn't. This is sleep paralysis 😶",
   "link": "https://youtube.com/shorts/fO7yLh2HoSM",
   "status": "public",
-  "views": 240,
+  "views": 241,
   "likes": 3,
   "comments": 0,
   "episode": "ep31_sleepparalysis_en",
@@ -1777,13 +1856,13 @@
   ],
   "hook": "YOU WAKE UP. YOUR BODY *DOESN'T*.",
   "first_timer_at_s": 0.0,
-  "like_rate_pct": 1.25,
+  "like_rate_pct": 1.24,
   "share_rate_pct": 0.0,
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 2,
-  "age_h": 35.3,
-  "views_per_h": 6.8
+  "age_h": 39.6,
+  "views_per_h": 6.1
  },
  {
   "platform": "YouTube",
@@ -1818,7 +1897,7 @@
   "save_rate_pct": null,
   "comment_rate_pct": null,
   "post_hour": 23,
-  "age_h": 37.4,
+  "age_h": 41.8,
   "views_per_h": 0.0
  },
  {
@@ -1854,43 +1933,7 @@
   "save_rate_pct": null,
   "comment_rate_pct": null,
   "post_hour": 23,
-  "age_h": 37.4,
-  "views_per_h": 0.0
- },
- {
-  "platform": "YouTube",
-  "id": "J5gYQhOSkro",
-  "posted": "2026-10-25 23:50",
-  "title": "Above 8,000 m, your body is slowly dying 🏔️",
-  "link": "https://youtube.com/shorts/J5gYQhOSkro",
-  "status": "private",
-  "views": 0,
-  "likes": 0,
-  "comments": 0,
-  "episode": "ep41_deathzone_en",
-  "pillar": "body",
-  "topic": "altitude",
-  "duration_s": 19.8,
-  "format": "timer-explainer",
-  "tags": [
-   "v2",
-   "hook-hit",
-   "no-intro",
-   "no-voice",
-   "chiptune",
-   "len-20-25s",
-   "send-cta",
-   "extreme-environment",
-   "idea-bank-11"
-  ],
-  "hook": "ABOVE 8,000 M, YOUR BODY IS SLOWLY *DYING*.",
-  "first_timer_at_s": 0.0,
-  "like_rate_pct": null,
-  "share_rate_pct": null,
-  "save_rate_pct": null,
-  "comment_rate_pct": null,
-  "post_hour": 23,
-  "age_h": 37.4,
+  "age_h": 41.8,
   "views_per_h": 0.0
  },
  {
@@ -1900,7 +1943,7 @@
   "title": "You fall into ice water. The first minute decides 🧊",
   "link": "https://youtube.com/shorts/q8WtyrwAFYw",
   "status": "public",
-  "views": 1230,
+  "views": 1231,
   "likes": 13,
   "comments": 0,
   "episode": "ep30_icewater_en",
@@ -1927,8 +1970,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 22,
-  "age_h": 39.3,
-  "views_per_h": 31.3
+  "age_h": 43.6,
+  "views_per_h": 28.2
  },
  {
   "platform": "YouTube",
@@ -1937,7 +1980,7 @@
   "title": "Doctors can break your legs to make you taller 🦵",
   "link": "https://youtube.com/shorts/UntyDe4D4QQ",
   "status": "public",
-  "views": 377,
+  "views": 401,
   "likes": 1,
   "comments": 0,
   "episode": "ep28_taller_en",
@@ -1959,13 +2002,13 @@
   ],
   "hook": "DOCTORS CAN BREAK YOUR LEGS TO MAKE YOU *TALLER*.",
   "first_timer_at_s": 0.0,
-  "like_rate_pct": 0.27,
+  "like_rate_pct": 0.25,
   "share_rate_pct": 0.0,
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 19,
-  "age_h": 42.3,
-  "views_per_h": 8.9
+  "age_h": 46.6,
+  "views_per_h": 8.6
  },
  {
   "platform": "YouTube",
@@ -2001,8 +2044,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 16,
-  "age_h": 45.3,
-  "views_per_h": 28.1
+  "age_h": 49.6,
+  "views_per_h": 25.6
  },
  {
   "platform": "YouTube",
@@ -2038,8 +2081,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 6,
-  "age_h": 55.3,
-  "views_per_h": 22.5
+  "age_h": 59.6,
+  "views_per_h": 20.8
  },
  {
   "platform": "YouTube",
@@ -2075,8 +2118,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 2,
-  "age_h": 59.3,
-  "views_per_h": 23.8
+  "age_h": 63.6,
+  "views_per_h": 22.2
  },
  {
   "platform": "YouTube",
@@ -2106,7 +2149,7 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 22,
-  "age_h": 63.3,
+  "age_h": 67.6,
   "views_per_h": 0.2
  },
  {
@@ -2137,7 +2180,7 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 16,
-  "age_h": 69.3,
+  "age_h": 73.6,
   "views_per_h": 0.3
  },
  {
@@ -2168,8 +2211,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 10,
-  "age_h": 75.3,
-  "views_per_h": 16.6
+  "age_h": 79.6,
+  "views_per_h": 15.7
  },
  {
   "platform": "YouTube",
@@ -2199,8 +2242,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.33,
   "post_hour": 6,
-  "age_h": 79.3,
-  "views_per_h": 15.4
+  "age_h": 83.6,
+  "views_per_h": 14.6
  },
  {
   "platform": "YouTube",
@@ -2209,7 +2252,7 @@
   "title": "A man fought a humanoid robot. Watch what happens to his body 🤖",
   "link": "https://youtube.com/shorts/hNKHOnikkFI",
   "status": "public",
-  "views": 636,
+  "views": 637,
   "likes": 12,
   "comments": 1,
   "episode": "ep13_robot_en",
@@ -2225,12 +2268,12 @@
   ],
   "hook": "A MAN STEPPED INTO A CAGE WITH A HUMANOID *ROBOT*.",
   "first_timer_at_s": 4.2,
-  "like_rate_pct": 1.89,
+  "like_rate_pct": 1.88,
   "share_rate_pct": 0.0,
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.16,
   "post_hour": 2,
-  "age_h": 83.3,
-  "views_per_h": 7.6
+  "age_h": 87.6,
+  "views_per_h": 7.3
  }
 ]
