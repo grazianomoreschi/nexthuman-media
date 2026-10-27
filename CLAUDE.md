@@ -11,6 +11,9 @@ AI e futuro. Graziano scrive in italiano: rispondi in italiano, frasi brevi, un 
   abbassata sotto la voce, effetto bloom (`theme.post`), scene `milgram`, `bridge`, `smoke`, `liar`, `tako` (ep44-ep48).
 - 28 ottobre, in coda (formato v3 con voce, scelta di Graziano: 5 reel di qualita' piu' alta, psicologia): Scary Bridge 02:00,
   Milgram 06:00, Spot the Liar 10:00, Smoke Room 16:00, Broken Heart 22:00 (esperimenti E3 voce ed E2 chiusura follow).
+- 29 ottobre, in coda (dopo l'analisi del 27/10, growth/analysis-2026-10-27.md: i reel si fermano a ~1.400 views perche'
+  nessuno reagisce): serie interattiva BODY TEST #1-#5 con voce: Nose 02:00, Afterimage 06:00, Gorilla 10:00, Stroop 16:00,
+  Blind Spot 22:00 (ep49-ep53, esperimento E4). Da qui 5 reel al giorno (decisione di Graziano, 27/10).
 - YouTube: limite di caricamento del canale raggiunto la notte del 26/10 dopo 10 video in un'ora. Caricare al massimo
   circa 7 Short al giorno; se l'API risponde "exceeded the number of videos", riprovare dopo qualche ora.
 - Reel gia' fatti e programmati a mano per il 23 ottobre: Stroke 02:00, No Sleep 06:00, Ozempic 10:00,
