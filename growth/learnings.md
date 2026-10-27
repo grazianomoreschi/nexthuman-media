@@ -1,5 +1,14 @@
 # Learnings (newest first)
 
+## 2026-10-27 23:06 (end-of-day review)
+- Day: 9,953 views, reach 7,516 (26/10: 8,643), 12 shares, 9 saves, followers 6 (+3), 10 profile visits, 0 new comments. Baseline
+  (last 10, 3 h+): skip 36.9%, watch 41% (8.5 s), median 946 views, shares 12 on 6,758 reach (0.18%).
+- 5 of 7 reels left the first test (26/10: 3 of 7): Breath 1,806 (skip 26%, watch 69.5%, 5 shares + 2 saves = 0.40%), Pill 1,504,
+  Fat Burn 1,448 (shares 0.09%), Sugar 1,364. Death Zone (528, skip 48.4%) and Coffee (203, skip 47.1%) stalled.
+- Pattern: the viewer can feel it at once (hold breath, swallow, eat) wins; remote extremes (altitude, space) and abstract negations stall.
+  Fits E4 (interactive tests from 29/10). Moon (22:00) is 1 h old, skip 12.4% on reach 37: too early to judge.
+- Reach per day does not fall with 7 reels (7.5-8.9k); the second pool still caps near ~1,100-1,800 reach. No rule changed status.
+
 ## 2026-10-27 18:00 (deep analysis, see growth/analysis-2026-10-27.md)
 - Two gates: reels end at ~110-210 views (14) or 1,343-2,033 (13); nothing above. Gate 2 = the ~1,100-person second pool.
 - In that pool (15,438 reached on 13 reels): likes 1.0%, shares 0.08%, saves 0.06%, comments ~0, no rewatch. Watch time is

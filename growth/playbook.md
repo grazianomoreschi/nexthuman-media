@@ -32,6 +32,8 @@ of 36-44 s (avg 11-12 s), ~0 shares/saves/comments, 120-139 views each.
    (133 views, skip 44.6%) also stayed in the first test: remote subjects (space, vacuum, brain trivia) stall, while the
    body-in-a-habit reels (Ice Gym, Sleep Paralysis, After Death) left it. Evidence: Cold Plunge (plunge, sea) and
    No Sleep (drunk) vs 80 Years Old (cell, dish, tube) and Ozempic (chart, pen).
+   2026-10-27 23:05: Breath (holding breath, action at second 0) 1,806 views, skip 26%, watch 69.5%; Death Zone (remote altitude) 528, skip 48.4%:
+   two more cases for the rule.
 2c. TESTING (2026-10-24). Aggressive, moving hook (Graziano): at 0.0 s a punch-in or shake plus a boom, the
    big number already counting, the timer already running. Nothing static in the first second.
 3. IDEA. Open on the end state ("At 72 hours your body starts eating itself"), then rewind the timer to 0.
@@ -60,6 +62,8 @@ of 36-44 s (avg 11-12 s), ~0 shares/saves/comments, 120-139 views each.
    (E2 proposal, needs Graziano's ok since ep29-ep43 are rendered).
    2026-10-27 13:16: Sugar 4 shares on 1,114 reach (0.36%) and Pill 2 on 843 (0.24%), the first v2 reels above 0.15%; both are
    step-by-step journeys inside the body. Still n=2: stays TESTING.
+   2026-10-27 23:05: Breath 0.40% (5 shares), Sugar 0.35%, Pill 0.17% above 0.15%; Fat Burn 0.09%, Death Zone 0%, Coffee 0%: 3 of 7 today.
+   Not yet 3 in a row below, so the mid-reel CTA test (E3, 28/10) stays as planned.
    If the next 3 v2 reels stay below 0.15% shares, test a mid-reel CTA instead of the end-card wording.
 10. TESTING. Each script has an awe or personal-stakes beat plus one practical takeaway; avoid the neutral
     "science fact" tone (Tellis 2019).
