@@ -388,7 +388,9 @@
    "description": "Above 8,000 m, your body is slowly dying. 🏔️\n\nOn top of Everest (8,849 m), each breath brings about a third of the oxygen you'd get at sea level.\nUp there your body can't adapt: it only gets worse the longer you stay.\nThat's why most climbers breathe bottled oxygen.\nBut on 8 May 1978, Reinhold Messner and Peter Habeler reached the top without it.\n\nSend this to the friend who wants to climb Everest.\n\nSource: Guinness World Records, first ascent of Everest without supplementary oxygen; high-altitude physiology (Himalayan Database).\n\n#nexthuman #everest #altitude #mountains #science"
   },
   "tiktok": false,
-  "youtube_id": "J5gYQhOSkro"
+  "youtube_id": "J5gYQhOSkro",
+  "attempts": 1,
+  "last_error": "HTTP 400 /17841480036080171/media: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"fbtrace_id\":\"A4L79F0wOVvbz0h_cGv_B-V\"}}"
  },
  {
   "id": "2026-10-27-1900-breath",
