@@ -1,5 +1,14 @@
 # Learnings (newest first)
 
+## 2026-10-27 13:16 (mid-day review)
+- Baseline (last 10, 3 h+): skip 35.8%, watch 40.6% (8.4 s), median 725 views, shares 0.0% of reach. Day so far: 5,665 views,
+  reach 4,365, 6 shares, 5 saves, followers 4 (+1), 5 profile visits, 0 comments.
+- Sugar (06:00, 7 h): 1,336 views, skip 34.9%, 4 shares + 4 saves on 1,114 reach (0.36%): first reel clearly above the 0.15% share
+  threshold. Pill (10:00, 3 h): 388 views/h, skip 23.8%, watch 49%, 2 shares. Both are a journey inside the body after a daily action.
+- Coffee (02:00) stalled: 165 views, skip 44.7%. Lost at Sea (22:00) stalled: 145, skip 50.8%. Negation or remote subject = stall again.
+- Fat Burn (13:00) is 0.2 h old: judge at 23:05. YouTube: 4 Shorts of today 329-1,090 views.
+- E3/E2 still waiting for the 28/10 reels. No rule changed status; evidence added to rules 9, 17b, 25.
+
 ## 2026-10-26 23:05 (end-of-day review)
 - Day: 11,079 views, reach 8,643, 5 shares, 5 saves, followers 3 (flat), 9 profile visits. Baseline (last 10, 3 h+): skip 33.6%,
   watch 43.8% (9.3 s), 1,347 views, shares 5 on 8,028 reach (0.06%).

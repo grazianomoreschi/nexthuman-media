@@ -58,6 +58,8 @@ of 36-44 s (avg 11-12 s), ~0 shares/saves/comments, 120-139 views each.
    2026-10-25: not working yet. 3 v2 reels with the CTA: 3 shares on 3,308 reach (0.09%); Swabs 82% watch, 1 share.
    2026-10-25 23:05: 5 mature v2: 6 shares on 6,130 reach (0.10%), below the 0.15% threshold: test a mid-reel CTA
    (E2 proposal, needs Graziano's ok since ep29-ep43 are rendered).
+   2026-10-27 13:16: Sugar 4 shares on 1,114 reach (0.36%) and Pill 2 on 843 (0.24%), the first v2 reels above 0.15%; both are
+   step-by-step journeys inside the body. Still n=2: stays TESTING.
    If the next 3 v2 reels stay below 0.15% shares, test a mid-reel CTA instead of the end-card wording.
 10. TESTING. Each script has an awe or personal-stakes beat plus one practical takeaway; avoid the neutral
     "science fact" tone (Tellis 2019).
@@ -81,7 +83,8 @@ of 36-44 s (avg 11-12 s), ~0 shares/saves/comments, 120-139 views each.
     volume and report if it drops.
     2026-10-26 23:05: first sign: 7 reels, reach_day 8,643 (6 reels on 25/10: 8,863) and 3 of 7 left the first test (25/10: 6 of 6).
     Topic is the likelier cause (see 2b, 25) but the reach is flat as volume grows; recheck on 28/10 before any decision.
-17b. IDEA (2026-10-25; 2026-10-26: weakened by After Death 19:00, skip 25%, watch 54%, 205 views/h; Lost at Sea 22:00 too young,
+17b. IDEA (2026-10-27: Lost at Sea 22:00 stalled, skip 50.8%, but a remote subject; Sugar 06:00 and Pill 10:00 strong; no slot effect shown;
+   2026-10-25; 2026-10-26: weakened by After Death 19:00, skip 25%, watch 54%, 205 views/h; Lost at Sea 22:00 too young,
     recheck 27/10). Evening slots weaker: 19:00 and 22:00 v2 skip 38-42% vs 20-29% for 02-16 (n=2 vs 4,
     different topics). Check on 26/10 before moving strong reels away from the evening.
 18. IDEA. Trial Reels to A/B test hooks once the account has 1,000 followers.
@@ -102,6 +105,8 @@ of 36-44 s (avg 11-12 s), ~0 shares/saves/comments, 120-139 views each.
     nails after death, cut healing). Evidence: Swabs 2,031 / Ice Gym 1,919 / After Death 841 (4 h, 205/h) all left the first
     test with skip 20-27%; remote-subject reels (space, vacuum, brain trivia) stalled at ~130. n=4 vs 4, topics differ: needs
     3 more reels of each family (ep37-43 mix both) before PROVEN.
+    2026-10-27 13:16: Coffee (habit+myth, negation hook) stalled at 165 views, skip 44.7%; Sugar and Pill (action + journey) left the test
+    (1,336 and 1,242 views). A visible body action at second 0 matters more than the myth; see 2b.
 
 ## Truth
 20. PROVEN (non-negotiable). Every claim true; hype the tone, not the facts. A source for every timer stop.
