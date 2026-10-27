@@ -1121,5 +1121,160 @@
    "love",
    "body-horror-lite"
   ]
+ },
+ {
+  "episode": "ep53_nose_en",
+  "title": "BODY TEST #1",
+  "pillar": "body",
+  "topic": "body-test",
+  "caption_match": "nose|can see your nose",
+  "slot": "2026-10-29 02:00",
+  "duration_s": 23.7,
+  "segments": 7,
+  "hook": "YOU CAN SEE YOUR NOSE. *RIGHT NOW*.",
+  "intro_segment": false,
+  "first_timer_at_s": 0.0,
+  "scenes": [
+   "nose"
+  ],
+  "booms": 2,
+  "bg_fx": "dots",
+  "music_mode": "dorian",
+  "format": "interactive-test",
+  "tags": [
+   "v4",
+   "interactive",
+   "body-test-series",
+   "voiceover",
+   "kokoro-am_michael",
+   "comment-question",
+   "challenge-send",
+   "follow-cta",
+   "E4"
+  ]
+ },
+ {
+  "episode": "ep49_afterimage_en",
+  "title": "BODY TEST #2",
+  "pillar": "body",
+  "topic": "body-test",
+  "caption_match": "stare at the dot|afterimage",
+  "slot": "2026-10-29 06:00",
+  "duration_s": 33.6,
+  "segments": 6,
+  "hook": "STARE AT THE *DOT*. DON'T LOOK AWAY.",
+  "intro_segment": false,
+  "first_timer_at_s": 0.0,
+  "scenes": [
+   "afterimage"
+  ],
+  "booms": 2,
+  "bg_fx": "dots",
+  "music_mode": "lydian",
+  "format": "interactive-test",
+  "tags": [
+   "v4",
+   "interactive",
+   "body-test-series",
+   "voiceover",
+   "kokoro-am_michael",
+   "comment-question",
+   "challenge-send",
+   "follow-cta",
+   "E4"
+  ]
+ },
+ {
+  "episode": "ep52_gorilla_en",
+  "title": "BODY TEST #3",
+  "pillar": "body",
+  "topic": "body-test",
+  "caption_match": "count the passes|gorilla",
+  "slot": "2026-10-29 10:00",
+  "duration_s": 36.7,
+  "segments": 7,
+  "hook": "COUNT THE PASSES BY THE *WHITE* TEAM.",
+  "intro_segment": false,
+  "first_timer_at_s": 0.0,
+  "scenes": [
+   "gorilla"
+  ],
+  "booms": 2,
+  "bg_fx": "dots",
+  "music_mode": "minor",
+  "format": "interactive-test",
+  "tags": [
+   "v4",
+   "interactive",
+   "body-test-series",
+   "voiceover",
+   "kokoro-am_michael",
+   "comment-question",
+   "challenge-send",
+   "follow-cta",
+   "E4"
+  ]
+ },
+ {
+  "episode": "ep51_stroop_en",
+  "title": "BODY TEST #4",
+  "pillar": "body",
+  "topic": "body-test",
+  "caption_match": "say the color|stroop",
+  "slot": "2026-10-29 16:00",
+  "duration_s": 32.2,
+  "segments": 6,
+  "hook": "SAY THE *COLOR* OUT LOUD. NOT THE WORD.",
+  "intro_segment": false,
+  "first_timer_at_s": 0.0,
+  "scenes": [
+   "stroop"
+  ],
+  "booms": 2,
+  "bg_fx": "stars",
+  "music_mode": "minor",
+  "format": "interactive-test",
+  "tags": [
+   "v4",
+   "interactive",
+   "body-test-series",
+   "voiceover",
+   "kokoro-am_michael",
+   "comment-question",
+   "challenge-send",
+   "follow-cta",
+   "E4"
+  ]
+ },
+ {
+  "episode": "ep50_blindspot_en",
+  "title": "BODY TEST #5",
+  "pillar": "body",
+  "topic": "body-test",
+  "caption_match": "blind spot|hole in it",
+  "slot": "2026-10-29 22:00",
+  "duration_s": 30.6,
+  "segments": 7,
+  "hook": "YOUR EYE HAS A *HOLE*. LET'S FIND IT.",
+  "intro_segment": false,
+  "first_timer_at_s": 0.0,
+  "scenes": [
+   "blindspot"
+  ],
+  "booms": 2,
+  "bg_fx": "grid",
+  "music_mode": "dorian",
+  "format": "interactive-test",
+  "tags": [
+   "v4",
+   "interactive",
+   "body-test-series",
+   "voiceover",
+   "kokoro-am_michael",
+   "comment-question",
+   "challenge-send",
+   "follow-cta",
+   "E4"
+  ]
  }
 ]
