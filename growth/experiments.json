@@ -131,5 +131,51 @@
   "min_reels_per_variant": 3,
   "note": "Follows are only account-level in our data: compare days and reel age carefully; needs 1 more 'none' reel.",
   "result": null
+ },
+ {
+  "id": "E4-interactive-tests",
+  "status": "open",
+  "opened": "2026-10-27",
+  "hypothesis": "Interactive body tests (the viewer acts) break gate 2 (~1,400 views) by raising like rate, send rate, comments and rewatch.",
+  "variable": "format: interactive numbered BODY TEST vs passive fact (v2/v3)",
+  "variants": {
+   "passive": {
+    "episodes": [
+     "ep24_muscle_en",
+     "ep25_swabs_en",
+     "ep26_cut_en",
+     "ep27_bones_en",
+     "ep38_sugar_en",
+     "ep39_pill_en",
+     "ep40_fatburn_en"
+    ]
+   },
+   "test": {
+    "episodes": [
+     "ep49_afterimage_en",
+     "ep50_blindspot_en",
+     "ep51_stroop_en",
+     "ep52_gorilla_en",
+     "ep53_nose_en"
+    ]
+   }
+  },
+  "decides_on": [
+   "views",
+   "like_rate_pct",
+   "share_rate_pct",
+   "comment count",
+   "watch_pct (>100 = rewatch)",
+   "followers per day"
+  ],
+  "targets": {
+   "like_rate_pct": 3,
+   "share_rate_pct": 0.5,
+   "comments_per_reel": 5,
+   "watch_pct": 100
+  },
+  "min_reels_per_variant": 3,
+  "result": null,
+  "note": "Also carries the v3 voice (E3). Compare with v3 reels of 28/10 to split voice from interaction."
  }
 ]

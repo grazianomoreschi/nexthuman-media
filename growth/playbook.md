@@ -74,6 +74,14 @@ of 36-44 s (avg 11-12 s), ~0 shares/saves/comments, 120-139 views each.
 14. IDEA. Topics tied to daily triggers (coffee, phone in bed, gym, alcohol, sugar) so the reel comes back to
     mind (STEPPS: triggers).
 
+## Interaction (added 2026-10-27, from the gate-2 analysis)
+25. TESTING (2026-10-27). The viewer DOES something with their own body during the reel (stare, close one eye, say the
+    colour, count, look at their nose). Evidence for the need: 13 breakout reels stopped at 1,343-2,033 views with likes
+    1.0%, shares 0.08%, comments ~0 per reach; passive facts don't get reactions. Experiment E4 from 29/10.
+26. TESTING (2026-10-27). Numbered series in the title ("BODY TEST #N") + closing "Follow: a new body test every day".
+27. TESTING (2026-10-27). Last segment asks a question answerable in one word ("What colour did you see?"); the send
+    line is a challenge ("send this to a friend and see if they pass").
+
 ## Captions and distribution
 15. TESTING. Caption first line = hook with the searchable keyword; 3-5 hashtags; source line.
 16. PROVEN (policy). Upload the clean original file to each platform; never re-upload another app's file.

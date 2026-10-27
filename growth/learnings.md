@@ -1,5 +1,13 @@
 # Learnings (newest first)
 
+## 2026-10-27 18:00 (deep analysis, see growth/analysis-2026-10-27.md)
+- Two gates: reels end at ~110-210 views (14) or 1,343-2,033 (13); nothing above. Gate 2 = the ~1,100-person second pool.
+- In that pool (15,438 reached on 13 reels): likes 1.0%, shares 0.08%, saves 0.06%, comments ~0, no rewatch. Watch time is
+  fine; like rate and send rate are the wall (Mosseri's 3 signals).
+- Followers 6 from ~26k reached (0.02%); profile visits 0.1-0.2% of reach; profile promises longevity/AI, content doesn't.
+- Fix for 29/10: interactive numbered "BODY TEST" series (viewer acts), one-word comment question, challenge send line,
+  follow promise. Experiment E4.
+
 ## 2026-10-27 13:16 (mid-day review)
 - Baseline (last 10, 3 h+): skip 35.8%, watch 40.6% (8.4 s), median 725 views, shares 0.0% of reach. Day so far: 5,665 views,
   reach 4,365, 6 shares, 5 saves, followers 4 (+1), 5 profile visits, 0 comments.
