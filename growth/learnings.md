@@ -1,5 +1,11 @@
 # Learnings (newest first)
 
+## 2026-10-28 13:05 (mid-day review)
+- Day so far: 11,295 views, reach 8,870, 11 shares, 12 saves, followers 6 (flat), 10 profile visits. Baseline (last 10): skip 35.4%, watch 51%, median 1,425 views, share rate 0.045%.
+- First 3 v3 voice reels (Milgram 1,484, Bridge 1,504, Liar 1,357 at 3 h) all passed the first test; Bridge skip 23.7% with 3 saves, Milgram watch 65.9%.
+- E3 interim v3 vs v2: skip 28.2 vs 28.5%, avg watch 13.8 vs 11.1 s (+24%), views equal, shares 0.03% both. Voice raises watch seconds, not reach or sends.
+- Ceiling unchanged (~1,500 views, ~1,150 reach); waiting for E4 on 29/10. No rule changed status.
+
 ## 2026-10-27 23:06 (end-of-day review)
 - Day: 9,953 views, reach 7,516 (26/10: 8,643), 12 shares, 9 saves, followers 6 (+3), 10 profile visits, 0 new comments. Baseline
   (last 10, 3 h+): skip 36.9%, watch 41% (8.5 s), median 946 views, shares 12 on 6,758 reach (0.18%).

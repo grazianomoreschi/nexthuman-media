@@ -214,5 +214,41 @@
   "order": 6,
   "kind": "Da cambiare",
   "text": "3. Follower: +3 oggi su 10 visite al profilo (0.13% della reach). Il profilo promette longevita'/AI ma i reel parlano di corpo quotidiano: allineare bio e chiusura 'Follow' (E2 parte il 28/10, serve un reel 'none' in piu')."
+ },
+ {
+  "date": "2026-10-28",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Meta' giornata (28/10, ore 13). Oggi 11.295 views, reach 8.870, 11 condivisioni, 12 salvataggi, follower 6 (fermi), 10 visite al profilo. Baseline ultimi 10: skip 35,4%, visione 51%, mediana 1.425 views, condivisioni 0,045% della reach. I 3 reel v3 con voce (Milgram, Bridge, Liar) sono tutti sopra 1.350 views: nessuno si ferma a 200."
+ },
+ {
+  "date": "2026-10-28",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "La voce regge la visione: Milgram 65,9% (19,5 s), Bridge skip 23,7% e 3 salvataggi, Liar 12,2 s. Mediana v3 13,8 s contro 11,1 s dei v2 (+24%). Tutti e 3 superano il primo test, il v3 non ha reel che si fermano."
+ },
+ {
+  "date": "2026-10-28",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Le condivisioni non si muovono: v3 = 1 condivisione su 3.440 reach (0,03%), come i v2 (0,03%). Skip (28,2% contro 28,5%) e views (1.484 contro 1.479) sono uguali ai v2. La voce allunga la visione ma non rompe il tetto dei ~1.500 views ne' fa mandare il reel agli amici."
+ },
+ {
+  "date": "2026-10-28",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1) Il tetto resta ~1.500: l'unica prova che puo' romperlo e' E4 (BODY TEST, da domani 29/10). Non cambiare altro prima, cosi' il risultato e' leggibile."
+ },
+ {
+  "date": "2026-10-28",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2) Smoke Room (16:00) e Broken Heart (22:00) chiudono E3: se anche loro restano sotto 0,1% di condivisioni, il pacchetto 'voce + psicologia' e' solo una scelta di qualita', non di crescita."
+ },
+ {
+  "date": "2026-10-28",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3) Follower fermi a 6 con 10 visite al profilo al giorno: E2 ha ancora solo 2 reel con la chiusura 'follow' e 1 senza; serve un 'senza' in piu' prima di giudicare. Il profilo non e' ancora il problema da toccare."
  }
 ]

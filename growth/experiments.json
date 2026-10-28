@@ -101,7 +101,10 @@
    "follows"
   ],
   "min_reels_per_variant": 3,
-  "result": null
+  "result": null,
+  "interim": {
+   "2026-10-28 13:05": "v3 n=3 (Milgram, Bridge, Liar; Smoke 16:00 and Broken Heart 22:00 pending) vs v2 n=6: skip 28.2% vs 28.5%, watch 55.0% vs 54.7%, avg watch 13.8 s vs 11.1 s, views 1,484 vs 1,479, share rate 0.03% vs 0.03% (1 share on 3,440 reach). Voice adds watch seconds only; no change in reach ceiling or sends. Not closed: 2 reels pending, Liar only 3 h old."
+  }
  },
  {
   "id": "E2-follow-closing",
@@ -130,7 +133,10 @@
   ],
   "min_reels_per_variant": 3,
   "note": "Follows are only account-level in our data: compare days and reel age carefully; needs 1 more 'none' reel.",
-  "result": null
+  "result": null,
+  "interim": {
+   "2026-10-28 13:05": "follow n=2 (Milgram, Liar), none n=1 (Bridge). Followers 6 flat, profile views 10/day. Too early."
+  }
  },
  {
   "id": "E4-interactive-tests",
@@ -176,6 +182,9 @@
   },
   "min_reels_per_variant": 3,
   "result": null,
-  "note": "Also carries the v3 voice (E3). Compare with v3 reels of 28/10 to split voice from interaction."
+  "note": "Also carries the v3 voice (E3). Compare with v3 reels of 28/10 to split voice from interaction.",
+  "interim": {
+   "2026-10-28 13:05": "No test reel published yet (first 29/10 02:00). Baseline for passive/v3: like rate 0.8%, share 0.045%, 0 comments."
+  }
  }
 ]
