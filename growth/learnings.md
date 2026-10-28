@@ -1,5 +1,15 @@
 # Learnings (newest first)
 
+## 2026-10-28 23:07 (end-of-day review)
+- Day: 11,725 views, reach 9,264 (27/10: 7,516), 11 shares, 12 saves, followers 6 (flat), 11 profile visits. Baseline (last 10, 3 h+):
+  skip 34.4%, watch 51.8% (11.4 s), median 1,428 views, share rate 0.04%.
+- v3 voice reels: Bridge 1,506, Milgram 1,495 (watch 65.5%, 19.4 s, the best ever), Liar 1,364 left the first test; Smoke Room stalled at 179
+  (skip 33.8%, nobody reacted), Broken Heart 107 at 1 h (skip 39.4%). All ended at the usual ~1,500 / ~1,150 reach ceiling.
+- E3 v3 vs v2: avg watch 13.0 vs 11.1 s (+17%), views and shares unchanged (0.03%). The voice does not lift reach or sends. E2: follow
+  closing shows no effect (followers flat at 6, 11 profile visits).
+- YouTube: 22,705 total views (+10,873 in a day), 11 subscribers: it now matches Instagram in daily views. 10 Shorts (5 v3 + BODY TEST #1-#5)
+  are still private. No rule changed status; E4 starts 29/10 02:00.
+
 ## 2026-10-28 13:05 (mid-day review)
 - Day so far: 11,295 views, reach 8,870, 11 shares, 12 saves, followers 6 (flat), 10 profile visits. Baseline (last 10): skip 35.4%, watch 51%, median 1,425 views, share rate 0.045%.
 - First 3 v3 voice reels (Milgram 1,484, Bridge 1,504, Liar 1,357 at 3 h) all passed the first test; Bridge skip 23.7% with 3 saves, Milgram watch 65.9%.

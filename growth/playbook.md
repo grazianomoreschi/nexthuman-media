@@ -65,6 +65,8 @@ of 36-44 s (avg 11-12 s), ~0 shares/saves/comments, 120-139 views each.
    2026-10-27 23:05: Breath 0.40% (5 shares), Sugar 0.35%, Pill 0.17% above 0.15%; Fat Burn 0.09%, Death Zone 0%, Coffee 0%: 3 of 7 today.
    Not yet 3 in a row below, so the mid-reel CTA test (E3, 28/10) stays as planned.
    If the next 3 v2 reels stay below 0.15% shares, test a mid-reel CTA instead of the end-card wording.
+   2026-10-28 23:05: v3 reels have the send CTA right after the payoff: 1 share on 3,608 reach (0.03%), same as v2 end-card (0.03%). CTA position does not
+   move sends; the lever is the reaction the content asks for (E4). Stays TESTING.
 10. TESTING. Each script has an awe or personal-stakes beat plus one practical takeaway; avoid the neutral
     "science fact" tone (Tellis 2019).
 11b. IDEA (2026-10-25). Follow conversion: reach 5,175, 6 profile visits, 0 new followers (23:05: reach 8,275, 11 visits, still 3 followers). Test a closing line
@@ -105,7 +107,7 @@ of 36-44 s (avg 11-12 s), ~0 shares/saves/comments, 120-139 views each.
 ## From competitor research (2026-10-23)
 21. IDEA (first data 2026-10-24: Robot, "A man stepped into a cage", skip 39.8% vs baseline 42.6%, n=1). A real person or real case as the hook ("A man held in a sneeze...") - strongest pattern in the
     niche (Zack D. Films, Karan Rajan).
-22. IDEA. Test an AI voiceover on 2-3 reels: almost every top channel in the niche uses a narrator.
+22. TESTING (2026-10-28: v3 n=4, avg watch +17% (13.0 vs 11.1 s), reach and sends unchanged; E3 closes 29/10). IDEA. Test an AI voiceover on 2-3 reels: almost every top channel in the niche uses a narrator.
     2026-10-23: Graziano says not for now; no voiceover. Ask again only if text-only retention stays low.
     2026-10-26: Graziano asks for a realistic AI voiceover (free software): Kokoro-82M (Apache 2.0, runs locally).
     TESTING from one test reel; 28/10 = 5 higher-quality reels with voice, mid-reel send CTA and follow closing.

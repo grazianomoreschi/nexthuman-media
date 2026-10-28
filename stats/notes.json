@@ -250,5 +250,41 @@
   "order": 6,
   "kind": "Da cambiare",
   "text": "3) Follower fermi a 6 con 10 visite al profilo al giorno: E2 ha ancora solo 2 reel con la chiusura 'follow' e 1 senza; serve un 'senza' in piu' prima di giudicare. Il profilo non e' ancora il problema da toccare."
+ },
+ {
+  "date": "2026-10-28",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Fine giornata 28/10. Giorno: 11.725 views, reach 9.264, 11 condivisioni, 12 salvataggi, 121 interazioni, follower 6 (fermi da ieri), 11 visite al profilo. Baseline (ultimi 10): skip 34,4%, watch 51,8% (11,4 s), mediana 1.428 views, condivisioni 0,04% della reach. Dei 5 reel con voce (v3): 3 hanno superato il primo test (Bridge 1.506, Milgram 1.495, Liar 1.364), Smoke Room si e' fermato a 179 (7 h), Broken Heart ha 107 views a 1 h e sembra fermo. Il tetto resta ~1.500 views / ~1.150 reach. YouTube: 22.705 views totali (+10.900 in un giorno), 11 iscritti: oggi rende quanto Instagram."
+ },
+ {
+  "date": "2026-10-28",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Bridge (skip 23,7%, 3 salvataggi) e Milgram (skip 28,3%, visione 65,5%, 19,4 s: la piu' alta mai vista) con la voce: la voce aggiunge secondi di visione (13,0 s contro 11,1 s del v2, +17%). Situazione fisica che lo spettatore sente subito = passa il primo test. YouTube Shorts: 7 video pubblici di ieri tra 955 e 1.507 views ciascuno."
+ },
+ {
+  "date": "2026-10-28",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Reach e invii non si muovono: v3 contro v2 = views 1.430 contro 1.479, condivisioni 0,03% (1 su 3.608 di reach) contro 0,03%, like 0,47% contro 0,79%. Smoke Room (16:00) e' rimasto a 179 views con skip 33,8% (non e' l'hook, e' che nessuno reagisce); Broken Heart (22:00) 107 views a 1 h. Il follow in chiusura non converte: 3 reel con follow, follower fermi a 6, 11 visite al profilo."
+ },
+ {
+  "date": "2026-10-28",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Domani 29/10 parte E4 (BODY TEST con voce, 02:00 Nose). Giudicare solo sui tassi: like (obiettivo 3%), condivisioni (0,5%), commenti, watch % sopra 100. Se i primi 3 restano a like 1% e commenti 0, il tetto non dipende dal formato: passare a pochi reel al giorno ma curati."
+ },
+ {
+  "date": "2026-10-28",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. YouTube fa 10.900 views al giorno contro 11.700 su Instagram con un solo giorno di vantaggio: 10 Shorts (Bridge, Milgram, Liar, Smoke, Heart + BODY TEST #1-#5) sono ancora PRIVATI. Graziano: renderli pubblici oggi (o da YouTube Studio) e tenere YouTube come canale principale di test."
+ },
+ {
+  "date": "2026-10-28",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. Il CTA di invio dopo il payoff e il follow in chiusura non spostano nulla (invii 0,03%, follower +0). Non aggiungere altro testo: per E2 serve ancora 1 reel 'senza follow' prima di chiudere; intanto valutare di spostare la promessa dentro il reel (es. 'domani: test #N') invece di una frase finale."
  }
 ]
