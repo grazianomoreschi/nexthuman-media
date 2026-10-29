@@ -84,7 +84,7 @@ of 36-44 s (avg 11-12 s), ~0 shares/saves/comments, 120-139 views each.
 25. TESTING (2026-10-27). The viewer DOES something with their own body during the reel (stare, close one eye, say the
     colour, count, look at their nose). Evidence for the need: 13 breakout reels stopped at 1,343-2,033 views with likes
     1.0%, shares 0.08%, comments ~0 per reach; passive facts don't get reactions. Experiment E4 from 29/10.
-26. TESTING (2026-10-27). Numbered series in the title ("BODY TEST #N") + closing "Follow: a new body test every day".
+26. TESTING (2026-10-27). Numbered series in the title ("BODY TEST #N") + closing "Follow: a new body test every day". (E2 closed 2026-10-29: follow line had no effect, followers flat at 6.) E4 2026-10-29 13:05: Nose/Afterimage start 4-7x faster than v2, like rate 0.6-0.8% vs target 3%, 0 shares.
 27. TESTING (2026-10-27). Last segment asks a question answerable in one word ("What colour did you see?"); the send
     line is a challenge ("send this to a friend and see if they pass").
 
@@ -107,7 +107,7 @@ of 36-44 s (avg 11-12 s), ~0 shares/saves/comments, 120-139 views each.
 ## From competitor research (2026-10-23)
 21. IDEA (first data 2026-10-24: Robot, "A man stepped into a cage", skip 39.8% vs baseline 42.6%, n=1). A real person or real case as the hook ("A man held in a sneeze...") - strongest pattern in the
     niche (Zack D. Films, Karan Rajan).
-22. TESTING (2026-10-28: v3 n=4, avg watch +17% (13.0 vs 11.1 s), reach and sends unchanged; E3 closes 29/10). IDEA. Test an AI voiceover on 2-3 reels: almost every top channel in the niche uses a narrator.
+22. TESTING (E3 closed 2026-10-29: v3 n=5, avg watch +17% (13 vs 11.1 s), reach and sends unchanged, 2 of 5 stalled: voice is a quality choice, not a growth lever). IDEA. Test an AI voiceover on 2-3 reels: almost every top channel in the niche uses a narrator.
     2026-10-23: Graziano says not for now; no voiceover. Ask again only if text-only retention stays low.
     2026-10-26: Graziano asks for a realistic AI voiceover (free software): Kokoro-82M (Apache 2.0, runs locally).
     TESTING from one test reel; 28/10 = 5 higher-quality reels with voice, mid-reel send CTA and follow closing.

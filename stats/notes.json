@@ -286,5 +286,41 @@
   "order": 6,
   "kind": "Da cambiare",
   "text": "3. Il CTA di invio dopo il payoff e il follow in chiusura non spostano nulla (invii 0,03%, follower +0). Non aggiungere altro testo: per E2 serve ancora 1 reel 'senza follow' prima di chiudere; intanto valutare di spostare la promessa dentro il reel (es. 'domani: test #N') invece di una frase finale."
+ },
+ {
+  "date": "2026-10-29",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Meta' giornata (ore 13). Oggi 4.932 views, reach 4.305, 0 condivisioni, 2 salvataggi, follower 6 (fermi da 3 giorni), 5 visite al profilo. Baseline ultimi 10: skip 35,8%, visione 44%, 12,6 s, mediana 1.330 views, condivisioni 0,08% della reach. 3 BODY TEST usciti: Nose 1.297 e Afterimage 1.362 views (passano il primo test), Gorilla 151 (3 ore, skip 40,6%). Ieri sera Broken Heart si e' fermato a 123."
+ },
+ {
+  "date": "2026-10-29",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Nose (skip 26,3%, 116 views/h) e Afterimage (189 views/h, il piu' veloce mai visto, 3 commenti): partono 4-7 volte piu' veloci dei reel v2 (circa 25/h). Il test sul proprio corpo da' piu' commenti (2-3 contro 1)."
+ },
+ {
+  "date": "2026-10-29",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Il tetto resta ~1.150 di reach: like 0,6-0,8% (obiettivo 3%), 0 condivisioni, 1 salvataggio su 3 reel. Gorilla ha skip 40,6% e 151 views: il tema 'conta i passaggi' non si capisce al primo fotogramma. Voce (E3) e frase 'Follow' (E2) non cambiano reach, condivisioni ne' follower: 6 follower da 27k persone raggiunte."
+ },
+ {
+  "date": "2026-10-29",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Primo fotogramma dei test: l'azione deve essere gia' chiara senza spiegazione (Gorilla: mostrare subito i giocatori e il numero 'count'), come Nose che e' immediato."
+ },
+ {
+  "date": "2026-10-29",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. Condivisioni: ogni test deve finire con un risultato da confrontare ('send this to someone and compare'), non solo 'follow'. Oggi 0 condivisioni su 3 reel."
+ },
+ {
+  "date": "2026-10-29",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. Follower: 6 su ~27k reach. Far dire al reel cosa e' la pagina (serie 'BODY TEST' in alto fissa nel primo fotogramma) e controllare che la bio prometta i test, non solo longevita'/AI."
  }
 ]

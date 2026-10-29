@@ -1,5 +1,13 @@
 # Learnings (newest first)
 
+## 2026-10-29 13:15 (mid-day review)
+- Day so far: 4,932 views, reach 4,305, 0 shares, 2 saves, followers 6 (flat 3 days), 5 profile visits. Baseline (last 10, 3 h+): skip 35.8%,
+  watch 44%, 12.6 s, median 1,330 views, share rate 0.08%.
+- E4 first data: Nose (1,297, skip 26.3%) and Afterimage (1,362, 189 views/h) left the first test and start 4-7x faster than v2; like rate
+  0.6-0.8% (target 3%), 0 shares, comments 2-3. Gorilla (3 h) 151 views, skip 40.6%: unclear first frame. Stroop/Blind Spot pending.
+- Broken Heart stalled at 123 (skip 48.2%). E3 closed: voice = +17% watch seconds, no reach or send change. E2 closed inconclusive
+  (followers flat at 6). No rule changed status.
+
 ## 2026-10-28 23:07 (end-of-day review)
 - Day: 11,725 views, reach 9,264 (27/10: 7,516), 11 shares, 12 saves, followers 6 (flat), 11 profile visits. Baseline (last 10, 3 h+):
   skip 34.4%, watch 51.8% (11.4 s), median 1,428 views, share rate 0.04%.

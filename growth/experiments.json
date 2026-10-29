@@ -65,7 +65,7 @@
  },
  {
   "id": "E3-voice-v3",
-  "status": "open",
+  "status": "closed",
   "opened": "2026-10-26",
   "hypothesis": "An AI voiceover (Kokoro am_michael, music ducked under it) on true psychology/real-case topics with proven viral demand raises watch seconds, sends and reach versus the text-only v2 format.",
   "variable": "format (voice + psychology topics; bundled, Graziano's call for a quality jump)",
@@ -101,15 +101,17 @@
    "follows"
   ],
   "min_reels_per_variant": 3,
-  "result": null,
+  "result": "Voice adds watch seconds (+17%, Milgram 19.4 s best ever) but not reach or sends: v3 reels end at the same ~1,400 views / ~1,150 reach ceiling, 2 of 5 stalled, shares 0.03% = v2. Voice is not the lever; it stays as a quality choice, not a growth rule.",
   "interim": {
    "2026-10-28 13:05": "v3 n=3 (Milgram, Bridge, Liar; Smoke 16:00 and Broken Heart 22:00 pending) vs v2 n=6: skip 28.2% vs 28.5%, watch 55.0% vs 54.7%, avg watch 13.8 s vs 11.1 s, views 1,484 vs 1,479, share rate 0.03% vs 0.03% (1 share on 3,440 reach). Voice adds watch seconds only; no change in reach ceiling or sends. Not closed: 2 reels pending, Liar only 3 h old.",
-   "2026-10-28 23:05": "v3 n=4 mature (Milgram, Bridge, Liar, Smoke; Broken Heart 1 h old) vs v2 n=6: skip 31.1% vs 28.5%, watch 49.2% vs 54.7%, avg watch 13.0 s vs 11.1 s (+17%), views 1,430 vs 1,479, like rate 0.47% vs 0.79%, share rate 0.03% vs 0.03% (1 share on 3,608 reach). Smoke stalled at 179 views. Voice adds watch seconds only; reach and sends unchanged. Closes when Broken Heart matures (29/10 13:05)."
-  }
+   "2026-10-28 23:05": "v3 n=4 mature (Milgram, Bridge, Liar, Smoke; Broken Heart 1 h old) vs v2 n=6: skip 31.1% vs 28.5%, watch 49.2% vs 54.7%, avg watch 13.0 s vs 11.1 s (+17%), views 1,430 vs 1,479, like rate 0.47% vs 0.79%, share rate 0.03% vs 0.03% (1 share on 3,608 reach). Smoke stalled at 179 views. Voice adds watch seconds only; reach and sends unchanged. Closes when Broken Heart matures (29/10 13:05).",
+   "2026-10-29 13:05": "v3 n=5 mature (Milgram, Bridge, Liar, Smoke, Broken Heart): 3 of 5 left the first test (1,365-1,506 views), Smoke 203 and Broken Heart 123 stalled (skip 35.8% / 48.2%). Avg watch ~13 s vs 11.1 s for v2 (+17%), views and share rate (0.03%) unchanged."
+  },
+  "closed": "2026-10-29"
  },
  {
   "id": "E2-follow-closing",
-  "status": "open",
+  "status": "closed",
   "opened": "2026-10-26",
   "hypothesis": "A closing line 'Follow @nnexthuman: one truth about you, every day' raises profile visits and follows per reach.",
   "variable": "closing segment (follow CTA vs none)",
@@ -134,11 +136,13 @@
   ],
   "min_reels_per_variant": 3,
   "note": "Follows are only account-level in our data: compare days and reel age carefully; needs 1 more 'none' reel.",
-  "result": null,
+  "result": "Inconclusive, no effect seen: followers flat at 6 from 27/10 to 29/10 with follow wording on 3 reels (+ all BODY TEST reels). Needs a different lever than a closing line (reach per person is the cap).",
   "interim": {
    "2026-10-28 13:05": "follow n=2 (Milgram, Liar), none n=1 (Bridge). Followers 6 flat, profile views 10/day. Too early.",
-   "2026-10-28 23:05": "follow n=3 (Milgram, Smoke, Liar), none n=2 (Bridge, Broken Heart 1 h old). Followers 6 (flat since 27/10), profile views 11/day: no sign the closing line converts. Needs 1 more 'none' reel (E4 BODY TEST reels carry follow wording, so E2 cannot be completed cleanly: close as inconclusive on 29/10 unless a no-follow reel is made)."
-  }
+   "2026-10-28 23:05": "follow n=3 (Milgram, Smoke, Liar), none n=2 (Bridge, Broken Heart 1 h old). Followers 6 (flat since 27/10), profile views 11/day: no sign the closing line converts. Needs 1 more 'none' reel (E4 BODY TEST reels carry follow wording, so E2 cannot be completed cleanly: close as inconclusive on 29/10 unless a no-follow reel is made).",
+   "2026-10-29 13:05": "Followers still 6, profile views 5-11/day. No sign the follow line converts."
+  },
+  "closed": "2026-10-29"
  },
  {
   "id": "E4-interactive-tests",
@@ -187,7 +191,8 @@
   "note": "Also carries the v3 voice (E3). Compare with v3 reels of 28/10 to split voice from interaction.",
   "interim": {
    "2026-10-28 13:05": "No test reel published yet (first 29/10 02:00). Baseline for passive/v3: like rate 0.8%, share 0.045%, 0 comments.",
-   "2026-10-28 23:05": "No test reel published yet (first: Nose 29/10 02:00). Baseline for passive/v3 (last 10): like rate 0.81%, share 0.04%, save 0.04%, 0 comments."
+   "2026-10-28 23:05": "No test reel published yet (first: Nose 29/10 02:00). Baseline for passive/v3 (last 10): like rate 0.81%, share 0.04%, save 0.04%, 0 comments.",
+   "2026-10-29 13:05": "test n=3 (Nose 11 h, Afterimage 7 h, Gorilla 3 h): views 1,297 / 1,362 / 151 (Gorilla still young, skip 40.6%). Like rate 0.62% / 0.77% vs target 3%; shares 0; saves 1; comments 2-3 per reel (Afterimage 3, Nose 2, includes our pinned one) vs target 5. Watch % 39-46% vs target 100. Afterimage 189 views/h and Nose 116/h at start (v2 ~25/h): faster start, same ~1,150-reach ceiling so far. Stroop 16:00 and Blind Spot 22:00 pending."
   }
  }
 ]
