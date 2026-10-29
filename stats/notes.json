@@ -322,5 +322,41 @@
   "order": 6,
   "kind": "Da cambiare",
   "text": "3. Follower: 6 su ~27k reach. Far dire al reel cosa e' la pagina (serie 'BODY TEST' in alto fissa nel primo fotogramma) e controllare che la bio prometta i test, non solo longevita'/AI."
+ },
+ {
+  "date": "2026-10-29",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Fine giornata (23:05). Oggi 6,790 views, reach 5,905 (ieri 11,725 / 9,264), 3 condivisioni, 3 salvataggi, follower 6 (fermi da 3 giorni), 10 visite al profilo. YouTube 23,536 views totali, 13 iscritti. Baseline ultimi 10 (3 h+): skip 36.0%, visione 44.5% (12.6 s), 1,335 views, like 0.62%, condivisioni 0.0%. Il calo del giorno e' soprattutto Blind Spot (22:00, ancora giovane) e due reel fermi (Gorilla 254, Broken Heart 142)."
+ },
+ {
+  "date": "2026-10-29",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "BODY TEST parte piu' veloce: Stroop (16:00) 1,540 views, 3 condivisioni (0.24%), skip 37.7%, visione 16.8 s; Afterimage 1,383 e Nose 1,304 escono dal primo test. Blind Spot dopo 1 h: 415 views, skip 24.5%, 377 views/h (migliore partenza di sempre; va giudicato domani). Stroop e' il primo reel interattivo con condivisioni."
+ },
+ {
+  "date": "2026-10-29",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Il soffitto resta ~1,300-1,540 views / ~1,150 reach: 3 test su 4 maturi lo toccano, non lo superano. Like 0.49-1.1% contro obiettivo 3%, commenti 1-3 (di cui uno nostro), condivisioni 3 in totale. Gorilla (fermo a 254, skip 34%): il test del conteggio non si capisce al primo fotogramma. Smoke e Broken Heart (v3) fermi a ~140-210."
+ },
+ {
+  "date": "2026-10-29",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1) Gorilla si e' fermato (254 views) mentre Stroop ha 1,540: tenere i test con una risposta visibile subito (colore, naso, punto) e fare un fotogramma 1 che mostri gia' l'azione, non il conteggio."
+ },
+ {
+  "date": "2026-10-29",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2) Le reazioni sono sotto obiettivo (like 0.6-1.1% vs 3%, 0 commenti reali): chiudere ogni test con una sola parola da scrivere ('RED or BLUE?') e fissare il commento in alto con la stessa domanda."
+ },
+ {
+  "date": "2026-10-29",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3) Decidere E4 domani alle 13:05, quando Blind Spot ha 15 ore: se ha 1,500+ views con share > 0.15% e' la prima forma che supera il soffitto, e la serie va continuata; altrimenti serve una leva diversa dai reel (es. Stroop-style con sfida da inviare)."
  }
 ]

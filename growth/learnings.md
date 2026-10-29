@@ -1,5 +1,13 @@
 # Learnings (newest first)
 
+## 2026-10-29 23:06 (end-of-day review)
+- Day: 6,790 views, reach 5,905 (28/10: 11,725 / 9,264), 3 shares, 3 saves, followers 6 (flat 3 days), 10 profile visits. Baseline (last 10, 3 h+):
+  skip 36.0%, watch 44.5% (12.6 s), median 1,335 views, like 0.62%, share rate 0.0%.
+- E4: Nose 1,304, Afterimage 1,383, Stroop 1,540 left the first test; Gorilla stalled at 254 (skip 34.2%, the counting task is not clear at frame 1).
+  Stroop is the first interactive reel with shares (3, 0.24%). Like rate 0.5-1.1% vs target 3%, comments 1-3: the ~1,500 views / ~1,150 reach ceiling holds.
+- Blind Spot (22:00, 1 h): 415 views, skip 24.5%, 377 views/h, the best start so far; judge on 30/10 13:05 before closing E4.
+- Smoke and Broken Heart (v3) stayed at 142-208. YouTube 23,536 views, 13 subscribers. No rule changed status; evidence added to rules 25-26.
+
 ## 2026-10-29 13:15 (mid-day review)
 - Day so far: 4,932 views, reach 4,305, 0 shares, 2 saves, followers 6 (flat 3 days), 5 profile visits. Baseline (last 10, 3 h+): skip 35.8%,
   watch 44%, 12.6 s, median 1,330 views, share rate 0.08%.

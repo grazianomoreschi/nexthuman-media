@@ -192,7 +192,8 @@
   "interim": {
    "2026-10-28 13:05": "No test reel published yet (first 29/10 02:00). Baseline for passive/v3: like rate 0.8%, share 0.045%, 0 comments.",
    "2026-10-28 23:05": "No test reel published yet (first: Nose 29/10 02:00). Baseline for passive/v3 (last 10): like rate 0.81%, share 0.04%, save 0.04%, 0 comments.",
-   "2026-10-29 13:05": "test n=3 (Nose 11 h, Afterimage 7 h, Gorilla 3 h): views 1,297 / 1,362 / 151 (Gorilla still young, skip 40.6%). Like rate 0.62% / 0.77% vs target 3%; shares 0; saves 1; comments 2-3 per reel (Afterimage 3, Nose 2, includes our pinned one) vs target 5. Watch % 39-46% vs target 100. Afterimage 189 views/h and Nose 116/h at start (v2 ~25/h): faster start, same ~1,150-reach ceiling so far. Stroop 16:00 and Blind Spot 22:00 pending."
+   "2026-10-29 13:05": "test n=3 (Nose 11 h, Afterimage 7 h, Gorilla 3 h): views 1,297 / 1,362 / 151 (Gorilla still young, skip 40.6%). Like rate 0.62% / 0.77% vs target 3%; shares 0; saves 1; comments 2-3 per reel (Afterimage 3, Nose 2, includes our pinned one) vs target 5. Watch % 39-46% vs target 100. Afterimage 189 views/h and Nose 116/h at start (v2 ~25/h): faster start, same ~1,150-reach ceiling so far. Stroop 16:00 and Blind Spot 22:00 pending.",
+   "2026-10-29 23:05": "test n=4 (Nose 1,304, Afterimage 1,383, Stroop 1,540, Gorilla 254; Blind Spot 1 h old, 415 views, skip 24.5%, 377/h). Median mature 1,343 views = v2/v3 ceiling. Like rate 0.49-1.1% vs target 3%; shares 3 (all Stroop, 0.24%); comments 1-3. Gorilla stalled (skip 34%, count task unclear at frame 1). Not closed: 4 of 5 mature, decide 30/10 13:05 with Blind Spot."
   }
  }
 ]

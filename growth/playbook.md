@@ -81,10 +81,11 @@ of 36-44 s (avg 11-12 s), ~0 shares/saves/comments, 120-139 views each.
     mind (STEPPS: triggers).
 
 ## Interaction (added 2026-10-27, from the gate-2 analysis)
-25. TESTING (2026-10-27). The viewer DOES something with their own body during the reel (stare, close one eye, say the
+25. TESTING (2026-10-27; 2026-10-29 23:05: 3 of 4 tests left the first test but stay at the ~1,500 ceiling, like 0.5-1.1%, only Stroop got shares). The viewer DOES something with their own body during the reel (stare, close one eye, say the
     colour, count, look at their nose). Evidence for the need: 13 breakout reels stopped at 1,343-2,033 views with likes
     1.0%, shares 0.08%, comments ~0 per reach; passive facts don't get reactions. Experiment E4 from 29/10.
 26. TESTING (2026-10-27). Numbered series in the title ("BODY TEST #N") + closing "Follow: a new body test every day". (E2 closed 2026-10-29: follow line had no effect, followers flat at 6.) E4 2026-10-29 13:05: Nose/Afterimage start 4-7x faster than v2, like rate 0.6-0.8% vs target 3%, 0 shares.
+    2026-10-29 23:05: Stroop 1,540 views, 3 shares (0.24%); Gorilla stalled at 254. Ceiling unchanged (~1,300-1,540); Blind Spot 377 views/h at 1 h, decide 30/10.
 27. TESTING (2026-10-27). Last segment asks a question answerable in one word ("What colour did you see?"); the send
     line is a challenge ("send this to a friend and see if they pass").
 
