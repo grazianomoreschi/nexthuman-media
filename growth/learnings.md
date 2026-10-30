@@ -1,5 +1,11 @@
 # Learnings (newest first)
 
+## 2026-10-30 23:05 (end-of-day review)
+- Day: 4,275 views, reach 3,688 (29/10: 6,790 / 5,905), 4 shares, 3 saves, followers 6 (flat 4 days), 8 profile visits. No reel published today: queue empty since 29/10 22:00.
+- Baseline (last 10, 3 h+): skip 36.3%, watch 43.8% (12.6 s), median 1,353 views, like 0.62%, share rate 0.0%, save 0.08%.
+- No reel younger than 72 h changed the picture: Stroop 1,553, Afterimage 1,390, Blind Spot 1,336, Nose 1,307, Gorilla 1,230 all end at the ~1,150 reach ceiling. Nose has the best skip (26.2%).
+- YouTube 25,407 views (+1,729 with no new upload), 14 subscribers: still the only growing channel. No rule changed status; no experiment open (E5 proposed: real person/voice, outside pixel art).
+
 ## 2026-10-30 13:10 (mid-day review)
 - ALERT: no reel published today. The queue ends at 29/10 22:00 (Blind Spot); 02:00, 06:00, 10:00 slots of 30/10 are empty. Views today 4,266, reach 3,678 are the tail of yesterday's reels.
 - Baseline (last 10, 3 h+): skip 36.3%, watch 43.8% (12.6 s), median 1,350 views, like 0.62%, share rate 0.0%, save 0.08%.

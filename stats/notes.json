@@ -363,36 +363,36 @@
   "date": "2026-10-30",
   "order": 1,
   "kind": "Sintesi",
-  "text": "Meta' giornata (13:05). ATTENZIONE: oggi non e' uscito nessun reel, la coda finisce il 29/10 alle 22:00. Oggi 4,266 views, reach 3,678 (ieri 6,790 / 5,905), 4 condivisioni, 3 salvataggi, follower 6 (fermi da 4 giorni), 8 visite al profilo. Baseline ultimi 10 (3 h+): skip 36.3%, visione 43.8% (12.6 s), 1,350 views, like 0.62%, condivisioni 0.0%. YouTube 24,678 views, 13 iscritti."
+  "text": "Fine giornata. Oggi 4,275 views, reach 3,688 (29/10: 6,790 / 5,905), 4 condivisioni, 3 salvataggi, follower 6 (fermi da 4 giorni), 8 visite al profilo. NESSUN reel pubblicato oggi: la coda e' finita il 29/10 alle 22:00, le views sono la coda dei reel di ieri. Baseline (ultimi 10, 3 h+): skip 36.3%, visione 43.8% (12.6 s), mediana 1,353 views, like 0.62%, condivisioni 0.0%. YouTube: 25,407 views (+1,729 oggi), 14 iscritti."
  },
  {
   "date": "2026-10-30",
   "order": 2,
   "kind": "Funziona",
-  "text": "Stroop 1,551 views, 3 condivisioni, visione 52%; Blind Spot 1,331 views con skip 46%. Gorilla e' risalito da 254 a 1,229 views: i reel possono uscire dal primo test anche di notte. YouTube cresce ancora (+1,142 oggi)."
+  "text": "Stroop (1,553 views, skip 37.9%) e Blind Spot (1,336, 1,2 mila reach) hanno superato il primo test; Nose e' a 1,307 con skip 26.2%, il migliore. YouTube cresce da solo: +1,729 views e +1 iscritto senza nuovi video."
  },
  {
   "date": "2026-10-30",
   "order": 3,
   "kind": "Non funziona",
-  "text": "E4 chiuso: i BODY TEST non rompono il soffitto. Mediana 1,331 views contro 1,487 dei reel passivi; like 0.5-1.1% (obiettivo 3%), condivisioni 0.07% (obiettivo 0.5%), commenti 1-3, follower sempre 6. Regola 25 passa a RIFIUTATA. Ogni formato (v2, v3 voce, test) si ferma a ~1,300-1,800 views e ~1,150 reach."
+  "text": "Il tetto di ~1,300-1,500 views e ~1,150 reach resta identico per ogni formato. Follower 6 su circa 60k di reach; 8 visite al profilo al giorno. Gorilla (1,230, skip 31.6%) e Afterimage (1,390, skip 44%) non cambiano il quadro. Nessuna nuova info dopo oggi perche' non c'e' nessun reel nuovo."
  },
  {
   "date": "2026-10-30",
   "order": 4,
   "kind": "Da cambiare",
-  "text": "1. Coda vuota: servono subito nuovi reel in coda per i prossimi slot (16:00, 22:00 di oggi e i giorni dopo). Serve l'ok di Graziano sul nuovo piano."
+  "text": "1. La coda e' vuota: 0 reel dal 29/10 22:00. Servono nuovi post in queue.json (o decidere di fermarsi su Instagram): ogni giorno senza post spreca la distribuzione."
  },
  {
   "date": "2026-10-30",
   "order": 5,
   "kind": "Da cambiare",
-  "text": "2. Il soffitto e' dell'account, non dell'hook: 6 follower su ~60k reach e 8 visite al profilo al giorno. Controllare bio, foto profilo e nome (promettono i test del corpo?) e provare un reel fatto con persona o voce reale, fuori dal pixel art, come esperimento E5."
+  "text": "2. Il soffitto e' dell'account (6 follower, 8 visite/giorno): controllare bio, foto e nome del profilo e provare un reel con persona o voce reale fuori dal pixel art (esperimento E5)."
  },
  {
   "date": "2026-10-30",
   "order": 6,
   "kind": "Da cambiare",
-  "text": "3. Visto che YouTube cresce (13 iscritti, 1,000+ views a Short) e Instagram e' fermo, spostare lo sforzo sui video YouTube (rendere pubblici i 10 ancora privati) invece di fare 5 reel al giorno su Instagram."
+  "text": "3. YouTube e' l'unico canale che cresce (14 iscritti, ~1,000+ views a Short): rendere pubblici i 10 Short ancora privati e spostare li' lo sforzo."
  }
 ]
