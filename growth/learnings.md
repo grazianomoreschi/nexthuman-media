@@ -1,5 +1,13 @@
 # Learnings (newest first)
 
+## 2026-10-30 13:10 (mid-day review)
+- ALERT: no reel published today. The queue ends at 29/10 22:00 (Blind Spot); 02:00, 06:00, 10:00 slots of 30/10 are empty. Views today 4,266, reach 3,678 are the tail of yesterday's reels.
+- Baseline (last 10, 3 h+): skip 36.3%, watch 43.8% (12.6 s), median 1,350 views, like 0.62%, share rate 0.0%, save 0.08%.
+- E4 closed, REJECTED as a ceiling breaker: test n=5 median 1,331 views vs passive n=7 1,487; like 0.5-1.1%, shares 4 on 5,823 reach (0.07%), comments 1-3, followers flat at 6.
+  Blind Spot 1,331 (skip 46.1%), Gorilla 254 -> 1,229 overnight (late exit). Rule 25 set to REJECTED.
+- Pattern across 40 reels: every reel that leaves the first test ends at ~1,300-1,800 views / ~1,150 reach, whatever the format (v2, v3 voice, test). The cap is account-level (diagnose step 0), not a hook issue. Followers 6 on ~60k reach.
+- YouTube 24,678 views, 13 subscribers (+1,142 today): the only channel still growing.
+
 ## 2026-10-29 23:06 (end-of-day review)
 - Day: 6,790 views, reach 5,905 (28/10: 11,725 / 9,264), 3 shares, 3 saves, followers 6 (flat 3 days), 10 profile visits. Baseline (last 10, 3 h+):
   skip 36.0%, watch 44.5% (12.6 s), median 1,335 views, like 0.62%, share rate 0.0%.
