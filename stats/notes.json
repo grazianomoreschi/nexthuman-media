@@ -394,5 +394,41 @@
   "order": 6,
   "kind": "Da cambiare",
   "text": "3. YouTube e' l'unico canale che cresce (14 iscritti, ~1,000+ views a Short): rendere pubblici i 10 Short ancora privati e spostare li' lo sforzo."
+ },
+ {
+  "date": "2026-10-31",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Meta' giornata (13:05). Nessun reel pubblicato oggi: la coda e' vuota dal 29/10 22:00 (slot 02, 06, 10 vuoti anche oggi). Views oggi 28, reach 18; ieri 4.275 / 3.688. Follower 6 (fermi da 5 giorni), 0 visite al profilo. Baseline ultimi 10 reel (3 h+): skip 36,2%, visione 43,8% (12,6 s), mediana 1.353 views, like 0,6%, share 0,0%, salvataggi 0,1%. YouTube 25.472 views, 14 iscritti (+65 da ieri sera)."
+ },
+ {
+  "date": "2026-10-31",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Nessun cambio nei reel < 72 h: Stroop 1.553, Afterimage 1.390, Blind Spot 1.336, Nose 1.307 (skip 26,2%, il migliore), Gorilla 1.230 restano fermi, tutti sotto 1 view/h ora. YouTube e' l'unico canale che cresce senza nuovi caricamenti."
+ },
+ {
+  "date": "2026-10-31",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Zero produzione: senza nuovi reel l'account non raccoglie piu' nulla (views giornaliere da 11.725 il 28/10 a 28 oggi). Tetto di ~1.150 reach per reel invariato su 40+ reel; condivisioni 0,0% e follower 6 su ~60k reach."
+ },
+ {
+  "date": "2026-10-31",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Rifornire la coda: servono nuovi reel nelle prossime ore (oggi 16:00 e 22:00 sono ancora recuperabili). Ogni giorno vuoto costa circa 4.000 views."
+ },
+ {
+  "date": "2026-10-31",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. Testare E5 fuori dalla grafica pixel art (persona reale o voce sopra filmato): 40 reel pixel art finiscono tutti a ~1.150 reach, quindi il limite e' dell'account, non dell'hook."
+ },
+ {
+  "date": "2026-10-31",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. Spostare lo sforzo di crescita su YouTube (+1.700 views/giorno senza caricare): rendere pubblici i 10 Short ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart)."
  }
 ]

@@ -39,8 +39,8 @@
   "comment_rate_pct": 0.09,
   "watch_pct": 39.2,
   "post_hour": 22,
-  "age_h": 25.1,
-  "views_per_h": 53.2
+  "age_h": 39.1,
+  "views_per_h": 34.2
  },
  {
   "platform": "Instagram",
@@ -82,8 +82,8 @@
   "comment_rate_pct": 0.08,
   "watch_pct": 51.9,
   "post_hour": 16,
-  "age_h": 31.1,
-  "views_per_h": 49.9
+  "age_h": 45.1,
+  "views_per_h": 34.4
  },
  {
   "platform": "Instagram",
@@ -125,8 +125,8 @@
   "comment_rate_pct": 0.09,
   "watch_pct": 45.0,
   "post_hour": 10,
-  "age_h": 37.1,
-  "views_per_h": 33.2
+  "age_h": 51.1,
+  "views_per_h": 24.1
  },
  {
   "platform": "Instagram",
@@ -168,8 +168,8 @@
   "comment_rate_pct": 0.25,
   "watch_pct": 38.7,
   "post_hour": 6,
-  "age_h": 41.1,
-  "views_per_h": 33.8
+  "age_h": 55.1,
+  "views_per_h": 25.2
  },
  {
   "platform": "Instagram",
@@ -211,8 +211,8 @@
   "comment_rate_pct": 0.18,
   "watch_pct": 46.4,
   "post_hour": 2,
-  "age_h": 45.1,
-  "views_per_h": 29.0
+  "age_h": 59.1,
+  "views_per_h": 22.1
  },
  {
   "platform": "Instagram",
@@ -257,8 +257,8 @@
   "comment_rate_pct": 0.75,
   "watch_pct": 31.4,
   "post_hour": 22,
-  "age_h": 49.1,
-  "views_per_h": 2.9
+  "age_h": 63.1,
+  "views_per_h": 2.3
  },
  {
   "platform": "Instagram",
@@ -304,8 +304,8 @@
   "comment_rate_pct": 0.57,
   "watch_pct": 40.4,
   "post_hour": 16,
-  "age_h": 55.1,
-  "views_per_h": 3.8
+  "age_h": 69.1,
+  "views_per_h": 3.1
  },
  {
   "platform": "Instagram",
@@ -350,8 +350,8 @@
   "comment_rate_pct": 0.09,
   "watch_pct": 42.5,
   "post_hour": 10,
-  "age_h": 61.1,
-  "views_per_h": 22.4
+  "age_h": 75.1,
+  "views_per_h": 18.2
  },
  {
   "platform": "Instagram",
@@ -397,8 +397,8 @@
   "comment_rate_pct": 0.09,
   "watch_pct": 65.9,
   "post_hour": 6,
-  "age_h": 65.1,
-  "views_per_h": 23.1
+  "age_h": 79.1,
+  "views_per_h": 19.1
  },
  {
   "platform": "Instagram",
@@ -443,8 +443,8 @@
   "comment_rate_pct": 0.09,
   "watch_pct": 55.0,
   "post_hour": 2,
-  "age_h": 69.1,
-  "views_per_h": 21.8
+  "age_h": 83.1,
+  "views_per_h": 18.2
  },
  {
   "platform": "Instagram",
@@ -486,8 +486,8 @@
   "comment_rate_pct": 0.53,
   "watch_pct": 53.1,
   "post_hour": 22,
-  "age_h": 73.1,
-  "views_per_h": 3.3
+  "age_h": 87.1,
+  "views_per_h": 2.8
  },
  {
   "platform": "Instagram",
@@ -495,15 +495,15 @@
   "posted": "2026-10-27 19:01",
   "title": "Your urge to breathe isn't about oxygen. 🫁",
   "link": "https://www.instagram.com/reel/DfAdBhLjslE/",
-  "views": 1835,
-  "reach": 1275,
+  "views": 1836,
+  "reach": 1277,
   "likes": 18,
   "comments": 2,
   "shares": 5,
   "saves": 2,
   "interactions": 27,
-  "avg_watch_s": 13.9,
-  "skip_rate_pct": 26.5,
+  "avg_watch_s": 13.8,
+  "skip_rate_pct": 26.6,
   "total_watch_min": 294.7,
   "episode": "ep42_breath_en",
   "pillar": "body",
@@ -527,10 +527,10 @@
   "share_rate_pct": 0.39,
   "save_rate_pct": 0.16,
   "comment_rate_pct": 0.16,
-  "watch_pct": 69.5,
+  "watch_pct": 69.0,
   "post_hour": 19,
-  "age_h": 76.1,
-  "views_per_h": 24.1
+  "age_h": 90.1,
+  "views_per_h": 20.4
  },
  {
   "platform": "Instagram",
@@ -572,8 +572,8 @@
   "comment_rate_pct": 0.11,
   "watch_pct": 42.9,
   "post_hour": 17,
-  "age_h": 77.5,
-  "views_per_h": 14.6
+  "age_h": 91.5,
+  "views_per_h": 12.3
  },
  {
   "platform": "Instagram",
@@ -581,16 +581,16 @@
   "posted": "2026-10-27 13:03",
   "title": "Skip food. When does your body burn fat? 🔥",
   "link": "https://www.instagram.com/reel/De_z-mKk6Fb/",
-  "views": 1484,
+  "views": 1485,
   "reach": 1162,
   "likes": 9,
   "comments": 2,
   "shares": 1,
-  "saves": 2,
-  "interactions": 15,
+  "saves": 1,
+  "interactions": 14,
   "avg_watch_s": 10.9,
-  "skip_rate_pct": 36.5,
-  "total_watch_min": 208.4,
+  "skip_rate_pct": 36.4,
+  "total_watch_min": 208.5,
   "episode": "ep40_fatburn_en",
   "pillar": "body",
   "topic": "fasting",
@@ -611,12 +611,12 @@
   "first_timer_at_s": 0.0,
   "like_rate_pct": 0.77,
   "share_rate_pct": 0.09,
-  "save_rate_pct": 0.17,
+  "save_rate_pct": 0.09,
   "comment_rate_pct": 0.17,
   "watch_pct": 55.1,
   "post_hour": 13,
-  "age_h": 82.1,
-  "views_per_h": 18.1
+  "age_h": 96.1,
+  "views_per_h": 15.5
  },
  {
   "platform": "Instagram",
@@ -658,8 +658,8 @@
   "comment_rate_pct": 0.08,
   "watch_pct": 50.0,
   "post_hour": 10,
-  "age_h": 85.1,
-  "views_per_h": 17.8
+  "age_h": 99.1,
+  "views_per_h": 15.3
  },
  {
   "platform": "Instagram",
@@ -701,8 +701,8 @@
   "comment_rate_pct": 0.09,
   "watch_pct": 38.0,
   "post_hour": 6,
-  "age_h": 89.1,
-  "views_per_h": 15.5
+  "age_h": 103.1,
+  "views_per_h": 13.4
  },
  {
   "platform": "Instagram",
@@ -744,8 +744,8 @@
   "comment_rate_pct": 0.57,
   "watch_pct": 36.9,
   "post_hour": 2,
-  "age_h": 93.1,
-  "views_per_h": 2.2
+  "age_h": 107.1,
+  "views_per_h": 1.9
  },
  {
   "platform": "Instagram",
@@ -787,8 +787,8 @@
   "comment_rate_pct": 0.78,
   "watch_pct": 28.5,
   "post_hour": 22,
-  "age_h": 97.1,
-  "views_per_h": 1.5
+  "age_h": 111.1,
+  "views_per_h": 1.4
  },
  {
   "platform": "Instagram",
@@ -831,8 +831,8 @@
   "comment_rate_pct": 0.1,
   "watch_pct": 55.4,
   "post_hour": 19,
-  "age_h": 100.1,
-  "views_per_h": 13.6
+  "age_h": 114.1,
+  "views_per_h": 12.0
  },
  {
   "platform": "Instagram",
@@ -874,8 +874,8 @@
   "comment_rate_pct": 0.88,
   "watch_pct": 36.5,
   "post_hour": 16,
-  "age_h": 103.1,
-  "views_per_h": 1.3
+  "age_h": 117.1,
+  "views_per_h": 1.2
  },
  {
   "platform": "Instagram",
@@ -917,8 +917,8 @@
   "comment_rate_pct": 0.56,
   "watch_pct": 43.5,
   "post_hour": 13,
-  "age_h": 106.1,
-  "views_per_h": 2.0
+  "age_h": 120.1,
+  "views_per_h": 1.8
  },
  {
   "platform": "Instagram",
@@ -960,8 +960,8 @@
   "comment_rate_pct": 0.9,
   "watch_pct": 39.2,
   "post_hour": 10,
-  "age_h": 109.1,
-  "views_per_h": 1.2
+  "age_h": 123.1,
+  "views_per_h": 1.1
  },
  {
   "platform": "Instagram",
@@ -1003,8 +1003,8 @@
   "comment_rate_pct": 0.07,
   "watch_pct": 59.9,
   "post_hour": 6,
-  "age_h": 113.1,
-  "views_per_h": 17.2
+  "age_h": 127.1,
+  "views_per_h": 15.3
  },
  {
   "platform": "Instagram",
@@ -1046,8 +1046,8 @@
   "comment_rate_pct": 0.09,
   "watch_pct": 47.5,
   "post_hour": 2,
-  "age_h": 117.1,
-  "views_per_h": 11.5
+  "age_h": 131.1,
+  "views_per_h": 10.3
  },
  {
   "platform": "Instagram",
@@ -1090,8 +1090,8 @@
   "comment_rate_pct": 0.09,
   "watch_pct": 39.0,
   "post_hour": 22,
-  "age_h": 121.1,
-  "views_per_h": 11.2
+  "age_h": 135.1,
+  "views_per_h": 10.0
  },
  {
   "platform": "Instagram",
@@ -1134,8 +1134,8 @@
   "comment_rate_pct": 0.09,
   "watch_pct": 39.3,
   "post_hour": 19,
-  "age_h": 124.1,
-  "views_per_h": 11.1
+  "age_h": 138.1,
+  "views_per_h": 9.9
  },
  {
   "platform": "Instagram",
@@ -1178,8 +1178,8 @@
   "comment_rate_pct": 0.08,
   "watch_pct": 55.8,
   "post_hour": 16,
-  "age_h": 127.1,
-  "views_per_h": 12.4
+  "age_h": 141.1,
+  "views_per_h": 11.2
  },
  {
   "platform": "Instagram",
@@ -1222,8 +1222,8 @@
   "comment_rate_pct": 0.09,
   "watch_pct": 53.5,
   "post_hour": 10,
-  "age_h": 133.1,
-  "views_per_h": 11.2
+  "age_h": 147.1,
+  "views_per_h": 10.1
  },
  {
   "platform": "Instagram",
@@ -1266,8 +1266,8 @@
   "comment_rate_pct": 0.06,
   "watch_pct": 80.5,
   "post_hour": 6,
-  "age_h": 137.1,
-  "views_per_h": 14.9
+  "age_h": 151.1,
+  "views_per_h": 13.5
  },
  {
   "platform": "Instagram",
@@ -1310,8 +1310,8 @@
   "comment_rate_pct": 0.09,
   "watch_pct": 56.8,
   "post_hour": 2,
-  "age_h": 141.1,
-  "views_per_h": 10.5
+  "age_h": 155.1,
+  "views_per_h": 9.5
  },
  {
   "platform": "Instagram",
@@ -1348,8 +1348,8 @@
   "comment_rate_pct": 0.13,
   "watch_pct": 30.7,
   "post_hour": 22,
-  "age_h": 145.1,
-  "views_per_h": 6.2
+  "age_h": 159.1,
+  "views_per_h": 5.6
  },
  {
   "platform": "Instagram",
@@ -1386,8 +1386,8 @@
   "comment_rate_pct": 0.09,
   "watch_pct": 37.2,
   "post_hour": 16,
-  "age_h": 151.1,
-  "views_per_h": 8.9
+  "age_h": 165.1,
+  "views_per_h": 8.1
  },
  {
   "platform": "Instagram",
@@ -1424,8 +1424,8 @@
   "comment_rate_pct": 0.89,
   "watch_pct": 29.1,
   "post_hour": 10,
-  "age_h": 157.1,
-  "views_per_h": 0.9
+  "age_h": 171.1,
+  "views_per_h": 0.8
  },
  {
   "platform": "Instagram",
@@ -1462,7 +1462,7 @@
   "comment_rate_pct": 0.85,
   "watch_pct": 20.9,
   "post_hour": 6,
-  "age_h": 161.1,
+  "age_h": 175.1,
   "views_per_h": 0.8
  },
  {
@@ -1500,8 +1500,8 @@
   "comment_rate_pct": 0.87,
   "watch_pct": 25.6,
   "post_hour": 2,
-  "age_h": 165.1,
-  "views_per_h": 0.8
+  "age_h": 179.1,
+  "views_per_h": 0.7
  },
  {
   "platform": "Instagram",
@@ -1538,8 +1538,8 @@
   "comment_rate_pct": 0.0,
   "watch_pct": 41.7,
   "post_hour": 22,
-  "age_h": 169.1,
-  "views_per_h": 8.7
+  "age_h": 183.1,
+  "views_per_h": 8.0
  },
  {
   "platform": "Instagram",
@@ -1576,8 +1576,8 @@
   "comment_rate_pct": 0.0,
   "watch_pct": 18.9,
   "post_hour": 16,
-  "age_h": 175.1,
-  "views_per_h": 0.9
+  "age_h": 189.1,
+  "views_per_h": 0.8
  },
  {
   "platform": "Instagram",
@@ -1614,8 +1614,8 @@
   "comment_rate_pct": 0.0,
   "watch_pct": 24.2,
   "post_hour": 10,
-  "age_h": 181.1,
-  "views_per_h": 0.7
+  "age_h": 195.1,
+  "views_per_h": 0.6
  },
  {
   "platform": "Instagram",
@@ -1652,8 +1652,8 @@
   "comment_rate_pct": 0.0,
   "watch_pct": 30.6,
   "post_hour": 6,
-  "age_h": 185.1,
-  "views_per_h": 0.8
+  "age_h": 199.1,
+  "views_per_h": 0.7
  },
  {
   "platform": "Instagram",
@@ -1690,8 +1690,8 @@
   "comment_rate_pct": 0.0,
   "watch_pct": 25.5,
   "post_hour": 2,
-  "age_h": 189.1,
-  "views_per_h": 0.8
+  "age_h": 203.1,
+  "views_per_h": 0.7
  },
  {
   "platform": "Instagram",
@@ -1728,7 +1728,7 @@
   "comment_rate_pct": 0.0,
   "watch_pct": 28.1,
   "post_hour": 22,
-  "age_h": 192.9,
+  "age_h": 206.9,
   "views_per_h": 0.7
  },
  {
@@ -1764,7 +1764,7 @@
   "save_rate_pct": null,
   "comment_rate_pct": null,
   "post_hour": 0,
-  "age_h": 70.8,
+  "age_h": 84.8,
   "views_per_h": 0.0
  },
  {
@@ -1800,7 +1800,7 @@
   "save_rate_pct": null,
   "comment_rate_pct": null,
   "post_hour": 0,
-  "age_h": 70.8,
+  "age_h": 84.8,
   "views_per_h": 0.0
  },
  {
@@ -1826,7 +1826,7 @@
   "save_rate_pct": null,
   "comment_rate_pct": null,
   "post_hour": 0,
-  "age_h": 70.8,
+  "age_h": 84.8,
   "views_per_h": 0.0
  },
  {
@@ -1862,7 +1862,7 @@
   "save_rate_pct": null,
   "comment_rate_pct": null,
   "post_hour": 0,
-  "age_h": 70.8,
+  "age_h": 84.8,
   "views_per_h": 0.0
  },
  {
@@ -1898,7 +1898,7 @@
   "save_rate_pct": null,
   "comment_rate_pct": null,
   "post_hour": 0,
-  "age_h": 70.8,
+  "age_h": 84.8,
   "views_per_h": 0.0
  },
  {
@@ -1908,7 +1908,7 @@
   "title": "On the Moon without a suit, you wouldn't explode 🌕",
   "link": "https://youtube.com/shorts/W3TgTsdwnYY",
   "status": "public",
-  "views": 1133,
+  "views": 1130,
   "likes": 12,
   "comments": 2,
   "episode": "ep43_moon_en",
@@ -1934,8 +1934,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.18,
   "post_hour": 22,
-  "age_h": 73.1,
-  "views_per_h": 15.5
+  "age_h": 87.1,
+  "views_per_h": 13.0
  },
  {
   "platform": "YouTube",
@@ -1944,8 +1944,8 @@
   "title": "Your urge to breathe isn't about oxygen 🫁",
   "link": "https://youtube.com/shorts/LfSku-nqk3k",
   "status": "public",
-  "views": 3393,
-  "likes": 67,
+  "views": 3398,
+  "likes": 66,
   "comments": 3,
   "episode": "ep42_breath_en",
   "pillar": "body",
@@ -1965,13 +1965,13 @@
   ],
   "hook": "YOUR URGE TO BREATHE ISN'T ABOUT *OXYGEN*.",
   "first_timer_at_s": 0.0,
-  "like_rate_pct": 1.97,
+  "like_rate_pct": 1.94,
   "share_rate_pct": 0.0,
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.09,
   "post_hour": 19,
-  "age_h": 76.1,
-  "views_per_h": 44.6
+  "age_h": 90.1,
+  "views_per_h": 37.7
  },
  {
   "platform": "YouTube",
@@ -1980,7 +1980,7 @@
   "title": "Above 8,000 m, your body is slowly dying 🏔️",
   "link": "https://youtube.com/shorts/J5gYQhOSkro",
   "status": "public",
-  "views": 1316,
+  "views": 1330,
   "likes": 13,
   "comments": 0,
   "episode": "ep41_deathzone_en",
@@ -2001,13 +2001,13 @@
   ],
   "hook": "ABOVE 8,000 M, YOUR BODY IS SLOWLY *DYING*.",
   "first_timer_at_s": 0.0,
-  "like_rate_pct": 0.99,
+  "like_rate_pct": 0.98,
   "share_rate_pct": 0.0,
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 16,
-  "age_h": 79.1,
-  "views_per_h": 16.6
+  "age_h": 93.1,
+  "views_per_h": 14.3
  },
  {
   "platform": "YouTube",
@@ -2042,8 +2042,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 13,
-  "age_h": 82.1,
-  "views_per_h": 13.5
+  "age_h": 96.1,
+  "views_per_h": 11.6
  },
  {
   "platform": "YouTube",
@@ -2052,7 +2052,7 @@
   "title": "Swallow a pill. Here's its trip inside your body 💊",
   "link": "https://youtube.com/shorts/HeMwJBpKYhc",
   "status": "public",
-  "views": 1043,
+  "views": 1047,
   "likes": 13,
   "comments": 0,
   "episode": "ep39_pill_en",
@@ -2073,13 +2073,13 @@
   ],
   "hook": "SWALLOW A PILL. HERE'S ITS *TRIP*.",
   "first_timer_at_s": 0.0,
-  "like_rate_pct": 1.25,
+  "like_rate_pct": 1.24,
   "share_rate_pct": 0.0,
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 10,
-  "age_h": 85.1,
-  "views_per_h": 12.3
+  "age_h": 99.1,
+  "views_per_h": 10.6
  },
  {
   "platform": "YouTube",
@@ -2088,7 +2088,7 @@
   "title": "Eat a donut. Your blood sugar shoots up 🍩",
   "link": "https://youtube.com/shorts/u66crMO1Sg8",
   "status": "public",
-  "views": 1137,
+  "views": 1140,
   "likes": 2,
   "comments": 0,
   "episode": "ep38_sugar_en",
@@ -2114,8 +2114,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 6,
-  "age_h": 89.1,
-  "views_per_h": 12.8
+  "age_h": 103.1,
+  "views_per_h": 11.1
  },
  {
   "platform": "YouTube",
@@ -2124,7 +2124,7 @@
   "title": "Your coffee doesn't give you energy ☕",
   "link": "https://youtube.com/shorts/voB2RkOc4Q4",
   "status": "public",
-  "views": 980,
+  "views": 985,
   "likes": 15,
   "comments": 0,
   "episode": "ep37_coffee_en",
@@ -2145,13 +2145,13 @@
   ],
   "hook": "YOUR COFFEE DOESN'T GIVE YOU *ENERGY*.",
   "first_timer_at_s": 0.0,
-  "like_rate_pct": 1.53,
+  "like_rate_pct": 1.52,
   "share_rate_pct": 0.0,
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 2,
-  "age_h": 93.1,
-  "views_per_h": 10.5
+  "age_h": 107.1,
+  "views_per_h": 9.2
  },
  {
   "platform": "YouTube",
@@ -2189,7 +2189,7 @@
   "save_rate_pct": null,
   "comment_rate_pct": null,
   "post_hour": 0,
-  "age_h": 94.9,
+  "age_h": 108.9,
   "views_per_h": 0.0
  },
  {
@@ -2229,7 +2229,7 @@
   "save_rate_pct": null,
   "comment_rate_pct": null,
   "post_hour": 0,
-  "age_h": 94.9,
+  "age_h": 108.9,
   "views_per_h": 0.0
  },
  {
@@ -2268,7 +2268,7 @@
   "save_rate_pct": null,
   "comment_rate_pct": null,
   "post_hour": 0,
-  "age_h": 94.9,
+  "age_h": 108.9,
   "views_per_h": 0.0
  },
  {
@@ -2308,7 +2308,7 @@
   "save_rate_pct": null,
   "comment_rate_pct": null,
   "post_hour": 0,
-  "age_h": 94.9,
+  "age_h": 108.9,
   "views_per_h": 0.0
  },
  {
@@ -2347,7 +2347,7 @@
   "save_rate_pct": null,
   "comment_rate_pct": null,
   "post_hour": 0,
-  "age_h": 94.9,
+  "age_h": 108.9,
   "views_per_h": 0.0
  },
  {
@@ -2383,8 +2383,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 22,
-  "age_h": 97.1,
-  "views_per_h": 10.6
+  "age_h": 111.1,
+  "views_per_h": 9.2
  },
  {
   "platform": "YouTube",
@@ -2420,8 +2420,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 19,
-  "age_h": 100.1,
-  "views_per_h": 1.7
+  "age_h": 114.1,
+  "views_per_h": 1.5
  },
  {
   "platform": "YouTube",
@@ -2430,7 +2430,7 @@
   "title": "6 months in space. Now you can't walk straight 🧑‍🚀",
   "link": "https://youtube.com/shorts/pcZBhmkffBQ",
   "status": "public",
-  "views": 1141,
+  "views": 1142,
   "likes": 17,
   "comments": 0,
   "episode": "ep35_backfromspace_en",
@@ -2456,8 +2456,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 16,
-  "age_h": 103.1,
-  "views_per_h": 11.1
+  "age_h": 117.1,
+  "views_per_h": 9.8
  },
  {
   "platform": "YouTube",
@@ -2466,7 +2466,7 @@
   "title": "In a vacuum, the spit on your tongue boils. One man felt it 🫧",
   "link": "https://youtube.com/shorts/gGLJUGFnUR8",
   "status": "public",
-  "views": 1382,
+  "views": 1381,
   "likes": 15,
   "comments": 0,
   "episode": "ep34_spitboil_en",
@@ -2492,8 +2492,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 13,
-  "age_h": 106.1,
-  "views_per_h": 13.0
+  "age_h": 120.1,
+  "views_per_h": 11.5
  },
  {
   "platform": "YouTube",
@@ -2502,7 +2502,7 @@
   "title": "His skull was mostly fluid. He lived a normal life 🧠",
   "link": "https://youtube.com/shorts/G6jkFS0957w",
   "status": "public",
-  "views": 333,
+  "views": 337,
   "likes": 4,
   "comments": 0,
   "episode": "ep33_nobrain_en",
@@ -2523,13 +2523,13 @@
   ],
   "hook": "YOUR BRAIN FILLS YOUR SKULL. HIS WAS MOSTLY *FLUID*.",
   "first_timer_at_s": 0.0,
-  "like_rate_pct": 1.2,
+  "like_rate_pct": 1.19,
   "share_rate_pct": 0.0,
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 10,
-  "age_h": 109.1,
-  "views_per_h": 3.1
+  "age_h": 123.1,
+  "views_per_h": 2.7
  },
  {
   "platform": "YouTube",
@@ -2565,8 +2565,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 10,
-  "age_h": 109.1,
-  "views_per_h": 8.9
+  "age_h": 123.1,
+  "views_per_h": 7.9
  },
  {
   "platform": "YouTube",
@@ -2601,8 +2601,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 6,
-  "age_h": 113.1,
-  "views_per_h": 10.2
+  "age_h": 127.1,
+  "views_per_h": 9.1
  },
  {
   "platform": "YouTube",
@@ -2637,8 +2637,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 2,
-  "age_h": 117.1,
-  "views_per_h": 3.3
+  "age_h": 131.1,
+  "views_per_h": 2.9
  },
  {
   "platform": "YouTube",
@@ -2674,8 +2674,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 22,
-  "age_h": 121.1,
-  "views_per_h": 10.5
+  "age_h": 135.1,
+  "views_per_h": 9.4
  },
  {
   "platform": "YouTube",
@@ -2684,7 +2684,7 @@
   "title": "Doctors can break your legs to make you taller 🦵",
   "link": "https://youtube.com/shorts/UntyDe4D4QQ",
   "status": "public",
-  "views": 428,
+  "views": 429,
   "likes": 1,
   "comments": 0,
   "episode": "ep28_taller_en",
@@ -2711,8 +2711,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 19,
-  "age_h": 124.1,
-  "views_per_h": 3.4
+  "age_h": 138.1,
+  "views_per_h": 3.1
  },
  {
   "platform": "YouTube",
@@ -2748,8 +2748,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 16,
-  "age_h": 127.1,
-  "views_per_h": 10.0
+  "age_h": 141.1,
+  "views_per_h": 9.0
  },
  {
   "platform": "YouTube",
@@ -2758,7 +2758,7 @@
   "title": "Stop putting cotton swabs in your ears 👂",
   "link": "https://youtube.com/shorts/Hiaxad3c1iY",
   "status": "public",
-  "views": 1260,
+  "views": 1261,
   "likes": 11,
   "comments": 0,
   "episode": "ep25_swabs_en",
@@ -2785,8 +2785,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 6,
-  "age_h": 137.1,
-  "views_per_h": 9.2
+  "age_h": 151.1,
+  "views_per_h": 8.3
  },
  {
   "platform": "YouTube",
@@ -2822,8 +2822,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 2,
-  "age_h": 141.1,
-  "views_per_h": 10.0
+  "age_h": 155.1,
+  "views_per_h": 9.1
  },
  {
   "platform": "YouTube",
@@ -2853,7 +2853,7 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 22,
-  "age_h": 145.1,
+  "age_h": 159.1,
   "views_per_h": 0.1
  },
  {
@@ -2884,8 +2884,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 16,
-  "age_h": 151.1,
-  "views_per_h": 0.2
+  "age_h": 165.1,
+  "views_per_h": 0.1
  },
  {
   "platform": "YouTube",
@@ -2915,8 +2915,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 10,
-  "age_h": 157.1,
-  "views_per_h": 8.0
+  "age_h": 171.1,
+  "views_per_h": 7.3
  },
  {
   "platform": "YouTube",
@@ -2946,8 +2946,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.33,
   "post_hour": 6,
-  "age_h": 161.1,
-  "views_per_h": 7.6
+  "age_h": 175.1,
+  "views_per_h": 7.0
  },
  {
   "platform": "YouTube",
@@ -2956,7 +2956,7 @@
   "title": "A man fought a humanoid robot. Watch what happens to his body 🤖",
   "link": "https://youtube.com/shorts/hNKHOnikkFI",
   "status": "public",
-  "views": 639,
+  "views": 640,
   "likes": 12,
   "comments": 1,
   "episode": "ep13_robot_en",
@@ -2977,7 +2977,7 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.16,
   "post_hour": 2,
-  "age_h": 165.1,
-  "views_per_h": 3.9
+  "age_h": 179.1,
+  "views_per_h": 3.6
  }
 ]
