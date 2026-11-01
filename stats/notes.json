@@ -466,5 +466,41 @@
   "order": 6,
   "kind": "Da cambiare",
   "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart) e spostare li' lo sforzo: +1.700 views/giorno senza caricare nulla."
+ },
+ {
+  "date": "2026-11-01",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Fine giornata (23:05). Nessun reel pubblicato per il quarto giorno: coda vuota dal 29/10 22:00. Oggi 20 views, reach 8 (30/10: 4.275 / 3.688; 28/10: 11.725 / 9.264). Follower 6 (fermi da 7 giorni), 0 visite al profilo, 0 condivisioni. Baseline ultimi 10 reel (3 h+): skip 36,3%, visione 43,8%, mediana 1.354 views, share 0,0%, salvataggi 0,1%. YouTube 25.527 views, 15 iscritti (+1 da ieri)."
+ },
+ {
+  "date": "2026-11-01",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Nessun cambio nei reel < 72 h (Blind Spot 1.338, Stroop 1.554, Gorilla 1.231): fermi, tutti sotto 1 view/h. YouTube resta l'unico canale che si muove: +27 views e +1 iscritto oggi senza caricare nulla."
+ },
+ {
+  "date": "2026-11-01",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Quarto giorno senza produzione: views giornaliere da 11.725 (28/10) a 20 oggi. Tetto di ~1.150 reach per reel invariato su 40+ reel; share 0,0% e follower 6 su ~60k reach."
+ },
+ {
+  "date": "2026-11-01",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Rifornire la coda subito: 4 giorni senza reel (circa 16.000 views perse rispetto al ritmo del 28/10). Servono nuovi video in queue.json per il 2 novembre."
+ },
+ {
+  "date": "2026-11-01",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40 reel finiscono tutti a ~1.150 reach, quindi il formato e' l'unica leva rimasta."
+ },
+ {
+  "date": "2026-11-01",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart) e spostare li' parte dello sforzo."
  }
 ]
