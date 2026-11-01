@@ -466,5 +466,41 @@
   "order": 6,
   "kind": "Da cambiare",
   "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart) e spostare li' lo sforzo: +1.700 views/giorno senza caricare nulla."
+ },
+ {
+  "date": "2026-11-01",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Meta' giornata (13:05). Nessun reel pubblicato per il quarto giorno: coda vuota dal 29/10 22:00. Oggi 16 views, reach 5 (30/10: 4.275 / 3.688). Follower 6 (fermi da 7 giorni), 0 visite al profilo, 0 condivisioni, 0 commenti. Baseline ultimi 10 reel (3 h+): skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views, like 0,6%, share 0,0%. YouTube 25.523 views, 14 iscritti."
+ },
+ {
+  "date": "2026-11-01",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Nessun reel nuovo nelle ultime 72 h da diagnosticare (ultimo: Blind Spot 29/10 22:00, 1.338 views, skip 46%). Il migliore dei Body Test resta Nose: skip 26,2%. YouTube cresce ancora un po' (+23 views da ieri sera) senza caricamenti."
+ },
+ {
+  "date": "2026-11-01",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Zero produzione = zero raccolta: views giornaliere da 11.725 (28/10) a 16 oggi. Tetto di ~1.150 reach per reel invariato su 41 reel; share 0,0% e follower 6 su ~60k reach. Il limite e' dell'account, non dell'hook."
+ },
+ {
+  "date": "2026-11-01",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Rifornire la coda subito: 4 giorni senza reel (circa 16.000 views perse rispetto al ritmo del 28/10). Servono video in queue.json per oggi (16:00, 22:00) e domani."
+ },
+ {
+  "date": "2026-11-01",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 41 reel finiscono tutti a ~1.150 reach, cambiare formato e' l'unica leva rimasta."
+ },
+ {
+  "date": "2026-11-01",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart): YouTube e' l'unico canale ancora vivo."
  }
 ]
