@@ -1,5 +1,10 @@
 # Learnings (newest first)
 
+## 2026-11-02 13:05 (mid-day review)
+- ALERT: fifth day with no reel (queue empty since 29/10 22:00). Views today 10, reach 6 (31/10: 33 / 22). Followers 6, flat 7 days.
+- Baseline (last 10, 3 h+): skip 36.3%, watch 43.8% (12.6 s), median 1,354 views. No reel < 72 h changed; all at their ceiling.
+- YouTube 25,535 views, 14 subscribers, 10 Shorts still private. No comments. No rule changed status, no experiment open (E5 still only proposed).
+
 ## 2026-10-31 23:05 (end-of-day review)
 - ALERT: third day with no reel (queue empty since 29/10 22:00). Day: 33 views, reach 22 (30/10: 4,275 / 3,688), 0 shares, 0 profile visits, followers 6 (flat 6 days).
 - Baseline (last 10, 3 h+): skip 36.3%, watch 43.8% (12.6 s), median 1,354 views, like 0.62%, share 0.0%, save 0.08%. No reel < 72 h changed: Stroop 1,554, Afterimage 1,390, Blind Spot 1,338, Nose 1,307 (skip 26.2%), Gorilla 1,231, all < 1 view/h.
