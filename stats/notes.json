@@ -579,7 +579,7 @@
   "date": "2026-11-04",
   "order": 1,
   "kind": "Sintesi",
-  "text": "Meta' giornata (13:05). Ottavo giorno senza reel: coda vuota dal 29/10 22:00. Oggi 5 views, reach 5, 0 condivisioni, 0 visite al profilo. Follower 6 (fermi da 10 giorni). Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h. YouTube 25.561 views (+16), 14 iscritti."
+  "text": "Fine giornata (23:05). Nono giorno senza reel: coda vuota dal 29/10 22:00. Oggi 19 views, reach 6, 0 condivisioni, 0 visite al profilo. Follower 6 (fermi da 10 giorni). Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h. YouTube 25.566 views, 14 iscritti. Nessun commento nuovo."
  },
  {
   "date": "2026-11-04",
@@ -591,19 +591,19 @@
   "date": "2026-11-04",
   "order": 3,
   "kind": "Non funziona",
-  "text": "Zero produzione = zero raccolta: da 11.725 views/giorno a 5. Tutti i reel fermi a ~1.150 reach, share 0,0%, follower 6 su ~60k reach totale."
+  "text": "Zero produzione = zero raccolta: da 11.725 views/giorno a 19. Follower 6 su ~60k reach totale. 10 Short YouTube ancora privati."
  },
  {
   "date": "2026-11-04",
   "order": 4,
   "kind": "Da cambiare",
-  "text": "1. Rifornire la coda: 8 giorni senza reel. Servono video nuovi in queue.json (slot 16:00 e 22:00 di oggi persi)."
+  "text": "1. Rifornire la coda: 9 giorni senza reel. Servono video nuovi in queue.json (slot di oggi persi)."
  },
  {
   "date": "2026-11-04",
   "order": 5,
   "kind": "Da cambiare",
-  "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40+ reel finiscono tutti a ~1.150 reach, il formato e' l'unica leva rimasta."
+  "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40+ reel finiscono tutti a ~1.150 reach."
  },
  {
   "date": "2026-11-04",
