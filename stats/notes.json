@@ -615,7 +615,7 @@
   "date": "2026-11-05",
   "order": 1,
   "kind": "Sintesi",
-  "text": "Meta' giornata (13:05). Decimo giorno senza reel: coda vuota dal 29/10 22:00. Oggi 20 views, reach 6, 0 condivisioni, 0 visite al profilo. Follower 6 (fermi da 11 giorni). Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h. YouTube 25.568 views, 14 iscritti. Nessun commento nuovo."
+  "text": "Fine giornata (23:05). Undicesimo giorno senza reel: coda vuota dal 29/10 22:00. Oggi 20 views, reach 6, 0 condivisioni, 0 visite al profilo. Follower 6 (fermi da 11 giorni). Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h. YouTube 25.569 views, 14 iscritti, 10 Short ancora privati. Nessun commento. Nessuna regola ha cambiato stato."
  },
  {
   "date": "2026-11-05",
@@ -633,7 +633,7 @@
   "date": "2026-11-05",
   "order": 4,
   "kind": "Da cambiare",
-  "text": "1. Rifornire la coda: 10 giorni senza reel. Servono video nuovi in queue.json (slot di oggi persi)."
+  "text": "1. Rifornire la coda: 11 giorni senza reel. Servono video nuovi in queue.json (tutti gli slot di oggi persi)."
  },
  {
   "date": "2026-11-05",
