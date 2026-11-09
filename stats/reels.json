@@ -39,8 +39,8 @@
   "comment_rate_pct": 0.09,
   "watch_pct": 39.2,
   "post_hour": 22,
-  "age_h": 241.1,
-  "views_per_h": 5.6
+  "age_h": 255.2,
+  "views_per_h": 5.2
  },
  {
   "platform": "Instagram",
@@ -82,8 +82,8 @@
   "comment_rate_pct": 0.08,
   "watch_pct": 51.9,
   "post_hour": 16,
-  "age_h": 247.1,
-  "views_per_h": 6.3
+  "age_h": 261.1,
+  "views_per_h": 6.0
  },
  {
   "platform": "Instagram",
@@ -125,8 +125,8 @@
   "comment_rate_pct": 0.09,
   "watch_pct": 45.0,
   "post_hour": 10,
-  "age_h": 253.1,
-  "views_per_h": 4.9
+  "age_h": 267.1,
+  "views_per_h": 4.6
  },
  {
   "platform": "Instagram",
@@ -168,8 +168,8 @@
   "comment_rate_pct": 0.25,
   "watch_pct": 38.7,
   "post_hour": 6,
-  "age_h": 257.1,
-  "views_per_h": 5.4
+  "age_h": 271.1,
+  "views_per_h": 5.1
  },
  {
   "platform": "Instagram",
@@ -211,8 +211,8 @@
   "comment_rate_pct": 0.18,
   "watch_pct": 46.4,
   "post_hour": 2,
-  "age_h": 261.1,
-  "views_per_h": 5.0
+  "age_h": 275.1,
+  "views_per_h": 4.8
  },
  {
   "platform": "Instagram",
@@ -257,8 +257,8 @@
   "comment_rate_pct": 0.75,
   "watch_pct": 31.1,
   "post_hour": 22,
-  "age_h": 265.1,
-  "views_per_h": 0.6
+  "age_h": 279.1,
+  "views_per_h": 0.5
  },
  {
   "platform": "Instagram",
@@ -304,8 +304,8 @@
   "comment_rate_pct": 0.57,
   "watch_pct": 40.4,
   "post_hour": 16,
-  "age_h": 271.1,
-  "views_per_h": 0.8
+  "age_h": 285.2,
+  "views_per_h": 0.7
  },
  {
   "platform": "Instagram",
@@ -350,8 +350,8 @@
   "comment_rate_pct": 0.09,
   "watch_pct": 42.5,
   "post_hour": 10,
-  "age_h": 277.1,
-  "views_per_h": 4.9
+  "age_h": 291.2,
+  "views_per_h": 4.7
  },
  {
   "platform": "Instagram",
@@ -397,8 +397,8 @@
   "comment_rate_pct": 0.09,
   "watch_pct": 65.9,
   "post_hour": 6,
-  "age_h": 281.1,
-  "views_per_h": 5.4
+  "age_h": 295.1,
+  "views_per_h": 5.1
  },
  {
   "platform": "Instagram",
@@ -443,8 +443,8 @@
   "comment_rate_pct": 0.08,
   "watch_pct": 55.0,
   "post_hour": 2,
-  "age_h": 285.1,
-  "views_per_h": 5.3
+  "age_h": 299.1,
+  "views_per_h": 5.0
  },
  {
   "platform": "Instagram",
@@ -486,7 +486,7 @@
   "comment_rate_pct": 0.53,
   "watch_pct": 53.1,
   "post_hour": 22,
-  "age_h": 289.1,
+  "age_h": 303.1,
   "views_per_h": 0.8
  },
  {
@@ -495,16 +495,16 @@
   "posted": "2026-10-27 19:01",
   "title": "Your urge to breathe isn't about oxygen. 🫁",
   "link": "https://www.instagram.com/reel/DfAdBhLjslE/",
-  "views": 1839,
-  "reach": 1279,
+  "views": 1841,
+  "reach": 1280,
   "likes": 18,
   "comments": 2,
   "shares": 5,
   "saves": 2,
   "interactions": 27,
   "avg_watch_s": 13.8,
-  "skip_rate_pct": 26.8,
-  "total_watch_min": 294.9,
+  "skip_rate_pct": 26.7,
+  "total_watch_min": 295.5,
   "episode": "ep42_breath_en",
   "pillar": "body",
   "topic": "breathing",
@@ -529,8 +529,8 @@
   "comment_rate_pct": 0.16,
   "watch_pct": 69.0,
   "post_hour": 19,
-  "age_h": 292.1,
-  "views_per_h": 6.3
+  "age_h": 306.1,
+  "views_per_h": 6.0
  },
  {
   "platform": "Instagram",
@@ -572,8 +572,8 @@
   "comment_rate_pct": 0.11,
   "watch_pct": 42.9,
   "post_hour": 17,
-  "age_h": 293.5,
-  "views_per_h": 3.9
+  "age_h": 307.6,
+  "views_per_h": 3.7
  },
  {
   "platform": "Instagram",
@@ -615,8 +615,8 @@
   "comment_rate_pct": 0.17,
   "watch_pct": 55.1,
   "post_hour": 13,
-  "age_h": 298.1,
-  "views_per_h": 5.0
+  "age_h": 312.1,
+  "views_per_h": 4.8
  },
  {
   "platform": "Instagram",
@@ -658,8 +658,8 @@
   "comment_rate_pct": 0.08,
   "watch_pct": 50.0,
   "post_hour": 10,
-  "age_h": 301.1,
-  "views_per_h": 5.0
+  "age_h": 315.1,
+  "views_per_h": 4.8
  },
  {
   "platform": "Instagram",
@@ -701,8 +701,8 @@
   "comment_rate_pct": 0.09,
   "watch_pct": 38.0,
   "post_hour": 6,
-  "age_h": 305.1,
-  "views_per_h": 4.5
+  "age_h": 319.1,
+  "views_per_h": 4.3
  },
  {
   "platform": "Instagram",
@@ -744,7 +744,7 @@
   "comment_rate_pct": 0.57,
   "watch_pct": 36.9,
   "post_hour": 2,
-  "age_h": 309.1,
+  "age_h": 323.1,
   "views_per_h": 0.7
  },
  {
@@ -787,7 +787,7 @@
   "comment_rate_pct": 0.78,
   "watch_pct": 28.5,
   "post_hour": 22,
-  "age_h": 313.1,
+  "age_h": 327.1,
   "views_per_h": 0.5
  },
  {
@@ -831,8 +831,8 @@
   "comment_rate_pct": 0.1,
   "watch_pct": 55.4,
   "post_hour": 19,
-  "age_h": 316.1,
-  "views_per_h": 4.3
+  "age_h": 330.1,
+  "views_per_h": 4.1
  },
  {
   "platform": "Instagram",
@@ -874,7 +874,7 @@
   "comment_rate_pct": 0.88,
   "watch_pct": 36.5,
   "post_hour": 16,
-  "age_h": 319.1,
+  "age_h": 333.1,
   "views_per_h": 0.4
  },
  {
@@ -917,8 +917,8 @@
   "comment_rate_pct": 0.56,
   "watch_pct": 43.5,
   "post_hour": 13,
-  "age_h": 322.1,
-  "views_per_h": 0.7
+  "age_h": 336.2,
+  "views_per_h": 0.6
  },
  {
   "platform": "Instagram",
@@ -960,7 +960,7 @@
   "comment_rate_pct": 0.9,
   "watch_pct": 39.2,
   "post_hour": 10,
-  "age_h": 325.1,
+  "age_h": 339.1,
   "views_per_h": 0.4
  },
  {
@@ -1003,8 +1003,8 @@
   "comment_rate_pct": 0.07,
   "watch_pct": 59.9,
   "post_hour": 6,
-  "age_h": 329.1,
-  "views_per_h": 5.9
+  "age_h": 343.1,
+  "views_per_h": 5.7
  },
  {
   "platform": "Instagram",
@@ -1046,8 +1046,8 @@
   "comment_rate_pct": 0.09,
   "watch_pct": 47.5,
   "post_hour": 2,
-  "age_h": 333.1,
-  "views_per_h": 4.1
+  "age_h": 347.1,
+  "views_per_h": 3.9
  },
  {
   "platform": "Instagram",
@@ -1090,8 +1090,8 @@
   "comment_rate_pct": 0.09,
   "watch_pct": 39.0,
   "post_hour": 22,
-  "age_h": 337.1,
-  "views_per_h": 4.0
+  "age_h": 351.1,
+  "views_per_h": 3.9
  },
  {
   "platform": "Instagram",
@@ -1134,8 +1134,8 @@
   "comment_rate_pct": 0.09,
   "watch_pct": 39.3,
   "post_hour": 19,
-  "age_h": 340.1,
-  "views_per_h": 4.0
+  "age_h": 354.1,
+  "views_per_h": 3.9
  },
  {
   "platform": "Instagram",
@@ -1178,8 +1178,8 @@
   "comment_rate_pct": 0.08,
   "watch_pct": 55.8,
   "post_hour": 16,
-  "age_h": 343.1,
-  "views_per_h": 4.6
+  "age_h": 357.1,
+  "views_per_h": 4.4
  },
  {
   "platform": "Instagram",
@@ -1222,8 +1222,8 @@
   "comment_rate_pct": 0.09,
   "watch_pct": 53.5,
   "post_hour": 10,
-  "age_h": 349.1,
-  "views_per_h": 4.3
+  "age_h": 363.1,
+  "views_per_h": 4.1
  },
  {
   "platform": "Instagram",
@@ -1231,16 +1231,16 @@
   "posted": "2026-10-25 06:00",
   "title": "Stop putting cotton swabs in your ears. 👂",
   "link": "https://www.instagram.com/reel/De56CQUk_xP/",
-  "views": 2051,
-  "reach": 1567,
+  "views": 2054,
+  "reach": 1569,
   "likes": 4,
   "comments": 1,
   "shares": 1,
   "saves": 0,
   "interactions": 6,
-  "avg_watch_s": 16.9,
-  "skip_rate_pct": 20.8,
-  "total_watch_min": 435.7,
+  "avg_watch_s": 16.8,
+  "skip_rate_pct": 20.9,
+  "total_watch_min": 436.1,
   "episode": "ep25_swabs_en",
   "pillar": "body",
   "topic": "ears",
@@ -1260,14 +1260,14 @@
   ],
   "hook": "STOP PUTTING COTTON SWABS IN YOUR *EARS*.",
   "first_timer_at_s": 0.0,
-  "like_rate_pct": 0.26,
+  "like_rate_pct": 0.25,
   "share_rate_pct": 0.06,
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.06,
-  "watch_pct": 80.5,
+  "watch_pct": 80.0,
   "post_hour": 6,
-  "age_h": 353.1,
-  "views_per_h": 5.8
+  "age_h": 367.2,
+  "views_per_h": 5.6
  },
  {
   "platform": "Instagram",
@@ -1310,8 +1310,8 @@
   "comment_rate_pct": 0.09,
   "watch_pct": 56.8,
   "post_hour": 2,
-  "age_h": 357.1,
-  "views_per_h": 4.1
+  "age_h": 371.1,
+  "views_per_h": 4.0
  },
  {
   "platform": "Instagram",
@@ -1348,8 +1348,8 @@
   "comment_rate_pct": 0.13,
   "watch_pct": 30.7,
   "post_hour": 22,
-  "age_h": 361.1,
-  "views_per_h": 2.5
+  "age_h": 375.2,
+  "views_per_h": 2.4
  },
  {
   "platform": "Instagram",
@@ -1386,8 +1386,8 @@
   "comment_rate_pct": 0.09,
   "watch_pct": 37.0,
   "post_hour": 16,
-  "age_h": 367.1,
-  "views_per_h": 3.7
+  "age_h": 381.1,
+  "views_per_h": 3.5
  },
  {
   "platform": "Instagram",
@@ -1424,7 +1424,7 @@
   "comment_rate_pct": 0.88,
   "watch_pct": 28.8,
   "post_hour": 10,
-  "age_h": 373.1,
+  "age_h": 387.1,
   "views_per_h": 0.4
  },
  {
@@ -1462,8 +1462,8 @@
   "comment_rate_pct": 0.85,
   "watch_pct": 20.9,
   "post_hour": 6,
-  "age_h": 377.1,
-  "views_per_h": 0.4
+  "age_h": 391.1,
+  "views_per_h": 0.3
  },
  {
   "platform": "Instagram",
@@ -1500,7 +1500,7 @@
   "comment_rate_pct": 0.87,
   "watch_pct": 25.6,
   "post_hour": 2,
-  "age_h": 381.1,
+  "age_h": 395.1,
   "views_per_h": 0.3
  },
  {
@@ -1509,7 +1509,7 @@
   "posted": "2026-10-23 22:00",
   "title": "Your first breath in ice water is not yours. 🧊",
   "link": "https://www.instagram.com/reel/De2XcEWBiA-/",
-  "views": 1473,
+  "views": 1474,
   "reach": 1180,
   "likes": 22,
   "comments": 0,
@@ -1518,7 +1518,7 @@
   "interactions": 23,
   "avg_watch_s": 17.7,
   "skip_rate_pct": 34.1,
-  "total_watch_min": 346.6,
+  "total_watch_min": 347.1,
   "episode": "ep12_coldplunge_en",
   "pillar": "body",
   "topic": "cold",
@@ -1538,8 +1538,8 @@
   "comment_rate_pct": 0.0,
   "watch_pct": 41.7,
   "post_hour": 22,
-  "age_h": 385.1,
-  "views_per_h": 3.8
+  "age_h": 399.2,
+  "views_per_h": 3.7
  },
  {
   "platform": "Instagram",
@@ -1576,7 +1576,7 @@
   "comment_rate_pct": 0.0,
   "watch_pct": 18.9,
   "post_hour": 16,
-  "age_h": 391.1,
+  "age_h": 405.2,
   "views_per_h": 0.4
  },
  {
@@ -1614,7 +1614,7 @@
   "comment_rate_pct": 0.0,
   "watch_pct": 24.2,
   "post_hour": 10,
-  "age_h": 397.1,
+  "age_h": 411.2,
   "views_per_h": 0.3
  },
  {
@@ -1652,8 +1652,8 @@
   "comment_rate_pct": 0.0,
   "watch_pct": 30.6,
   "post_hour": 6,
-  "age_h": 401.1,
-  "views_per_h": 0.4
+  "age_h": 415.2,
+  "views_per_h": 0.3
  },
  {
   "platform": "Instagram",
@@ -1690,8 +1690,8 @@
   "comment_rate_pct": 0.0,
   "watch_pct": 25.5,
   "post_hour": 2,
-  "age_h": 405.1,
-  "views_per_h": 0.4
+  "age_h": 419.2,
+  "views_per_h": 0.3
  },
  {
   "platform": "Instagram",
@@ -1728,7 +1728,7 @@
   "comment_rate_pct": 0.0,
   "watch_pct": 28.1,
   "post_hour": 22,
-  "age_h": 408.9,
+  "age_h": 422.9,
   "views_per_h": 0.3
  },
  {
@@ -1764,7 +1764,7 @@
   "save_rate_pct": null,
   "comment_rate_pct": null,
   "post_hour": 0,
-  "age_h": 286.8,
+  "age_h": 300.8,
   "views_per_h": 0.0
  },
  {
@@ -1800,7 +1800,7 @@
   "save_rate_pct": null,
   "comment_rate_pct": null,
   "post_hour": 0,
-  "age_h": 286.8,
+  "age_h": 300.8,
   "views_per_h": 0.0
  },
  {
@@ -1826,7 +1826,7 @@
   "save_rate_pct": null,
   "comment_rate_pct": null,
   "post_hour": 0,
-  "age_h": 286.8,
+  "age_h": 300.8,
   "views_per_h": 0.0
  },
  {
@@ -1862,7 +1862,7 @@
   "save_rate_pct": null,
   "comment_rate_pct": null,
   "post_hour": 0,
-  "age_h": 286.8,
+  "age_h": 300.8,
   "views_per_h": 0.0
  },
  {
@@ -1898,7 +1898,7 @@
   "save_rate_pct": null,
   "comment_rate_pct": null,
   "post_hour": 0,
-  "age_h": 286.8,
+  "age_h": 300.8,
   "views_per_h": 0.0
  },
  {
@@ -1934,8 +1934,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.18,
   "post_hour": 22,
-  "age_h": 289.1,
-  "views_per_h": 3.9
+  "age_h": 303.2,
+  "views_per_h": 3.8
  },
  {
   "platform": "YouTube",
@@ -1944,7 +1944,7 @@
   "title": "Your urge to breathe isn't about oxygen 🫁",
   "link": "https://youtube.com/shorts/LfSku-nqk3k",
   "status": "public",
-  "views": 3409,
+  "views": 3410,
   "likes": 66,
   "comments": 3,
   "episode": "ep42_breath_en",
@@ -1970,8 +1970,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.09,
   "post_hour": 19,
-  "age_h": 292.1,
-  "views_per_h": 11.7
+  "age_h": 306.2,
+  "views_per_h": 11.1
  },
  {
   "platform": "YouTube",
@@ -2006,8 +2006,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 16,
-  "age_h": 295.1,
-  "views_per_h": 4.5
+  "age_h": 309.2,
+  "views_per_h": 4.3
  },
  {
   "platform": "YouTube",
@@ -2042,8 +2042,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 13,
-  "age_h": 298.1,
-  "views_per_h": 3.7
+  "age_h": 312.2,
+  "views_per_h": 3.6
  },
  {
   "platform": "YouTube",
@@ -2078,8 +2078,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 10,
-  "age_h": 301.1,
-  "views_per_h": 3.5
+  "age_h": 315.2,
+  "views_per_h": 3.3
  },
  {
   "platform": "YouTube",
@@ -2088,7 +2088,7 @@
   "title": "Eat a donut. Your blood sugar shoots up 🍩",
   "link": "https://youtube.com/shorts/u66crMO1Sg8",
   "status": "public",
-  "views": 1144,
+  "views": 1145,
   "likes": 2,
   "comments": 0,
   "episode": "ep38_sugar_en",
@@ -2114,8 +2114,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 6,
-  "age_h": 305.1,
-  "views_per_h": 3.7
+  "age_h": 319.2,
+  "views_per_h": 3.6
  },
  {
   "platform": "YouTube",
@@ -2150,8 +2150,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 2,
-  "age_h": 309.1,
-  "views_per_h": 3.2
+  "age_h": 323.2,
+  "views_per_h": 3.0
  },
  {
   "platform": "YouTube",
@@ -2189,7 +2189,7 @@
   "save_rate_pct": null,
   "comment_rate_pct": null,
   "post_hour": 0,
-  "age_h": 310.9,
+  "age_h": 325.0,
   "views_per_h": 0.0
  },
  {
@@ -2229,7 +2229,7 @@
   "save_rate_pct": null,
   "comment_rate_pct": null,
   "post_hour": 0,
-  "age_h": 310.9,
+  "age_h": 325.0,
   "views_per_h": 0.0
  },
  {
@@ -2268,7 +2268,7 @@
   "save_rate_pct": null,
   "comment_rate_pct": null,
   "post_hour": 0,
-  "age_h": 310.9,
+  "age_h": 325.0,
   "views_per_h": 0.0
  },
  {
@@ -2308,7 +2308,7 @@
   "save_rate_pct": null,
   "comment_rate_pct": null,
   "post_hour": 0,
-  "age_h": 310.9,
+  "age_h": 325.0,
   "views_per_h": 0.0
  },
  {
@@ -2347,7 +2347,7 @@
   "save_rate_pct": null,
   "comment_rate_pct": null,
   "post_hour": 0,
-  "age_h": 310.9,
+  "age_h": 325.0,
   "views_per_h": 0.0
  },
  {
@@ -2383,8 +2383,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 22,
-  "age_h": 313.1,
-  "views_per_h": 3.3
+  "age_h": 327.2,
+  "views_per_h": 3.1
  },
  {
   "platform": "YouTube",
@@ -2420,7 +2420,7 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 19,
-  "age_h": 316.1,
+  "age_h": 330.2,
   "views_per_h": 0.5
  },
  {
@@ -2456,8 +2456,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 16,
-  "age_h": 319.1,
-  "views_per_h": 3.6
+  "age_h": 333.2,
+  "views_per_h": 3.4
  },
  {
   "platform": "YouTube",
@@ -2492,8 +2492,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 13,
-  "age_h": 322.1,
-  "views_per_h": 4.3
+  "age_h": 336.2,
+  "views_per_h": 4.1
  },
  {
   "platform": "YouTube",
@@ -2528,7 +2528,7 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 10,
-  "age_h": 325.1,
+  "age_h": 339.2,
   "views_per_h": 1.1
  },
  {
@@ -2565,8 +2565,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 10,
-  "age_h": 325.1,
-  "views_per_h": 3.0
+  "age_h": 339.2,
+  "views_per_h": 2.9
  },
  {
   "platform": "YouTube",
@@ -2601,8 +2601,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 6,
-  "age_h": 329.1,
-  "views_per_h": 3.5
+  "age_h": 343.2,
+  "views_per_h": 3.4
  },
  {
   "platform": "YouTube",
@@ -2637,7 +2637,7 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 2,
-  "age_h": 333.1,
+  "age_h": 347.2,
   "views_per_h": 1.1
  },
  {
@@ -2674,8 +2674,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 22,
-  "age_h": 337.1,
-  "views_per_h": 3.8
+  "age_h": 351.2,
+  "views_per_h": 3.6
  },
  {
   "platform": "YouTube",
@@ -2684,7 +2684,7 @@
   "title": "Doctors can break your legs to make you taller 🦵",
   "link": "https://youtube.com/shorts/UntyDe4D4QQ",
   "status": "public",
-  "views": 433,
+  "views": 434,
   "likes": 1,
   "comments": 0,
   "episode": "ep28_taller_en",
@@ -2711,8 +2711,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 19,
-  "age_h": 340.1,
-  "views_per_h": 1.3
+  "age_h": 354.2,
+  "views_per_h": 1.2
  },
  {
   "platform": "YouTube",
@@ -2748,8 +2748,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 16,
-  "age_h": 343.1,
-  "views_per_h": 3.7
+  "age_h": 357.2,
+  "views_per_h": 3.6
  },
  {
   "platform": "YouTube",
@@ -2785,8 +2785,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 6,
-  "age_h": 353.1,
-  "views_per_h": 3.6
+  "age_h": 367.2,
+  "views_per_h": 3.4
  },
  {
   "platform": "YouTube",
@@ -2822,8 +2822,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 2,
-  "age_h": 357.1,
-  "views_per_h": 4.0
+  "age_h": 371.2,
+  "views_per_h": 3.8
  },
  {
   "platform": "YouTube",
@@ -2853,7 +2853,7 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 22,
-  "age_h": 361.1,
+  "age_h": 375.2,
   "views_per_h": 0.0
  },
  {
@@ -2884,7 +2884,7 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 16,
-  "age_h": 367.1,
+  "age_h": 381.2,
   "views_per_h": 0.1
  },
  {
@@ -2915,8 +2915,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.0,
   "post_hour": 10,
-  "age_h": 373.1,
-  "views_per_h": 3.4
+  "age_h": 387.2,
+  "views_per_h": 3.2
  },
  {
   "platform": "YouTube",
@@ -2946,8 +2946,8 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.33,
   "post_hour": 6,
-  "age_h": 377.1,
-  "views_per_h": 3.2
+  "age_h": 391.2,
+  "views_per_h": 3.1
  },
  {
   "platform": "YouTube",
@@ -2977,7 +2977,7 @@
   "save_rate_pct": 0.0,
   "comment_rate_pct": 0.16,
   "post_hour": 2,
-  "age_h": 381.1,
-  "views_per_h": 1.7
+  "age_h": 395.2,
+  "views_per_h": 1.6
  }
 ]
