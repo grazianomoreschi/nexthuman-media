@@ -862,5 +862,41 @@
   "order": 6,
   "kind": "Da cambiare",
   "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart)."
+ },
+ {
+  "date": "2026-11-10",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Meta' giornata (13:05). Diciottesimo giorno senza reel: coda vuota dal 29/10 22:00. Oggi 4 views, reach 2, 0 condivisioni, 0 visite al profilo. Follower 6 (fermi da 17 giorni). Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h. YouTube 25.583 views, 14 iscritti, 10 Short ancora privati. Nessun commento nuovo. Nessuna regola ha cambiato stato."
+ },
+ {
+  "date": "2026-11-10",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Nessun dato nuovo: Nose resta il migliore per skip (26,3%), Stroop il piu' visto (1.554). Tutti i reel sono fermi al loro tetto."
+ },
+ {
+  "date": "2026-11-10",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Zero produzione = zero raccolta: da 11.725 views/giorno a 4 oggi. Follower 6 su ~60k reach totale. 10 Short YouTube ancora privati."
+ },
+ {
+  "date": "2026-11-10",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Rifornire la coda: 18 giorni senza reel. Servono video nuovi in queue.json."
+ },
+ {
+  "date": "2026-11-10",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40+ reel finiscono tutti a ~1.150 reach."
+ },
+ {
+  "date": "2026-11-10",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart)."
  }
 ]
