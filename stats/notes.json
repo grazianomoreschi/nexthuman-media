@@ -1,938 +1,938 @@
 [
-  {
-    "date": "2026-10-23",
-    "order": 1,
-    "kind": "Sintesi",
-    "text": "Aggiornamento di meta' giornata (ore 12). 4 reel su Instagram, 522 visualizzazioni totali (519 oggi), reach 454, secondi medi di visione 10.7-11.6 oggi (12.5 il reel di ieri sera). Interazioni: 3 like, 0 commenti, 0 condivisioni, 0 salvataggi. Follower: 1. Ieri non c'e' storico (primo giorno di dati): confronto possibile solo col reel di ieri 22:14 (131 views, 12.5s)."
-  },
-  {
-    "date": "2026-10-23",
-    "order": 2,
-    "kind": "Funziona",
-    "text": "Stroke delle 02:00: 139 views e 117 reach, il piu' visto; il reel di ieri sera (sigarette) ha la visione media piu' alta, 12.5s. Ogni reel raggiunge oltre 100 persone con 1 follower: la distribuzione iniziale c'e'."
-  },
-  {
-    "date": "2026-10-23",
-    "order": 3,
-    "kind": "Non funziona",
-    "text": "Ozempic 10:00 e' il piu' debole finora: 120 views, 0 like, 10.7s di visione. Zero commenti, condivisioni e salvataggi su tutti e 4; la visione media scende da 12.5s a 10.7s nei 4 reel in ordine di orario. YouTube: 0 views (video ancora privati)."
-  },
-  {
-    "date": "2026-10-23",
-    "order": 4,
-    "kind": "Da cambiare",
-    "text": "1. Durata: provare reel da 20-25 secondi; con 10-12s di visione media su video piu' lunghi, un reel corto viene visto in percentuale molto maggiore."
-  },
-  {
-    "date": "2026-10-23",
-    "order": 5,
-    "kind": "Da cambiare",
-    "text": "2. Primi 2 secondi: partire dal numero piu' forte (es. 15% del peso, 1.9 milioni di neuroni) gia' sullo schermo, senza intro."
-  },
-  {
-    "date": "2026-10-23",
-    "order": 6,
-    "kind": "Da cambiare",
-    "text": "3. CTA: 0 commenti e 0 salvataggi su 4 reel. Chiudere con una domanda precisa o 'salvalo' e confrontare i prossimi reel delle 13:00-16:00 con quelli notturni (02:00 e 06:00 hanno dato 139 e 132 views, gli orari di giorno vanno ancora misurati)."
-  },
-  {
-    "date": "2026-10-24",
-    "order": 1,
-    "kind": "Sintesi",
-    "text": "Fine giornata (23:05). 5 reel di oggi: 1.782 views, la reach del giorno e' 2.807, follower 3 (ieri 1). Baseline ultimi 10 reel: skip 41,5%, visione 27,7% (11,4 s), 134 views. Space delle 16:00 e' uscito dal primo test: 1.306 views, reach 1.086, skip 32,8%, visione 37,5% (14,7 s), 17 like, la prima condivisione. Gli altri 3 reel di oggi (Robot, Clock Shift, Steps) fermi a 121-130 views. AI Extinction (22:00) ha solo 1 ora di vita: 96 views, skip 15,5%, ancora presto. Totale: 5 commenti, 2 salvataggi, 1 condivisione su 11 reel."
-  },
-  {
-    "date": "2026-10-24",
-    "order": 2,
-    "kind": "Funziona",
-    "text": "Space: 'Astronauts come back taller' ha dato skip 32,8% contro 41,5%, e visione 37,5% contro 27,7%. Un fatto concreto e sorprendente sul corpo regge come il 'tuo corpo in una situazione'. Cold Plunge resta il miglior reel (41,7% di visione). Robot (persona vera): skip 39,8%, in linea."
-  },
-  {
-    "date": "2026-10-24",
-    "order": 3,
-    "kind": "Non funziona",
-    "text": "Clock Shift: skip 50,9%, visione 21,4% ('your clock' non e' una situazione fisica). Steps: skip 43,1%, 129 views, 0 condivisioni. Condivisioni 1 e salvataggi 2 su 11 reel: la gente guarda ma non manda. Cold Plunge e Space hanno piu' di 1.000 views ma 0 e 1 condivisioni: il fatto da mandare arriva troppo tardi."
-  },
-  {
-    "date": "2026-10-24",
-    "order": 4,
-    "kind": "Da cambiare",
-    "text": "1. Da domani i reel sono in formato v2 (20-25 s, fatto sul primo fotogramma): vedere se la visione sale sopra il 37,5% di Space. E1 e' ancora senza dati v2."
-  },
-  {
-    "date": "2026-10-24",
-    "order": 5,
-    "kind": "Da cambiare",
-    "text": "2. Aprire sempre con un fatto concreto e sorprendente sul corpo (taller, ice water): Space 32,8% e Cold Plunge 34% di skip contro 50,9% di Clock Shift. Evitare titoli astratti ('your clock')."
-  },
-  {
-    "date": "2026-10-24",
-    "order": 6,
-    "kind": "Da cambiare",
-    "text": "3. Mettere il fatto da mandare entro il secondo 10 e la CTA 'send this to the friend who...': 2 reel sopra 1.000 views hanno prodotto 1 sola condivisione."
-  },
-  {
-    "date": "2026-10-25",
-    "order": 1,
-    "kind": "Sintesi",
-    "text": "Fine giornata, aggiornata alle 23:35. Oggi 11.361 views, reach 8.863 (ieri 3.562 / 2.884), 6 reel v2. Follower ancora 3, 11 visite al profilo, 8 condivisioni e 5 salvataggi. Baseline ultimi 10 reel: skip 37,2%, visione 38,3% (11,4 s), 1.348 views. Correzione: lo skip 16,8% di Ice Water delle 23:05 era letto a 1 ora su reach parziale (360); ora e' 38,1% su 1.002 di reach. YouTube: 4.425 views in tutto, 2 iscritti."
-  },
-  {
-    "date": "2026-10-25",
-    "order": 2,
-    "kind": "Funziona",
-    "text": "Il v2 esce dal test: 6 reel su 6 tra 1.317 e 2.016 views (v1: 2 su 11). Skip mediano 28,5% contro 43% dei v1, visione 55% contro 28%. Il migliore e' Swabs (06:00): skip 20,3%, visione 81%, 2.016 views. Ice Water cresce ancora (+181 views in 30 minuti). Il volume non danneggia: ogni reel porta 1.000-1.500 di reach. Su YouTube Swabs 1.224 e Muscle 1.120 views."
-  },
-  {
-    "date": "2026-10-25",
-    "order": 3,
-    "kind": "Non funziona",
-    "text": "Invii e follower: 6 condivisioni su 7.135 di reach dei v2 (0,08%), 3 salvataggi, 0 follower nuovi. I due reel della sera sono i v2 piu' deboli: Taller (19:00) skip 41,7% / visione 39% e Ice Water (22:00) 38,1% / 37%, contro 20-29% / 54-81% dei 4 reel di notte, mattina e pomeriggio. Taller e' fermo a 1.354. YouTube: Cut ancora privato (0 views); Space 15 e AI 6 views anche se su Instagram sono andati bene."
-  },
-  {
-    "date": "2026-10-25",
-    "order": 4,
-    "kind": "Da cambiare",
-    "text": "1. Condivisioni allo 0,08%, sotto la soglia 0,15% (rule 9): dai reel nuovi (dopo ep43) mettere la CTA 'send this to the friend who...' a meta' reel, accanto al fatto da mandare. I reel del 26 e 27 sono gia' pronti e restano cosi'."
-  },
-  {
-    "date": "2026-10-25",
-    "order": 5,
-    "kind": "Da cambiare",
-    "text": "2. Sera: 2 reel su 2 dopo le 19:00 sopra il 38% di skip. Domani confrontare After Death (19:00) e Lost at Sea (22:00) con i reel del mattino prima di cambiare orari o temi. Giudicare lo skip solo dopo 3 ore (l'errore di Ice Water)."
-  },
-  {
-    "date": "2026-10-25",
-    "order": 6,
-    "kind": "Da cambiare",
-    "text": "3. Portare gente al profilo: 0 follower su 8.863 di reach, 11 visite. Provare la chiusura 'Follow @nnexthuman: one body fact a day' su 3 reel contro 3 senza (E2, una variabile) e misurare visite al profilo e follower."
-  },
-  {
-    "date": "2026-10-26",
-    "order": 1,
-    "kind": "Sintesi",
-    "text": "Fine giornata (23:05). Oggi: 11.079 views, reach 8.643 (ieri 8.863 con 6 reel), 5 condivisioni, 5 salvataggi, follower 3 (fermi), 9 visite al profilo. 7 reel: 3 sono usciti dal primo test (Ice Gym 1.919 views, Sleep Paralysis 1.343, After Death 841 in crescita a 205/h dopo 4 ore), 3 sono rimasti a ~130 (Fluid Brain, Back from Space, Spit Boil 182); Lost at Sea (22:00) ha 1 ora, presto per giudicarlo. Baseline ultimi 10 (3 h+): skip 33,6%, visione 43,8% (9,3 s), 1.347 views, condivisioni 0,06% della reach. YouTube: 7.319 views, 7 iscritti."
-  },
-  {
-    "date": "2026-10-26",
-    "order": 2,
-    "kind": "Funziona",
-    "text": "After Death 19:00 ('Your nails don't keep growing after you die'): skip 25%, visione 54,4%, 205 views/h, il piu' veloce della giornata. Ice Gym (skip 26,5%, visione 60,4%, 2 salvataggi) e Sleep Paralysis (31,5%). Tutti e tre: una situazione del TUO corpo o un'abitudine, con un mito da correggere. Lo slot delle 19:00 non e' debole come sembrava (1 reel)."
-  },
-  {
-    "date": "2026-10-26",
-    "order": 3,
-    "kind": "Non funziona",
-    "text": "4 reel su 7 non partono: Fluid Brain 127 views (skip 35,7%), Back from Space 133 (44,6%), Spit Boil 182 (38,9%), Lost at Sea 133 a 1 ora. Argomenti lontani dalla vita di tutti i giorni (spazio, vuoto, cervello-curiosita'). Condivisioni: 0 su 7 reel di oggi, anche After Death a 841 views; salvataggi 2 (Ice Gym). Dopo circa 10 ore ogni reel si ferma (Sleep Paralysis +4/h, Ice Gym +3/h)."
-  },
-  {
-    "date": "2026-10-26",
-    "order": 4,
-    "kind": "Da cambiare",
-    "text": "1. Aperture: scegliere argomenti 'tuo corpo + abitudine + mito' (unghie, ice bath, cotton fioc) e ridurre spazio/vuoto/curiosita' del cervello. Dei 5 vincitori v2 di ieri e oggi, nessuno e' di spazio. Chiedere a Graziano di dare priorita' a questi nei prossimi reel non ancora in coda."
-  },
-  {
-    "date": "2026-10-26",
-    "order": 5,
-    "kind": "Da cambiare",
-    "text": "2. Condivisioni a 0,06% (soglia 0,15%) e 0 su 7 reel di oggi: l'invio a meta' reel dopo il fatto parte con i 5 reel con voce del 28/10 (E3); verificare il giorno dopo se almeno 3 su 5 superano 0,15%."
-  },
-  {
-    "date": "2026-10-26",
-    "order": 6,
-    "kind": "Da cambiare",
-    "text": "3. Volume: la reach del giorno e' ferma a ~8.700 con 6 o 7 reel (ieri 6 su 6 usciti dal test, oggi 3 su 7). Se il 28/10 piu' di 3 reel su 7 restano sotto 300 views, proporre a Graziano 5 reel al giorno solo con gli argomenti migliori (regola 17)."
-  },
-  {
-    "date": "2026-10-27",
-    "order": 1,
-    "kind": "Sintesi",
-    "text": "Meta' giornata (13:16 Roma). 4 reel di oggi su Instagram: Sugar 1.336 views (7 h, skip 34.9%, 4 condivisioni, 4 salvataggi), Pill 1.242 (3 h, 388/h, skip 23.8%, watch 49%), Coffee 165 (fermo), Fat Burn appena uscito. Giornata: views 5.665, reach 4.365, 6 condivisioni, 5 salvataggi, follower 4 (+1), 5 visite al profilo. Baseline ultimi 10 (3 h+): skip 35.8%, watch 40.6% (8.4 s), mediana views 725, condivisioni 0.0% della reach."
-  },
-  {
-    "date": "2026-10-27",
-    "order": 2,
-    "kind": "Funziona",
-    "text": "Sugar (ciambella, 06:00): la prima volta sopra la soglia di invio, 4 condivisioni su 1.114 reach (0.36%, soglia 0.15%) e 4 salvataggi. Pill (10:00): skip 23.8%, il piu' basso di una settimana, 388 views/h a 3 h. Tema comune: azione quotidiana del corpo (mangiare, ingoiare) con un percorso passo passo."
-  },
-  {
-    "date": "2026-10-27",
-    "order": 3,
-    "kind": "Non funziona",
-    "text": "Coffee (02:00) e' fermo a 165 views con skip 44.7%, anche se e' 'abitudine + mito': la famiglia della regola 25 non basta da sola. Lost at Sea (22:00 di ieri) fermo a 145 views, skip 50.8%: soggetto lontano. YouTube: i 4 Short di oggi vanno da 329 a 1.090 views, ma gli Short di 09:00-13:00 sono ancora pochi per giudicare."
-  },
-  {
-    "date": "2026-10-27",
-    "order": 4,
-    "kind": "Da cambiare",
-    "text": "1. Fare altri reel 'percorso dentro il corpo' (pillola, ciambella, caffe' dopo l'ultimo sorso): Sugar e Pill hanno le uniche condivisioni dei reel recenti. Per Fat Burn (13:00) e i prossimi, controllare a 3 h se il percorso a tappe tiene lo skip sotto 30%."
-  },
-  {
-    "date": "2026-10-27",
-    "order": 5,
-    "kind": "Da cambiare",
-    "text": "2. Coffee: il titolo dice 'non ti da' energia' (negazione astratta) e frame 1 senza corpo in azione. Riscrivere i prossimi miti con un'azione visibile al secondo 0 (es. 'Bevi un caffe'. Ecco dove va')."
-  },
-  {
-    "date": "2026-10-27",
-    "order": 6,
-    "kind": "Da cambiare",
-    "text": "3. Lo scenario del 28/10 (voce, CTA a meta' reel): non cambiare nulla prima del risultato; confrontare per condivisioni su reach contro Sugar (0.36%) come riferimento, non contro la media 0.0%."
-  },
-  {
-    "date": "2026-10-27",
-    "order": 1,
-    "kind": "Sintesi",
-    "text": "Fine giornata (23:06 Roma). 7 reel IG di oggi: Breath 1.806 views (4 h, 440/h, skip 26%, watch 69.5%, 5 condivisioni), Pill 1.504, Fat Burn 1.448, Sugar 1.364 escono dal test; Coffee 203 e Death Zone 528 si fermano; Moon e' uscito da 1 h (125 views). Giornata: views 9.953, reach 7.516 (ieri 8.643), 12 condivisioni, 9 salvataggi, follower 6 (+3, record), 10 visite al profilo, 0 commenti nuovi. Baseline ultimi 10 (3 h+): skip 36.9%, watch 41% (8,5 s), mediana 946 views, condivisioni 12 su 6.758 reach (0.18%)."
-  },
-  {
-    "date": "2026-10-27",
-    "order": 2,
-    "kind": "Funziona",
-    "text": "Breath (19:00, trattenere il respiro): il migliore della giornata, skip 26%, watch 69.5% (13,9 s), 5 condivisioni e 2 salvataggi su 1.251 reach (0.40%). Sugar 0.35% e Pill 0.17% di condivisioni: 3 reel su 7 oggi sopra la soglia 0.15%. Tema comune: il corpo fa qualcosa che il viewer puo' sentire subito (respiro, zucchero, pillola). Il volume non ha abbassato la reach per reel: 5 reel su 7 usciti dal test (ieri 3 su 7)."
-  },
-  {
-    "date": "2026-10-27",
-    "order": 3,
-    "kind": "Non funziona",
-    "text": "Death Zone (oltre 8.000 m) fermo a 528 views con skip 48.4%, watch 38%: soggetto lontano, come Space e Vacuum. Coffee (02:00) fermo a 203, skip 47.1%: negazione astratta. Commenti: 0 nuovi su Instagram e 1 su YouTube; reach del giorno in calo (7.516) nonostante piu' reel buoni, perche' Moon e Death Zone non hanno ancora il secondo giro. Fat Burn: 1.448 views ma condivisioni 0.09%, il percorso a tappe da solo non basta: Breath ha anche l'azione del viewer."
-  },
-  {
-    "date": "2026-10-27",
-    "order": 4,
-    "kind": "Da cambiare",
-    "text": "1. Piu' reel in cui il viewer sente il corpo subito (trattieni il respiro, ingoia, mangia): Breath ha il watch piu' alto (69.5%) e 0.40% di invii. E' la base di BODY TEST (E4, da domani sera). Evitare soggetti lontani (quota, spazio): Death Zone skip 48.4%."
-  },
-  {
-    "date": "2026-10-27",
-    "order": 5,
-    "kind": "Da cambiare",
-    "text": "2. Invii: 12 su 6.758 reach (0.18%) nei 10 ultimi, ma 4 reel su 7 oggi sono sotto 0.15%. Il 28/10 (E3, CTA a meta') confrontare con Breath/Sugar (0.35-0.40%), non con la media."
-  },
-  {
-    "date": "2026-10-27",
-    "order": 6,
-    "kind": "Da cambiare",
-    "text": "3. Follower: +3 oggi su 10 visite al profilo (0.13% della reach). Il profilo promette longevita'/AI ma i reel parlano di corpo quotidiano: allineare bio e chiusura 'Follow' (E2 parte il 28/10, serve un reel 'none' in piu')."
-  },
-  {
-    "date": "2026-10-28",
-    "order": 1,
-    "kind": "Sintesi",
-    "text": "Meta' giornata (28/10, ore 13). Oggi 11.295 views, reach 8.870, 11 condivisioni, 12 salvataggi, follower 6 (fermi), 10 visite al profilo. Baseline ultimi 10: skip 35,4%, visione 51%, mediana 1.425 views, condivisioni 0,045% della reach. I 3 reel v3 con voce (Milgram, Bridge, Liar) sono tutti sopra 1.350 views: nessuno si ferma a 200."
-  },
-  {
-    "date": "2026-10-28",
-    "order": 2,
-    "kind": "Funziona",
-    "text": "La voce regge la visione: Milgram 65,9% (19,5 s), Bridge skip 23,7% e 3 salvataggi, Liar 12,2 s. Mediana v3 13,8 s contro 11,1 s dei v2 (+24%). Tutti e 3 superano il primo test, il v3 non ha reel che si fermano."
-  },
-  {
-    "date": "2026-10-28",
-    "order": 3,
-    "kind": "Non funziona",
-    "text": "Le condivisioni non si muovono: v3 = 1 condivisione su 3.440 reach (0,03%), come i v2 (0,03%). Skip (28,2% contro 28,5%) e views (1.484 contro 1.479) sono uguali ai v2. La voce allunga la visione ma non rompe il tetto dei ~1.500 views ne' fa mandare il reel agli amici."
-  },
-  {
-    "date": "2026-10-28",
-    "order": 4,
-    "kind": "Da cambiare",
-    "text": "1) Il tetto resta ~1.500: l'unica prova che puo' romperlo e' E4 (BODY TEST, da domani 29/10). Non cambiare altro prima, cosi' il risultato e' leggibile."
-  },
-  {
-    "date": "2026-10-28",
-    "order": 5,
-    "kind": "Da cambiare",
-    "text": "2) Smoke Room (16:00) e Broken Heart (22:00) chiudono E3: se anche loro restano sotto 0,1% di condivisioni, il pacchetto 'voce + psicologia' e' solo una scelta di qualita', non di crescita."
-  },
-  {
-    "date": "2026-10-28",
-    "order": 6,
-    "kind": "Da cambiare",
-    "text": "3) Follower fermi a 6 con 10 visite al profilo al giorno: E2 ha ancora solo 2 reel con la chiusura 'follow' e 1 senza; serve un 'senza' in piu' prima di giudicare. Il profilo non e' ancora il problema da toccare."
-  },
-  {
-    "date": "2026-10-28",
-    "order": 1,
-    "kind": "Sintesi",
-    "text": "Fine giornata 28/10. Giorno: 11.725 views, reach 9.264, 11 condivisioni, 12 salvataggi, 121 interazioni, follower 6 (fermi da ieri), 11 visite al profilo. Baseline (ultimi 10): skip 34,4%, watch 51,8% (11,4 s), mediana 1.428 views, condivisioni 0,04% della reach. Dei 5 reel con voce (v3): 3 hanno superato il primo test (Bridge 1.506, Milgram 1.495, Liar 1.364), Smoke Room si e' fermato a 179 (7 h), Broken Heart ha 107 views a 1 h e sembra fermo. Il tetto resta ~1.500 views / ~1.150 reach. YouTube: 22.705 views totali (+10.900 in un giorno), 11 iscritti: oggi rende quanto Instagram."
-  },
-  {
-    "date": "2026-10-28",
-    "order": 2,
-    "kind": "Funziona",
-    "text": "Bridge (skip 23,7%, 3 salvataggi) e Milgram (skip 28,3%, visione 65,5%, 19,4 s: la piu' alta mai vista) con la voce: la voce aggiunge secondi di visione (13,0 s contro 11,1 s del v2, +17%). Situazione fisica che lo spettatore sente subito = passa il primo test. YouTube Shorts: 7 video pubblici di ieri tra 955 e 1.507 views ciascuno."
-  },
-  {
-    "date": "2026-10-28",
-    "order": 3,
-    "kind": "Non funziona",
-    "text": "Reach e invii non si muovono: v3 contro v2 = views 1.430 contro 1.479, condivisioni 0,03% (1 su 3.608 di reach) contro 0,03%, like 0,47% contro 0,79%. Smoke Room (16:00) e' rimasto a 179 views con skip 33,8% (non e' l'hook, e' che nessuno reagisce); Broken Heart (22:00) 107 views a 1 h. Il follow in chiusura non converte: 3 reel con follow, follower fermi a 6, 11 visite al profilo."
-  },
-  {
-    "date": "2026-10-28",
-    "order": 4,
-    "kind": "Da cambiare",
-    "text": "1. Domani 29/10 parte E4 (BODY TEST con voce, 02:00 Nose). Giudicare solo sui tassi: like (obiettivo 3%), condivisioni (0,5%), commenti, watch % sopra 100. Se i primi 3 restano a like 1% e commenti 0, il tetto non dipende dal formato: passare a pochi reel al giorno ma curati."
-  },
-  {
-    "date": "2026-10-28",
-    "order": 5,
-    "kind": "Da cambiare",
-    "text": "2. YouTube fa 10.900 views al giorno contro 11.700 su Instagram con un solo giorno di vantaggio: 10 Shorts (Bridge, Milgram, Liar, Smoke, Heart + BODY TEST #1-#5) sono ancora PRIVATI. Graziano: renderli pubblici oggi (o da YouTube Studio) e tenere YouTube come canale principale di test."
-  },
-  {
-    "date": "2026-10-28",
-    "order": 6,
-    "kind": "Da cambiare",
-    "text": "3. Il CTA di invio dopo il payoff e il follow in chiusura non spostano nulla (invii 0,03%, follower +0). Non aggiungere altro testo: per E2 serve ancora 1 reel 'senza follow' prima di chiudere; intanto valutare di spostare la promessa dentro il reel (es. 'domani: test #N') invece di una frase finale."
-  },
-  {
-    "date": "2026-10-29",
-    "order": 1,
-    "kind": "Sintesi",
-    "text": "Meta' giornata (ore 13). Oggi 4.932 views, reach 4.305, 0 condivisioni, 2 salvataggi, follower 6 (fermi da 3 giorni), 5 visite al profilo. Baseline ultimi 10: skip 35,8%, visione 44%, 12,6 s, mediana 1.330 views, condivisioni 0,08% della reach. 3 BODY TEST usciti: Nose 1.297 e Afterimage 1.362 views (passano il primo test), Gorilla 151 (3 ore, skip 40,6%). Ieri sera Broken Heart si e' fermato a 123."
-  },
-  {
-    "date": "2026-10-29",
-    "order": 2,
-    "kind": "Funziona",
-    "text": "Nose (skip 26,3%, 116 views/h) e Afterimage (189 views/h, il piu' veloce mai visto, 3 commenti): partono 4-7 volte piu' veloci dei reel v2 (circa 25/h). Il test sul proprio corpo da' piu' commenti (2-3 contro 1)."
-  },
-  {
-    "date": "2026-10-29",
-    "order": 3,
-    "kind": "Non funziona",
-    "text": "Il tetto resta ~1.150 di reach: like 0,6-0,8% (obiettivo 3%), 0 condivisioni, 1 salvataggio su 3 reel. Gorilla ha skip 40,6% e 151 views: il tema 'conta i passaggi' non si capisce al primo fotogramma. Voce (E3) e frase 'Follow' (E2) non cambiano reach, condivisioni ne' follower: 6 follower da 27k persone raggiunte."
-  },
-  {
-    "date": "2026-10-29",
-    "order": 4,
-    "kind": "Da cambiare",
-    "text": "1. Primo fotogramma dei test: l'azione deve essere gia' chiara senza spiegazione (Gorilla: mostrare subito i giocatori e il numero 'count'), come Nose che e' immediato."
-  },
-  {
-    "date": "2026-10-29",
-    "order": 5,
-    "kind": "Da cambiare",
-    "text": "2. Condivisioni: ogni test deve finire con un risultato da confrontare ('send this to someone and compare'), non solo 'follow'. Oggi 0 condivisioni su 3 reel."
-  },
-  {
-    "date": "2026-10-29",
-    "order": 6,
-    "kind": "Da cambiare",
-    "text": "3. Follower: 6 su ~27k reach. Far dire al reel cosa e' la pagina (serie 'BODY TEST' in alto fissa nel primo fotogramma) e controllare che la bio prometta i test, non solo longevita'/AI."
-  },
-  {
-    "date": "2026-10-29",
-    "order": 1,
-    "kind": "Sintesi",
-    "text": "Fine giornata (23:05). Oggi 6,790 views, reach 5,905 (ieri 11,725 / 9,264), 3 condivisioni, 3 salvataggi, follower 6 (fermi da 3 giorni), 10 visite al profilo. YouTube 23,536 views totali, 13 iscritti. Baseline ultimi 10 (3 h+): skip 36.0%, visione 44.5% (12.6 s), 1,335 views, like 0.62%, condivisioni 0.0%. Il calo del giorno e' soprattutto Blind Spot (22:00, ancora giovane) e due reel fermi (Gorilla 254, Broken Heart 142)."
-  },
-  {
-    "date": "2026-10-29",
-    "order": 2,
-    "kind": "Funziona",
-    "text": "BODY TEST parte piu' veloce: Stroop (16:00) 1,540 views, 3 condivisioni (0.24%), skip 37.7%, visione 16.8 s; Afterimage 1,383 e Nose 1,304 escono dal primo test. Blind Spot dopo 1 h: 415 views, skip 24.5%, 377 views/h (migliore partenza di sempre; va giudicato domani). Stroop e' il primo reel interattivo con condivisioni."
-  },
-  {
-    "date": "2026-10-29",
-    "order": 3,
-    "kind": "Non funziona",
-    "text": "Il soffitto resta ~1,300-1,540 views / ~1,150 reach: 3 test su 4 maturi lo toccano, non lo superano. Like 0.49-1.1% contro obiettivo 3%, commenti 1-3 (di cui uno nostro), condivisioni 3 in totale. Gorilla (fermo a 254, skip 34%): il test del conteggio non si capisce al primo fotogramma. Smoke e Broken Heart (v3) fermi a ~140-210."
-  },
-  {
-    "date": "2026-10-29",
-    "order": 4,
-    "kind": "Da cambiare",
-    "text": "1) Gorilla si e' fermato (254 views) mentre Stroop ha 1,540: tenere i test con una risposta visibile subito (colore, naso, punto) e fare un fotogramma 1 che mostri gia' l'azione, non il conteggio."
-  },
-  {
-    "date": "2026-10-29",
-    "order": 5,
-    "kind": "Da cambiare",
-    "text": "2) Le reazioni sono sotto obiettivo (like 0.6-1.1% vs 3%, 0 commenti reali): chiudere ogni test con una sola parola da scrivere ('RED or BLUE?') e fissare il commento in alto con la stessa domanda."
-  },
-  {
-    "date": "2026-10-29",
-    "order": 6,
-    "kind": "Da cambiare",
-    "text": "3) Decidere E4 domani alle 13:05, quando Blind Spot ha 15 ore: se ha 1,500+ views con share > 0.15% e' la prima forma che supera il soffitto, e la serie va continuata; altrimenti serve una leva diversa dai reel (es. Stroop-style con sfida da inviare)."
-  },
-  {
-    "date": "2026-10-30",
-    "order": 1,
-    "kind": "Sintesi",
-    "text": "Fine giornata. Oggi 4,275 views, reach 3,688 (29/10: 6,790 / 5,905), 4 condivisioni, 3 salvataggi, follower 6 (fermi da 4 giorni), 8 visite al profilo. NESSUN reel pubblicato oggi: la coda e' finita il 29/10 alle 22:00, le views sono la coda dei reel di ieri. Baseline (ultimi 10, 3 h+): skip 36.3%, visione 43.8% (12.6 s), mediana 1,353 views, like 0.62%, condivisioni 0.0%. YouTube: 25,407 views (+1,729 oggi), 14 iscritti."
-  },
-  {
-    "date": "2026-10-30",
-    "order": 2,
-    "kind": "Funziona",
-    "text": "Stroop (1,553 views, skip 37.9%) e Blind Spot (1,336, 1,2 mila reach) hanno superato il primo test; Nose e' a 1,307 con skip 26.2%, il migliore. YouTube cresce da solo: +1,729 views e +1 iscritto senza nuovi video."
-  },
-  {
-    "date": "2026-10-30",
-    "order": 3,
-    "kind": "Non funziona",
-    "text": "Il tetto di ~1,300-1,500 views e ~1,150 reach resta identico per ogni formato. Follower 6 su circa 60k di reach; 8 visite al profilo al giorno. Gorilla (1,230, skip 31.6%) e Afterimage (1,390, skip 44%) non cambiano il quadro. Nessuna nuova info dopo oggi perche' non c'e' nessun reel nuovo."
-  },
-  {
-    "date": "2026-10-30",
-    "order": 4,
-    "kind": "Da cambiare",
-    "text": "1. La coda e' vuota: 0 reel dal 29/10 22:00. Servono nuovi post in queue.json (o decidere di fermarsi su Instagram): ogni giorno senza post spreca la distribuzione."
-  },
-  {
-    "date": "2026-10-30",
-    "order": 5,
-    "kind": "Da cambiare",
-    "text": "2. Il soffitto e' dell'account (6 follower, 8 visite/giorno): controllare bio, foto e nome del profilo e provare un reel con persona o voce reale fuori dal pixel art (esperimento E5)."
-  },
-  {
-    "date": "2026-10-30",
-    "order": 6,
-    "kind": "Da cambiare",
-    "text": "3. YouTube e' l'unico canale che cresce (14 iscritti, ~1,000+ views a Short): rendere pubblici i 10 Short ancora privati e spostare li' lo sforzo."
-  },
-  {
-    "date": "2026-10-31",
-    "order": 1,
-    "kind": "Sintesi",
-    "text": "Meta' giornata (13:05). Nessun reel pubblicato oggi: la coda e' vuota dal 29/10 22:00 (slot 02, 06, 10 vuoti anche oggi). Views oggi 28, reach 18; ieri 4.275 / 3.688. Follower 6 (fermi da 5 giorni), 0 visite al profilo. Baseline ultimi 10 reel (3 h+): skip 36,2%, visione 43,8% (12,6 s), mediana 1.353 views, like 0,6%, share 0,0%, salvataggi 0,1%. YouTube 25.472 views, 14 iscritti (+65 da ieri sera)."
-  },
-  {
-    "date": "2026-10-31",
-    "order": 2,
-    "kind": "Funziona",
-    "text": "Nessun cambio nei reel < 72 h: Stroop 1.553, Afterimage 1.390, Blind Spot 1.336, Nose 1.307 (skip 26,2%, il migliore), Gorilla 1.230 restano fermi, tutti sotto 1 view/h ora. YouTube e' l'unico canale che cresce senza nuovi caricamenti."
-  },
-  {
-    "date": "2026-10-31",
-    "order": 3,
-    "kind": "Non funziona",
-    "text": "Zero produzione: senza nuovi reel l'account non raccoglie piu' nulla (views giornaliere da 11.725 il 28/10 a 28 oggi). Tetto di ~1.150 reach per reel invariato su 40+ reel; condivisioni 0,0% e follower 6 su ~60k reach."
-  },
-  {
-    "date": "2026-10-31",
-    "order": 4,
-    "kind": "Da cambiare",
-    "text": "1. Rifornire la coda: servono nuovi reel nelle prossime ore (oggi 16:00 e 22:00 sono ancora recuperabili). Ogni giorno vuoto costa circa 4.000 views."
-  },
-  {
-    "date": "2026-10-31",
-    "order": 5,
-    "kind": "Da cambiare",
-    "text": "2. Testare E5 fuori dalla grafica pixel art (persona reale o voce sopra filmato): 40 reel pixel art finiscono tutti a ~1.150 reach, quindi il limite e' dell'account, non dell'hook."
-  },
-  {
-    "date": "2026-10-31",
-    "order": 6,
-    "kind": "Da cambiare",
-    "text": "3. Spostare lo sforzo di crescita su YouTube (+1.700 views/giorno senza caricare): rendere pubblici i 10 Short ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart)."
-  },
-  {
-    "date": "2026-10-31",
-    "order": 1,
-    "kind": "Sintesi",
-    "text": "Fine giornata (23:05). Nessun reel pubblicato per il terzo giorno: coda vuota dal 29/10 22:00. Oggi 33 views, reach 22 (ieri 4.275 / 3.688; 28/10 11.725 / 9.264). Follower 6 (fermi da 6 giorni), 0 visite al profilo, 0 condivisioni. Baseline ultimi 10 reel (3 h+): skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views, like 0,6%, share 0,0%, salvataggi 0,1%. YouTube 25.500 views, 14 iscritti, invariati da stamattina."
-  },
-  {
-    "date": "2026-10-31",
-    "order": 2,
-    "kind": "Funziona",
-    "text": "Nessun cambio nei reel < 72 h: Stroop 1.554, Afterimage 1.390, Blind Spot 1.338, Nose 1.307 (skip 26,2%, il migliore), Gorilla 1.231 sono fermi (< 1 view/h). YouTube e' l'unico canale che continua a crescere senza nuovi caricamenti (+1.700 views/giorno il 30/10)."
-  },
-  {
-    "date": "2026-10-31",
-    "order": 3,
-    "kind": "Non funziona",
-    "text": "Zero produzione = zero raccolta: views giornaliere da 11.725 (28/10) a 33 oggi. Tetto di ~1.150 reach per reel invariato su 40+ reel pixel art; share 0,0% e follower 6 su ~60k reach. Il limite e' dell'account, non dell'hook."
-  },
-  {
-    "date": "2026-10-31",
-    "order": 4,
-    "kind": "Da cambiare",
-    "text": "1. Rifornire la coda subito: 3 giorni senza reel (circa 12.000 views perse rispetto al ritmo del 28/10). Servono nuovi video e voci in queue.json per il 1 novembre."
-  },
-  {
-    "date": "2026-10-31",
-    "order": 5,
-    "kind": "Da cambiare",
-    "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40 reel finiscono tutti a ~1.150 reach, quindi cambiare il formato e' l'unica leva rimasta."
-  },
-  {
-    "date": "2026-10-31",
-    "order": 6,
-    "kind": "Da cambiare",
-    "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart) e spostare li' lo sforzo: +1.700 views/giorno senza caricare nulla."
-  },
-  {
-    "date": "2026-11-02",
-    "order": 1,
-    "kind": "Sintesi",
-    "text": "Meta' giornata (13:05). Quinto giorno senza reel: coda vuota dal 29/10 22:00. Oggi 10 views, reach 6 (31/10: 33 / 22; 28/10: 11.725 / 9.264). Follower 6 (fermi da 7 giorni), 0 visite al profilo, 0 condivisioni. Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. YouTube 25.535 views, 14 iscritti, 10 Short ancora privati."
-  },
-  {
-    "date": "2026-11-02",
-    "order": 2,
-    "kind": "Funziona",
-    "text": "Nessun cambio nei reel < 72 h (Blind Spot 1.338, Stroop 1.554): tutti fermi al tetto. Nose resta il migliore per skip (26,2%). YouTube continua a salire da solo (+35 views da ieri)."
-  },
-  {
-    "date": "2026-11-02",
-    "order": 3,
-    "kind": "Non funziona",
-    "text": "Zero produzione = zero raccolta: da 11.725 views/giorno (28/10) a 10 oggi. Tetto di ~1.150 reach per reel su 40+ reel pixel art; share 0,0% e follower 6."
-  },
-  {
-    "date": "2026-11-02",
-    "order": 4,
-    "kind": "Da cambiare",
-    "text": "1. Rifornire la coda subito: 5 giorni senza reel (circa 20.000 views perse rispetto al ritmo del 28/10). Servono nuovi video in queue.json per oggi (16:00 e 22:00 ancora recuperabili)."
-  },
-  {
-    "date": "2026-11-02",
-    "order": 5,
-    "kind": "Da cambiare",
-    "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40 reel finiscono tutti a ~1.150 reach, il formato e' l'unica leva rimasta."
-  },
-  {
-    "date": "2026-11-02",
-    "order": 6,
-    "kind": "Da cambiare",
-    "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart): YouTube e' l'unico canale che cresce."
-  },
-  {
-    "date": "2026-11-02",
-    "order": 1,
-    "kind": "Sintesi",
-    "text": "Fine giornata (23:05). Quinto giorno senza reel: coda vuota dal 29/10 22:00. Oggi 13 views, reach 8 (28/10: 11.725 / 9.264). Follower 6 (fermi da 7 giorni), 0 condivisioni, 0 visite al profilo. Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h e' cambiato. YouTube 25.542 views, 14 iscritti (+42 views da meta' giornata)."
-  },
-  {
-    "date": "2026-11-02",
-    "order": 2,
-    "kind": "Funziona",
-    "text": "Nose resta il migliore per skip (26,2%); Stroop il piu' visto (1.554) e con la visione piu' alta tra i Body Test (51,9%). YouTube sale da solo, senza nuovi caricamenti."
-  },
-  {
-    "date": "2026-11-02",
-    "order": 3,
-    "kind": "Non funziona",
-    "text": "Zero produzione = zero raccolta: da 11.725 views/giorno a 13. Tutti i reel fermi al tetto di ~1.150 reach, share 0,0%, follower 6."
-  },
-  {
-    "date": "2026-11-02",
-    "order": 4,
-    "kind": "Da cambiare",
-    "text": "1. Rifornire la coda subito: 5 giorni senza reel (circa 20.000 views perse rispetto al ritmo del 28/10). Servono video nuovi in queue.json per domani 02:00."
-  },
-  {
-    "date": "2026-11-02",
-    "order": 5,
-    "kind": "Da cambiare",
-    "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40+ reel finiscono tutti a ~1.150 reach."
-  },
-  {
-    "date": "2026-11-02",
-    "order": 6,
-    "kind": "Da cambiare",
-    "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart): YouTube e' l'unico canale che cresce."
-  },
-  {
-    "date": "2026-11-03",
-    "order": 1,
-    "kind": "Sintesi",
-    "text": "Fine giornata (23:05). Settimo giorno senza reel: coda vuota dal 29/10 22:00. Oggi 5 views, reach 4, 0 condivisioni, 0 visite al profilo (28/10: 11.725 / 9.264). Follower 6 (fermi da 9 giorni). Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h. YouTube 25.545 views, 14 iscritti, 0 commenti nuovi."
-  },
-  {
-    "date": "2026-11-03",
-    "order": 2,
-    "kind": "Funziona",
-    "text": "Nose resta il migliore per skip (26,2%); Stroop il piu' visto (1.554). YouTube e' l'unico canale ancora vivo, ma cresce di pochissimo senza nuovi caricamenti."
-  },
-  {
-    "date": "2026-11-03",
-    "order": 3,
-    "kind": "Non funziona",
-    "text": "Zero produzione = zero raccolta: da 11.725 views/giorno a 5. Tutti i reel fermi a ~1.150 reach, share 0,0%, follower 6 su ~60k reach totale."
-  },
-  {
-    "date": "2026-11-03",
-    "order": 4,
-    "kind": "Da cambiare",
-    "text": "1. Rifornire la coda: 7 giorni senza reel. Servono video nuovi in queue.json per domani (02:00 e 06:00 gia' vicini)."
-  },
-  {
-    "date": "2026-11-03",
-    "order": 5,
-    "kind": "Da cambiare",
-    "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40+ reel finiscono tutti a ~1.150 reach, il formato e' l'unica leva rimasta."
-  },
-  {
-    "date": "2026-11-03",
-    "order": 6,
-    "kind": "Da cambiare",
-    "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart)."
-  },
-  {
-    "date": "2026-11-04",
-    "order": 1,
-    "kind": "Sintesi",
-    "text": "Fine giornata (23:05). Nono giorno senza reel: coda vuota dal 29/10 22:00. Oggi 19 views, reach 6, 0 condivisioni, 0 visite al profilo. Follower 6 (fermi da 10 giorni). Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h. YouTube 25.566 views, 14 iscritti. Nessun commento nuovo."
-  },
-  {
-    "date": "2026-11-04",
-    "order": 2,
-    "kind": "Funziona",
-    "text": "Nose resta il migliore per skip (26,2%); Stroop il piu' visto (1.554). Nessun dato nuovo: tutti i reel sono fermi al loro tetto."
-  },
-  {
-    "date": "2026-11-04",
-    "order": 3,
-    "kind": "Non funziona",
-    "text": "Zero produzione = zero raccolta: da 11.725 views/giorno a 19. Follower 6 su ~60k reach totale. 10 Short YouTube ancora privati."
-  },
-  {
-    "date": "2026-11-04",
-    "order": 4,
-    "kind": "Da cambiare",
-    "text": "1. Rifornire la coda: 9 giorni senza reel. Servono video nuovi in queue.json (slot di oggi persi)."
-  },
-  {
-    "date": "2026-11-04",
-    "order": 5,
-    "kind": "Da cambiare",
-    "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40+ reel finiscono tutti a ~1.150 reach."
-  },
-  {
-    "date": "2026-11-04",
-    "order": 6,
-    "kind": "Da cambiare",
-    "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart)."
-  },
-  {
-    "date": "2026-11-05",
-    "order": 1,
-    "kind": "Sintesi",
-    "text": "Fine giornata (23:05). Undicesimo giorno senza reel: coda vuota dal 29/10 22:00. Oggi 20 views, reach 6, 0 condivisioni, 0 visite al profilo. Follower 6 (fermi da 11 giorni). Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h. YouTube 25.569 views, 14 iscritti, 10 Short ancora privati. Nessun commento. Nessuna regola ha cambiato stato."
-  },
-  {
-    "date": "2026-11-05",
-    "order": 2,
-    "kind": "Funziona",
-    "text": "Nessun dato nuovo: Nose resta il migliore per skip (26,2%), Stroop il piu' visto (1.554). Tutti i reel sono fermi al loro tetto."
-  },
-  {
-    "date": "2026-11-05",
-    "order": 3,
-    "kind": "Non funziona",
-    "text": "Zero produzione = zero raccolta: da 11.725 views/giorno a 20. Follower 6 su ~60k reach totale. 10 Short YouTube ancora privati."
-  },
-  {
-    "date": "2026-11-05",
-    "order": 4,
-    "kind": "Da cambiare",
-    "text": "1. Rifornire la coda: 11 giorni senza reel. Servono video nuovi in queue.json (tutti gli slot di oggi persi)."
-  },
-  {
-    "date": "2026-11-05",
-    "order": 5,
-    "kind": "Da cambiare",
-    "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40+ reel finiscono tutti a ~1.150 reach."
-  },
-  {
-    "date": "2026-11-05",
-    "order": 6,
-    "kind": "Da cambiare",
-    "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart)."
-  },
-  {
-    "date": "2026-11-06",
-    "order": 1,
-    "kind": "Sintesi",
-    "text": "Meta' giornata (13:05). Dodicesimo giorno senza reel: coda vuota dal 29/10 22:00. Oggi 3 views, reach 1, 0 condivisioni, 0 visite al profilo. Follower 6 (fermi da 12 giorni). Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h. YouTube 25.571 views, 14 iscritti, 10 Short ancora privati. Nessun commento. Nessuna regola ha cambiato stato."
-  },
-  {
-    "date": "2026-11-06",
-    "order": 2,
-    "kind": "Funziona",
-    "text": "Nessun dato nuovo: Nose resta il migliore per skip (26,2%), Stroop il piu' visto (1.554). Tutti i reel sono fermi al loro tetto."
-  },
-  {
-    "date": "2026-11-06",
-    "order": 3,
-    "kind": "Non funziona",
-    "text": "Zero produzione = zero raccolta: da 11.725 views/giorno a 3 oggi. Follower 6 su ~60k reach totale. 10 Short YouTube ancora privati."
-  },
-  {
-    "date": "2026-11-06",
-    "order": 4,
-    "kind": "Da cambiare",
-    "text": "1. Rifornire la coda: 12 giorni senza reel. Servono video nuovi in queue.json (tutti gli slot di oggi persi)."
-  },
-  {
-    "date": "2026-11-06",
-    "order": 5,
-    "kind": "Da cambiare",
-    "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40+ reel finiscono tutti a ~1.150 reach."
-  },
-  {
-    "date": "2026-11-06",
-    "order": 6,
-    "kind": "Da cambiare",
-    "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart)."
-  },
-  {
-    "date": "2026-11-06",
-    "order": 1,
-    "kind": "Sintesi",
-    "text": "Fine giornata (23:05). Tredicesimo giorno senza reel: coda vuota dal 29/10 22:00. Oggi 4 views, reach 3, 0 condivisioni, 0 visite al profilo. Follower 6 (fermi da 13 giorni). Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h. YouTube 25.572 views, 14 iscritti, 10 Short ancora privati. Nessun commento. Nessuna regola ha cambiato stato."
-  },
-  {
-    "date": "2026-11-06",
-    "order": 2,
-    "kind": "Funziona",
-    "text": "Nessun dato nuovo: Nose resta il migliore per skip (26,2%), Stroop il piu' visto (1.554). Tutti i reel sono fermi al loro tetto."
-  },
-  {
-    "date": "2026-11-06",
-    "order": 3,
-    "kind": "Non funziona",
-    "text": "Zero produzione = zero raccolta: da 11.725 views/giorno a 4 oggi. Follower 6 su ~60k reach totale. 10 Short YouTube ancora privati."
-  },
-  {
-    "date": "2026-11-06",
-    "order": 4,
-    "kind": "Da cambiare",
-    "text": "1. Rifornire la coda: 13 giorni senza reel. Servono video nuovi in queue.json."
-  },
-  {
-    "date": "2026-11-06",
-    "order": 5,
-    "kind": "Da cambiare",
-    "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40+ reel finiscono tutti a ~1.150 reach."
-  },
-  {
-    "date": "2026-11-06",
-    "order": 6,
-    "kind": "Da cambiare",
-    "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart)."
-  },
-  {
-    "date": "2026-11-07",
-    "order": 1,
-    "kind": "Sintesi",
-    "text": "Meta' giornata (13:05). Quattordicesimo giorno senza reel: coda vuota dal 29/10 22:00. Oggi 1 view, reach 2, 0 condivisioni, 0 visite al profilo. Follower 6 (fermi da 14 giorni). Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h. YouTube 25.576 views, 14 iscritti, 10 Short ancora privati. Nessun commento. Nessuna regola ha cambiato stato."
-  },
-  {
-    "date": "2026-11-07",
-    "order": 2,
-    "kind": "Funziona",
-    "text": "Nessun dato nuovo: Nose resta il migliore per skip (26,2%), Stroop il piu' visto (1.554). Tutti i reel sono fermi al loro tetto."
-  },
-  {
-    "date": "2026-11-07",
-    "order": 3,
-    "kind": "Non funziona",
-    "text": "Zero produzione = zero raccolta: da 11.725 views/giorno a 1 oggi. Follower 6 su ~60k reach totale. 10 Short YouTube ancora privati."
-  },
-  {
-    "date": "2026-11-07",
-    "order": 4,
-    "kind": "Da cambiare",
-    "text": "1. Rifornire la coda: 14 giorni senza reel. Servono video nuovi in queue.json."
-  },
-  {
-    "date": "2026-11-07",
-    "order": 5,
-    "kind": "Da cambiare",
-    "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40+ reel finiscono tutti a ~1.150 reach."
-  },
-  {
-    "date": "2026-11-07",
-    "order": 6,
-    "kind": "Da cambiare",
-    "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart)."
-  },
-  {
-    "date": "2026-11-07",
-    "order": 1,
-    "kind": "Sintesi",
-    "text": "Fine giornata (23:05). Quindicesimo giorno senza reel: coda vuota dal 29/10 22:00. Oggi 3 views, reach 3, 0 condivisioni, 0 visite al profilo. Follower 6 (fermi da 14 giorni). Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h. YouTube 25.578 views, 14 iscritti, 10 Short ancora privati. Nessun commento. Nessuna regola ha cambiato stato."
-  },
-  {
-    "date": "2026-11-07",
-    "order": 2,
-    "kind": "Funziona",
-    "text": "Nessun dato nuovo: Nose resta il migliore per skip (26,2%), Stroop il piu' visto (1.554). Tutti i reel sono fermi al loro tetto."
-  },
-  {
-    "date": "2026-11-07",
-    "order": 3,
-    "kind": "Non funziona",
-    "text": "Zero produzione = zero raccolta: da 11.725 views/giorno a 3 oggi. Follower 6 su ~60k reach totale. 10 Short YouTube ancora privati."
-  },
-  {
-    "date": "2026-11-07",
-    "order": 4,
-    "kind": "Da cambiare",
-    "text": "1. Rifornire la coda: 15 giorni senza reel. Servono video nuovi in queue.json."
-  },
-  {
-    "date": "2026-11-07",
-    "order": 5,
-    "kind": "Da cambiare",
-    "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40+ reel finiscono tutti a ~1.150 reach."
-  },
-  {
-    "date": "2026-11-07",
-    "order": 6,
-    "kind": "Da cambiare",
-    "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart)."
-  },
-  {
-    "date": "2026-11-08",
-    "order": 1,
-    "kind": "Sintesi",
-    "text": "Fine giornata (23:05). Sedicesimo giorno senza reel: coda vuota dal 29/10 22:00. Oggi 6 views, reach 4, 0 condivisioni, 0 visite al profilo. Follower 6 (fermi da 15 giorni). Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h. YouTube 25.579 views, 14 iscritti, 10 Short ancora privati. Nessun commento. Nessuna regola ha cambiato stato."
-  },
-  {
-    "date": "2026-11-08",
-    "order": 2,
-    "kind": "Funziona",
-    "text": "Nessun dato nuovo: Nose resta il migliore per skip (26,2%), Stroop il piu' visto (1.554). Tutti i reel sono fermi al loro tetto."
-  },
-  {
-    "date": "2026-11-08",
-    "order": 3,
-    "kind": "Non funziona",
-    "text": "Zero produzione = zero raccolta: da 11.725 views/giorno a 6 oggi. Follower 6 su ~60k reach totale. 10 Short YouTube ancora privati."
-  },
-  {
-    "date": "2026-11-08",
-    "order": 4,
-    "kind": "Da cambiare",
-    "text": "1. Rifornire la coda: 16 giorni senza reel. Servono video nuovi in queue.json."
-  },
-  {
-    "date": "2026-11-08",
-    "order": 5,
-    "kind": "Da cambiare",
-    "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40+ reel finiscono tutti a ~1.150 reach."
-  },
-  {
-    "date": "2026-11-08",
-    "order": 6,
-    "kind": "Da cambiare",
-    "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart)."
-  },
-  {
-    "date": "2026-11-09",
-    "order": 1,
-    "kind": "Sintesi",
-    "text": "Fine giornata (23:05). Diciassettesimo giorno senza reel: coda vuota dal 29/10 22:00. Oggi 11 views, reach 7, 0 condivisioni, 0 visite al profilo. Follower 6 (fermi da 16 giorni). Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h. YouTube 25.582 views, 14 iscritti, 10 Short ancora privati. Nessun commento. Nessuna regola ha cambiato stato."
-  },
-  {
-    "date": "2026-11-09",
-    "order": 2,
-    "kind": "Funziona",
-    "text": "Nessun dato nuovo: Nose resta il migliore per skip (26,2%), Stroop il piu' visto (1.554). Tutti i reel sono fermi al loro tetto."
-  },
-  {
-    "date": "2026-11-09",
-    "order": 3,
-    "kind": "Non funziona",
-    "text": "Zero produzione = zero raccolta: da 11.725 views/giorno a 11 oggi. Follower 6 su ~60k reach totale. 10 Short YouTube ancora privati."
-  },
-  {
-    "date": "2026-11-09",
-    "order": 4,
-    "kind": "Da cambiare",
-    "text": "1. Rifornire la coda: 17 giorni senza reel. Servono video nuovi in queue.json."
-  },
-  {
-    "date": "2026-11-09",
-    "order": 5,
-    "kind": "Da cambiare",
-    "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40+ reel finiscono tutti a ~1.150 reach."
-  },
-  {
-    "date": "2026-11-09",
-    "order": 6,
-    "kind": "Da cambiare",
-    "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart)."
-  },
-  {
-    "date": "2026-11-10",
-    "order": 1,
-    "kind": "Sintesi",
-    "text": "Fine giornata (23:05). Diciottesimo giorno senza reel: coda vuota dal 29/10 22:00. Oggi 5 views, reach 3, 0 condivisioni, 0 visite al profilo. Follower 6 (fermi da 17 giorni). Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h. YouTube 25.583 views, 14 iscritti, 10 Short ancora privati. Nessun commento nuovo. Nessuna regola ha cambiato stato."
-  },
-  {
-    "date": "2026-11-10",
-    "order": 2,
-    "kind": "Funziona",
-    "text": "Nessun dato nuovo: Nose resta il migliore per skip (26,3%), Stroop il piu' visto (1.554). Tutti i reel sono fermi al loro tetto."
-  },
-  {
-    "date": "2026-11-10",
-    "order": 3,
-    "kind": "Non funziona",
-    "text": "Zero produzione = zero raccolta: da 11.725 views/giorno a 5 oggi. Follower 6 su ~60k reach totale. 10 Short YouTube ancora privati."
-  },
-  {
-    "date": "2026-11-10",
-    "order": 4,
-    "kind": "Da cambiare",
-    "text": "1. Rifornire la coda: 18 giorni senza reel. Servono video nuovi in queue.json."
-  },
-  {
-    "date": "2026-11-10",
-    "order": 5,
-    "kind": "Da cambiare",
-    "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40+ reel finiscono tutti a ~1.150 reach."
-  },
-  {
-    "date": "2026-11-10",
-    "order": 6,
-    "kind": "Da cambiare",
-    "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart)."
-  },
-  {
-    "date": "2026-11-11",
-    "order": 1,
-    "kind": "Sintesi",
-    "text": "Meta' giornata (13:05). Diciannovesimo giorno senza reel: coda vuota dal 29/10 22:00. Oggi finora 2 views, reach 2, 0 condivisioni, 0 visite al profilo. Follower 6 (fermi da 18 giorni). Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h. YouTube 25.587 views (+4), 14 iscritti, 10 Short ancora privati. Nessun commento nuovo. Nessuna regola ha cambiato stato."
-  },
-  {
-    "date": "2026-11-11",
-    "order": 2,
-    "kind": "Funziona",
-    "text": "Nessun dato nuovo: Nose resta il migliore per skip (26,3%), Stroop il piu' visto (1.554). Tutti i reel sono fermi al loro tetto."
-  },
-  {
-    "date": "2026-11-11",
-    "order": 3,
-    "kind": "Non funziona",
-    "text": "Zero produzione = zero raccolta: da 11.725 views/giorno a 2 oggi. Follower 6 su ~60k reach totale. 10 Short YouTube ancora privati."
-  },
-  {
-    "date": "2026-11-11",
-    "order": 4,
-    "kind": "Da cambiare",
-    "text": "1. Rifornire la coda: 19 giorni senza reel. Servono video nuovi in queue.json."
-  },
-  {
-    "date": "2026-11-11",
-    "order": 5,
-    "kind": "Da cambiare",
-    "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40+ reel finiscono tutti a ~1.150 reach."
-  },
-  {
-    "date": "2026-11-11",
-    "order": 6,
-    "kind": "Da cambiare",
-    "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart)."
-  }
+ {
+  "date": "2026-10-23",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Aggiornamento di meta' giornata (ore 12). 4 reel su Instagram, 522 visualizzazioni totali (519 oggi), reach 454, secondi medi di visione 10.7-11.6 oggi (12.5 il reel di ieri sera). Interazioni: 3 like, 0 commenti, 0 condivisioni, 0 salvataggi. Follower: 1. Ieri non c'e' storico (primo giorno di dati): confronto possibile solo col reel di ieri 22:14 (131 views, 12.5s)."
+ },
+ {
+  "date": "2026-10-23",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Stroke delle 02:00: 139 views e 117 reach, il piu' visto; il reel di ieri sera (sigarette) ha la visione media piu' alta, 12.5s. Ogni reel raggiunge oltre 100 persone con 1 follower: la distribuzione iniziale c'e'."
+ },
+ {
+  "date": "2026-10-23",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Ozempic 10:00 e' il piu' debole finora: 120 views, 0 like, 10.7s di visione. Zero commenti, condivisioni e salvataggi su tutti e 4; la visione media scende da 12.5s a 10.7s nei 4 reel in ordine di orario. YouTube: 0 views (video ancora privati)."
+ },
+ {
+  "date": "2026-10-23",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Durata: provare reel da 20-25 secondi; con 10-12s di visione media su video piu' lunghi, un reel corto viene visto in percentuale molto maggiore."
+ },
+ {
+  "date": "2026-10-23",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. Primi 2 secondi: partire dal numero piu' forte (es. 15% del peso, 1.9 milioni di neuroni) gia' sullo schermo, senza intro."
+ },
+ {
+  "date": "2026-10-23",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. CTA: 0 commenti e 0 salvataggi su 4 reel. Chiudere con una domanda precisa o 'salvalo' e confrontare i prossimi reel delle 13:00-16:00 con quelli notturni (02:00 e 06:00 hanno dato 139 e 132 views, gli orari di giorno vanno ancora misurati)."
+ },
+ {
+  "date": "2026-10-24",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Fine giornata (23:05). 5 reel di oggi: 1.782 views, la reach del giorno e' 2.807, follower 3 (ieri 1). Baseline ultimi 10 reel: skip 41,5%, visione 27,7% (11,4 s), 134 views. Space delle 16:00 e' uscito dal primo test: 1.306 views, reach 1.086, skip 32,8%, visione 37,5% (14,7 s), 17 like, la prima condivisione. Gli altri 3 reel di oggi (Robot, Clock Shift, Steps) fermi a 121-130 views. AI Extinction (22:00) ha solo 1 ora di vita: 96 views, skip 15,5%, ancora presto. Totale: 5 commenti, 2 salvataggi, 1 condivisione su 11 reel."
+ },
+ {
+  "date": "2026-10-24",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Space: 'Astronauts come back taller' ha dato skip 32,8% contro 41,5%, e visione 37,5% contro 27,7%. Un fatto concreto e sorprendente sul corpo regge come il 'tuo corpo in una situazione'. Cold Plunge resta il miglior reel (41,7% di visione). Robot (persona vera): skip 39,8%, in linea."
+ },
+ {
+  "date": "2026-10-24",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Clock Shift: skip 50,9%, visione 21,4% ('your clock' non e' una situazione fisica). Steps: skip 43,1%, 129 views, 0 condivisioni. Condivisioni 1 e salvataggi 2 su 11 reel: la gente guarda ma non manda. Cold Plunge e Space hanno piu' di 1.000 views ma 0 e 1 condivisioni: il fatto da mandare arriva troppo tardi."
+ },
+ {
+  "date": "2026-10-24",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Da domani i reel sono in formato v2 (20-25 s, fatto sul primo fotogramma): vedere se la visione sale sopra il 37,5% di Space. E1 e' ancora senza dati v2."
+ },
+ {
+  "date": "2026-10-24",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. Aprire sempre con un fatto concreto e sorprendente sul corpo (taller, ice water): Space 32,8% e Cold Plunge 34% di skip contro 50,9% di Clock Shift. Evitare titoli astratti ('your clock')."
+ },
+ {
+  "date": "2026-10-24",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. Mettere il fatto da mandare entro il secondo 10 e la CTA 'send this to the friend who...': 2 reel sopra 1.000 views hanno prodotto 1 sola condivisione."
+ },
+ {
+  "date": "2026-10-25",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Fine giornata, aggiornata alle 23:35. Oggi 11.361 views, reach 8.863 (ieri 3.562 / 2.884), 6 reel v2. Follower ancora 3, 11 visite al profilo, 8 condivisioni e 5 salvataggi. Baseline ultimi 10 reel: skip 37,2%, visione 38,3% (11,4 s), 1.348 views. Correzione: lo skip 16,8% di Ice Water delle 23:05 era letto a 1 ora su reach parziale (360); ora e' 38,1% su 1.002 di reach. YouTube: 4.425 views in tutto, 2 iscritti."
+ },
+ {
+  "date": "2026-10-25",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Il v2 esce dal test: 6 reel su 6 tra 1.317 e 2.016 views (v1: 2 su 11). Skip mediano 28,5% contro 43% dei v1, visione 55% contro 28%. Il migliore e' Swabs (06:00): skip 20,3%, visione 81%, 2.016 views. Ice Water cresce ancora (+181 views in 30 minuti). Il volume non danneggia: ogni reel porta 1.000-1.500 di reach. Su YouTube Swabs 1.224 e Muscle 1.120 views."
+ },
+ {
+  "date": "2026-10-25",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Invii e follower: 6 condivisioni su 7.135 di reach dei v2 (0,08%), 3 salvataggi, 0 follower nuovi. I due reel della sera sono i v2 piu' deboli: Taller (19:00) skip 41,7% / visione 39% e Ice Water (22:00) 38,1% / 37%, contro 20-29% / 54-81% dei 4 reel di notte, mattina e pomeriggio. Taller e' fermo a 1.354. YouTube: Cut ancora privato (0 views); Space 15 e AI 6 views anche se su Instagram sono andati bene."
+ },
+ {
+  "date": "2026-10-25",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Condivisioni allo 0,08%, sotto la soglia 0,15% (rule 9): dai reel nuovi (dopo ep43) mettere la CTA 'send this to the friend who...' a meta' reel, accanto al fatto da mandare. I reel del 26 e 27 sono gia' pronti e restano cosi'."
+ },
+ {
+  "date": "2026-10-25",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. Sera: 2 reel su 2 dopo le 19:00 sopra il 38% di skip. Domani confrontare After Death (19:00) e Lost at Sea (22:00) con i reel del mattino prima di cambiare orari o temi. Giudicare lo skip solo dopo 3 ore (l'errore di Ice Water)."
+ },
+ {
+  "date": "2026-10-25",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. Portare gente al profilo: 0 follower su 8.863 di reach, 11 visite. Provare la chiusura 'Follow @nnexthuman: one body fact a day' su 3 reel contro 3 senza (E2, una variabile) e misurare visite al profilo e follower."
+ },
+ {
+  "date": "2026-10-26",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Fine giornata (23:05). Oggi: 11.079 views, reach 8.643 (ieri 8.863 con 6 reel), 5 condivisioni, 5 salvataggi, follower 3 (fermi), 9 visite al profilo. 7 reel: 3 sono usciti dal primo test (Ice Gym 1.919 views, Sleep Paralysis 1.343, After Death 841 in crescita a 205/h dopo 4 ore), 3 sono rimasti a ~130 (Fluid Brain, Back from Space, Spit Boil 182); Lost at Sea (22:00) ha 1 ora, presto per giudicarlo. Baseline ultimi 10 (3 h+): skip 33,6%, visione 43,8% (9,3 s), 1.347 views, condivisioni 0,06% della reach. YouTube: 7.319 views, 7 iscritti."
+ },
+ {
+  "date": "2026-10-26",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "After Death 19:00 ('Your nails don't keep growing after you die'): skip 25%, visione 54,4%, 205 views/h, il piu' veloce della giornata. Ice Gym (skip 26,5%, visione 60,4%, 2 salvataggi) e Sleep Paralysis (31,5%). Tutti e tre: una situazione del TUO corpo o un'abitudine, con un mito da correggere. Lo slot delle 19:00 non e' debole come sembrava (1 reel)."
+ },
+ {
+  "date": "2026-10-26",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "4 reel su 7 non partono: Fluid Brain 127 views (skip 35,7%), Back from Space 133 (44,6%), Spit Boil 182 (38,9%), Lost at Sea 133 a 1 ora. Argomenti lontani dalla vita di tutti i giorni (spazio, vuoto, cervello-curiosita'). Condivisioni: 0 su 7 reel di oggi, anche After Death a 841 views; salvataggi 2 (Ice Gym). Dopo circa 10 ore ogni reel si ferma (Sleep Paralysis +4/h, Ice Gym +3/h)."
+ },
+ {
+  "date": "2026-10-26",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Aperture: scegliere argomenti 'tuo corpo + abitudine + mito' (unghie, ice bath, cotton fioc) e ridurre spazio/vuoto/curiosita' del cervello. Dei 5 vincitori v2 di ieri e oggi, nessuno e' di spazio. Chiedere a Graziano di dare priorita' a questi nei prossimi reel non ancora in coda."
+ },
+ {
+  "date": "2026-10-26",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. Condivisioni a 0,06% (soglia 0,15%) e 0 su 7 reel di oggi: l'invio a meta' reel dopo il fatto parte con i 5 reel con voce del 28/10 (E3); verificare il giorno dopo se almeno 3 su 5 superano 0,15%."
+ },
+ {
+  "date": "2026-10-26",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. Volume: la reach del giorno e' ferma a ~8.700 con 6 o 7 reel (ieri 6 su 6 usciti dal test, oggi 3 su 7). Se il 28/10 piu' di 3 reel su 7 restano sotto 300 views, proporre a Graziano 5 reel al giorno solo con gli argomenti migliori (regola 17)."
+ },
+ {
+  "date": "2026-10-27",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Meta' giornata (13:16 Roma). 4 reel di oggi su Instagram: Sugar 1.336 views (7 h, skip 34.9%, 4 condivisioni, 4 salvataggi), Pill 1.242 (3 h, 388/h, skip 23.8%, watch 49%), Coffee 165 (fermo), Fat Burn appena uscito. Giornata: views 5.665, reach 4.365, 6 condivisioni, 5 salvataggi, follower 4 (+1), 5 visite al profilo. Baseline ultimi 10 (3 h+): skip 35.8%, watch 40.6% (8.4 s), mediana views 725, condivisioni 0.0% della reach."
+ },
+ {
+  "date": "2026-10-27",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Sugar (ciambella, 06:00): la prima volta sopra la soglia di invio, 4 condivisioni su 1.114 reach (0.36%, soglia 0.15%) e 4 salvataggi. Pill (10:00): skip 23.8%, il piu' basso di una settimana, 388 views/h a 3 h. Tema comune: azione quotidiana del corpo (mangiare, ingoiare) con un percorso passo passo."
+ },
+ {
+  "date": "2026-10-27",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Coffee (02:00) e' fermo a 165 views con skip 44.7%, anche se e' 'abitudine + mito': la famiglia della regola 25 non basta da sola. Lost at Sea (22:00 di ieri) fermo a 145 views, skip 50.8%: soggetto lontano. YouTube: i 4 Short di oggi vanno da 329 a 1.090 views, ma gli Short di 09:00-13:00 sono ancora pochi per giudicare."
+ },
+ {
+  "date": "2026-10-27",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Fare altri reel 'percorso dentro il corpo' (pillola, ciambella, caffe' dopo l'ultimo sorso): Sugar e Pill hanno le uniche condivisioni dei reel recenti. Per Fat Burn (13:00) e i prossimi, controllare a 3 h se il percorso a tappe tiene lo skip sotto 30%."
+ },
+ {
+  "date": "2026-10-27",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. Coffee: il titolo dice 'non ti da' energia' (negazione astratta) e frame 1 senza corpo in azione. Riscrivere i prossimi miti con un'azione visibile al secondo 0 (es. 'Bevi un caffe'. Ecco dove va')."
+ },
+ {
+  "date": "2026-10-27",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. Lo scenario del 28/10 (voce, CTA a meta' reel): non cambiare nulla prima del risultato; confrontare per condivisioni su reach contro Sugar (0.36%) come riferimento, non contro la media 0.0%."
+ },
+ {
+  "date": "2026-10-27",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Fine giornata (23:06 Roma). 7 reel IG di oggi: Breath 1.806 views (4 h, 440/h, skip 26%, watch 69.5%, 5 condivisioni), Pill 1.504, Fat Burn 1.448, Sugar 1.364 escono dal test; Coffee 203 e Death Zone 528 si fermano; Moon e' uscito da 1 h (125 views). Giornata: views 9.953, reach 7.516 (ieri 8.643), 12 condivisioni, 9 salvataggi, follower 6 (+3, record), 10 visite al profilo, 0 commenti nuovi. Baseline ultimi 10 (3 h+): skip 36.9%, watch 41% (8,5 s), mediana 946 views, condivisioni 12 su 6.758 reach (0.18%)."
+ },
+ {
+  "date": "2026-10-27",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Breath (19:00, trattenere il respiro): il migliore della giornata, skip 26%, watch 69.5% (13,9 s), 5 condivisioni e 2 salvataggi su 1.251 reach (0.40%). Sugar 0.35% e Pill 0.17% di condivisioni: 3 reel su 7 oggi sopra la soglia 0.15%. Tema comune: il corpo fa qualcosa che il viewer puo' sentire subito (respiro, zucchero, pillola). Il volume non ha abbassato la reach per reel: 5 reel su 7 usciti dal test (ieri 3 su 7)."
+ },
+ {
+  "date": "2026-10-27",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Death Zone (oltre 8.000 m) fermo a 528 views con skip 48.4%, watch 38%: soggetto lontano, come Space e Vacuum. Coffee (02:00) fermo a 203, skip 47.1%: negazione astratta. Commenti: 0 nuovi su Instagram e 1 su YouTube; reach del giorno in calo (7.516) nonostante piu' reel buoni, perche' Moon e Death Zone non hanno ancora il secondo giro. Fat Burn: 1.448 views ma condivisioni 0.09%, il percorso a tappe da solo non basta: Breath ha anche l'azione del viewer."
+ },
+ {
+  "date": "2026-10-27",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Piu' reel in cui il viewer sente il corpo subito (trattieni il respiro, ingoia, mangia): Breath ha il watch piu' alto (69.5%) e 0.40% di invii. E' la base di BODY TEST (E4, da domani sera). Evitare soggetti lontani (quota, spazio): Death Zone skip 48.4%."
+ },
+ {
+  "date": "2026-10-27",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. Invii: 12 su 6.758 reach (0.18%) nei 10 ultimi, ma 4 reel su 7 oggi sono sotto 0.15%. Il 28/10 (E3, CTA a meta') confrontare con Breath/Sugar (0.35-0.40%), non con la media."
+ },
+ {
+  "date": "2026-10-27",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. Follower: +3 oggi su 10 visite al profilo (0.13% della reach). Il profilo promette longevita'/AI ma i reel parlano di corpo quotidiano: allineare bio e chiusura 'Follow' (E2 parte il 28/10, serve un reel 'none' in piu')."
+ },
+ {
+  "date": "2026-10-28",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Meta' giornata (28/10, ore 13). Oggi 11.295 views, reach 8.870, 11 condivisioni, 12 salvataggi, follower 6 (fermi), 10 visite al profilo. Baseline ultimi 10: skip 35,4%, visione 51%, mediana 1.425 views, condivisioni 0,045% della reach. I 3 reel v3 con voce (Milgram, Bridge, Liar) sono tutti sopra 1.350 views: nessuno si ferma a 200."
+ },
+ {
+  "date": "2026-10-28",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "La voce regge la visione: Milgram 65,9% (19,5 s), Bridge skip 23,7% e 3 salvataggi, Liar 12,2 s. Mediana v3 13,8 s contro 11,1 s dei v2 (+24%). Tutti e 3 superano il primo test, il v3 non ha reel che si fermano."
+ },
+ {
+  "date": "2026-10-28",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Le condivisioni non si muovono: v3 = 1 condivisione su 3.440 reach (0,03%), come i v2 (0,03%). Skip (28,2% contro 28,5%) e views (1.484 contro 1.479) sono uguali ai v2. La voce allunga la visione ma non rompe il tetto dei ~1.500 views ne' fa mandare il reel agli amici."
+ },
+ {
+  "date": "2026-10-28",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1) Il tetto resta ~1.500: l'unica prova che puo' romperlo e' E4 (BODY TEST, da domani 29/10). Non cambiare altro prima, cosi' il risultato e' leggibile."
+ },
+ {
+  "date": "2026-10-28",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2) Smoke Room (16:00) e Broken Heart (22:00) chiudono E3: se anche loro restano sotto 0,1% di condivisioni, il pacchetto 'voce + psicologia' e' solo una scelta di qualita', non di crescita."
+ },
+ {
+  "date": "2026-10-28",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3) Follower fermi a 6 con 10 visite al profilo al giorno: E2 ha ancora solo 2 reel con la chiusura 'follow' e 1 senza; serve un 'senza' in piu' prima di giudicare. Il profilo non e' ancora il problema da toccare."
+ },
+ {
+  "date": "2026-10-28",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Fine giornata 28/10. Giorno: 11.725 views, reach 9.264, 11 condivisioni, 12 salvataggi, 121 interazioni, follower 6 (fermi da ieri), 11 visite al profilo. Baseline (ultimi 10): skip 34,4%, watch 51,8% (11,4 s), mediana 1.428 views, condivisioni 0,04% della reach. Dei 5 reel con voce (v3): 3 hanno superato il primo test (Bridge 1.506, Milgram 1.495, Liar 1.364), Smoke Room si e' fermato a 179 (7 h), Broken Heart ha 107 views a 1 h e sembra fermo. Il tetto resta ~1.500 views / ~1.150 reach. YouTube: 22.705 views totali (+10.900 in un giorno), 11 iscritti: oggi rende quanto Instagram."
+ },
+ {
+  "date": "2026-10-28",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Bridge (skip 23,7%, 3 salvataggi) e Milgram (skip 28,3%, visione 65,5%, 19,4 s: la piu' alta mai vista) con la voce: la voce aggiunge secondi di visione (13,0 s contro 11,1 s del v2, +17%). Situazione fisica che lo spettatore sente subito = passa il primo test. YouTube Shorts: 7 video pubblici di ieri tra 955 e 1.507 views ciascuno."
+ },
+ {
+  "date": "2026-10-28",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Reach e invii non si muovono: v3 contro v2 = views 1.430 contro 1.479, condivisioni 0,03% (1 su 3.608 di reach) contro 0,03%, like 0,47% contro 0,79%. Smoke Room (16:00) e' rimasto a 179 views con skip 33,8% (non e' l'hook, e' che nessuno reagisce); Broken Heart (22:00) 107 views a 1 h. Il follow in chiusura non converte: 3 reel con follow, follower fermi a 6, 11 visite al profilo."
+ },
+ {
+  "date": "2026-10-28",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Domani 29/10 parte E4 (BODY TEST con voce, 02:00 Nose). Giudicare solo sui tassi: like (obiettivo 3%), condivisioni (0,5%), commenti, watch % sopra 100. Se i primi 3 restano a like 1% e commenti 0, il tetto non dipende dal formato: passare a pochi reel al giorno ma curati."
+ },
+ {
+  "date": "2026-10-28",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. YouTube fa 10.900 views al giorno contro 11.700 su Instagram con un solo giorno di vantaggio: 10 Shorts (Bridge, Milgram, Liar, Smoke, Heart + BODY TEST #1-#5) sono ancora PRIVATI. Graziano: renderli pubblici oggi (o da YouTube Studio) e tenere YouTube come canale principale di test."
+ },
+ {
+  "date": "2026-10-28",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. Il CTA di invio dopo il payoff e il follow in chiusura non spostano nulla (invii 0,03%, follower +0). Non aggiungere altro testo: per E2 serve ancora 1 reel 'senza follow' prima di chiudere; intanto valutare di spostare la promessa dentro il reel (es. 'domani: test #N') invece di una frase finale."
+ },
+ {
+  "date": "2026-10-29",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Meta' giornata (ore 13). Oggi 4.932 views, reach 4.305, 0 condivisioni, 2 salvataggi, follower 6 (fermi da 3 giorni), 5 visite al profilo. Baseline ultimi 10: skip 35,8%, visione 44%, 12,6 s, mediana 1.330 views, condivisioni 0,08% della reach. 3 BODY TEST usciti: Nose 1.297 e Afterimage 1.362 views (passano il primo test), Gorilla 151 (3 ore, skip 40,6%). Ieri sera Broken Heart si e' fermato a 123."
+ },
+ {
+  "date": "2026-10-29",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Nose (skip 26,3%, 116 views/h) e Afterimage (189 views/h, il piu' veloce mai visto, 3 commenti): partono 4-7 volte piu' veloci dei reel v2 (circa 25/h). Il test sul proprio corpo da' piu' commenti (2-3 contro 1)."
+ },
+ {
+  "date": "2026-10-29",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Il tetto resta ~1.150 di reach: like 0,6-0,8% (obiettivo 3%), 0 condivisioni, 1 salvataggio su 3 reel. Gorilla ha skip 40,6% e 151 views: il tema 'conta i passaggi' non si capisce al primo fotogramma. Voce (E3) e frase 'Follow' (E2) non cambiano reach, condivisioni ne' follower: 6 follower da 27k persone raggiunte."
+ },
+ {
+  "date": "2026-10-29",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Primo fotogramma dei test: l'azione deve essere gia' chiara senza spiegazione (Gorilla: mostrare subito i giocatori e il numero 'count'), come Nose che e' immediato."
+ },
+ {
+  "date": "2026-10-29",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. Condivisioni: ogni test deve finire con un risultato da confrontare ('send this to someone and compare'), non solo 'follow'. Oggi 0 condivisioni su 3 reel."
+ },
+ {
+  "date": "2026-10-29",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. Follower: 6 su ~27k reach. Far dire al reel cosa e' la pagina (serie 'BODY TEST' in alto fissa nel primo fotogramma) e controllare che la bio prometta i test, non solo longevita'/AI."
+ },
+ {
+  "date": "2026-10-29",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Fine giornata (23:05). Oggi 6,790 views, reach 5,905 (ieri 11,725 / 9,264), 3 condivisioni, 3 salvataggi, follower 6 (fermi da 3 giorni), 10 visite al profilo. YouTube 23,536 views totali, 13 iscritti. Baseline ultimi 10 (3 h+): skip 36.0%, visione 44.5% (12.6 s), 1,335 views, like 0.62%, condivisioni 0.0%. Il calo del giorno e' soprattutto Blind Spot (22:00, ancora giovane) e due reel fermi (Gorilla 254, Broken Heart 142)."
+ },
+ {
+  "date": "2026-10-29",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "BODY TEST parte piu' veloce: Stroop (16:00) 1,540 views, 3 condivisioni (0.24%), skip 37.7%, visione 16.8 s; Afterimage 1,383 e Nose 1,304 escono dal primo test. Blind Spot dopo 1 h: 415 views, skip 24.5%, 377 views/h (migliore partenza di sempre; va giudicato domani). Stroop e' il primo reel interattivo con condivisioni."
+ },
+ {
+  "date": "2026-10-29",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Il soffitto resta ~1,300-1,540 views / ~1,150 reach: 3 test su 4 maturi lo toccano, non lo superano. Like 0.49-1.1% contro obiettivo 3%, commenti 1-3 (di cui uno nostro), condivisioni 3 in totale. Gorilla (fermo a 254, skip 34%): il test del conteggio non si capisce al primo fotogramma. Smoke e Broken Heart (v3) fermi a ~140-210."
+ },
+ {
+  "date": "2026-10-29",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1) Gorilla si e' fermato (254 views) mentre Stroop ha 1,540: tenere i test con una risposta visibile subito (colore, naso, punto) e fare un fotogramma 1 che mostri gia' l'azione, non il conteggio."
+ },
+ {
+  "date": "2026-10-29",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2) Le reazioni sono sotto obiettivo (like 0.6-1.1% vs 3%, 0 commenti reali): chiudere ogni test con una sola parola da scrivere ('RED or BLUE?') e fissare il commento in alto con la stessa domanda."
+ },
+ {
+  "date": "2026-10-29",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3) Decidere E4 domani alle 13:05, quando Blind Spot ha 15 ore: se ha 1,500+ views con share > 0.15% e' la prima forma che supera il soffitto, e la serie va continuata; altrimenti serve una leva diversa dai reel (es. Stroop-style con sfida da inviare)."
+ },
+ {
+  "date": "2026-10-30",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Fine giornata. Oggi 4,275 views, reach 3,688 (29/10: 6,790 / 5,905), 4 condivisioni, 3 salvataggi, follower 6 (fermi da 4 giorni), 8 visite al profilo. NESSUN reel pubblicato oggi: la coda e' finita il 29/10 alle 22:00, le views sono la coda dei reel di ieri. Baseline (ultimi 10, 3 h+): skip 36.3%, visione 43.8% (12.6 s), mediana 1,353 views, like 0.62%, condivisioni 0.0%. YouTube: 25,407 views (+1,729 oggi), 14 iscritti."
+ },
+ {
+  "date": "2026-10-30",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Stroop (1,553 views, skip 37.9%) e Blind Spot (1,336, 1,2 mila reach) hanno superato il primo test; Nose e' a 1,307 con skip 26.2%, il migliore. YouTube cresce da solo: +1,729 views e +1 iscritto senza nuovi video."
+ },
+ {
+  "date": "2026-10-30",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Il tetto di ~1,300-1,500 views e ~1,150 reach resta identico per ogni formato. Follower 6 su circa 60k di reach; 8 visite al profilo al giorno. Gorilla (1,230, skip 31.6%) e Afterimage (1,390, skip 44%) non cambiano il quadro. Nessuna nuova info dopo oggi perche' non c'e' nessun reel nuovo."
+ },
+ {
+  "date": "2026-10-30",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. La coda e' vuota: 0 reel dal 29/10 22:00. Servono nuovi post in queue.json (o decidere di fermarsi su Instagram): ogni giorno senza post spreca la distribuzione."
+ },
+ {
+  "date": "2026-10-30",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. Il soffitto e' dell'account (6 follower, 8 visite/giorno): controllare bio, foto e nome del profilo e provare un reel con persona o voce reale fuori dal pixel art (esperimento E5)."
+ },
+ {
+  "date": "2026-10-30",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. YouTube e' l'unico canale che cresce (14 iscritti, ~1,000+ views a Short): rendere pubblici i 10 Short ancora privati e spostare li' lo sforzo."
+ },
+ {
+  "date": "2026-10-31",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Meta' giornata (13:05). Nessun reel pubblicato oggi: la coda e' vuota dal 29/10 22:00 (slot 02, 06, 10 vuoti anche oggi). Views oggi 28, reach 18; ieri 4.275 / 3.688. Follower 6 (fermi da 5 giorni), 0 visite al profilo. Baseline ultimi 10 reel (3 h+): skip 36,2%, visione 43,8% (12,6 s), mediana 1.353 views, like 0,6%, share 0,0%, salvataggi 0,1%. YouTube 25.472 views, 14 iscritti (+65 da ieri sera)."
+ },
+ {
+  "date": "2026-10-31",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Nessun cambio nei reel < 72 h: Stroop 1.553, Afterimage 1.390, Blind Spot 1.336, Nose 1.307 (skip 26,2%, il migliore), Gorilla 1.230 restano fermi, tutti sotto 1 view/h ora. YouTube e' l'unico canale che cresce senza nuovi caricamenti."
+ },
+ {
+  "date": "2026-10-31",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Zero produzione: senza nuovi reel l'account non raccoglie piu' nulla (views giornaliere da 11.725 il 28/10 a 28 oggi). Tetto di ~1.150 reach per reel invariato su 40+ reel; condivisioni 0,0% e follower 6 su ~60k reach."
+ },
+ {
+  "date": "2026-10-31",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Rifornire la coda: servono nuovi reel nelle prossime ore (oggi 16:00 e 22:00 sono ancora recuperabili). Ogni giorno vuoto costa circa 4.000 views."
+ },
+ {
+  "date": "2026-10-31",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. Testare E5 fuori dalla grafica pixel art (persona reale o voce sopra filmato): 40 reel pixel art finiscono tutti a ~1.150 reach, quindi il limite e' dell'account, non dell'hook."
+ },
+ {
+  "date": "2026-10-31",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. Spostare lo sforzo di crescita su YouTube (+1.700 views/giorno senza caricare): rendere pubblici i 10 Short ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart)."
+ },
+ {
+  "date": "2026-10-31",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Fine giornata (23:05). Nessun reel pubblicato per il terzo giorno: coda vuota dal 29/10 22:00. Oggi 33 views, reach 22 (ieri 4.275 / 3.688; 28/10 11.725 / 9.264). Follower 6 (fermi da 6 giorni), 0 visite al profilo, 0 condivisioni. Baseline ultimi 10 reel (3 h+): skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views, like 0,6%, share 0,0%, salvataggi 0,1%. YouTube 25.500 views, 14 iscritti, invariati da stamattina."
+ },
+ {
+  "date": "2026-10-31",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Nessun cambio nei reel < 72 h: Stroop 1.554, Afterimage 1.390, Blind Spot 1.338, Nose 1.307 (skip 26,2%, il migliore), Gorilla 1.231 sono fermi (< 1 view/h). YouTube e' l'unico canale che continua a crescere senza nuovi caricamenti (+1.700 views/giorno il 30/10)."
+ },
+ {
+  "date": "2026-10-31",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Zero produzione = zero raccolta: views giornaliere da 11.725 (28/10) a 33 oggi. Tetto di ~1.150 reach per reel invariato su 40+ reel pixel art; share 0,0% e follower 6 su ~60k reach. Il limite e' dell'account, non dell'hook."
+ },
+ {
+  "date": "2026-10-31",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Rifornire la coda subito: 3 giorni senza reel (circa 12.000 views perse rispetto al ritmo del 28/10). Servono nuovi video e voci in queue.json per il 1 novembre."
+ },
+ {
+  "date": "2026-10-31",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40 reel finiscono tutti a ~1.150 reach, quindi cambiare il formato e' l'unica leva rimasta."
+ },
+ {
+  "date": "2026-10-31",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart) e spostare li' lo sforzo: +1.700 views/giorno senza caricare nulla."
+ },
+ {
+  "date": "2026-11-02",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Meta' giornata (13:05). Quinto giorno senza reel: coda vuota dal 29/10 22:00. Oggi 10 views, reach 6 (31/10: 33 / 22; 28/10: 11.725 / 9.264). Follower 6 (fermi da 7 giorni), 0 visite al profilo, 0 condivisioni. Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. YouTube 25.535 views, 14 iscritti, 10 Short ancora privati."
+ },
+ {
+  "date": "2026-11-02",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Nessun cambio nei reel < 72 h (Blind Spot 1.338, Stroop 1.554): tutti fermi al tetto. Nose resta il migliore per skip (26,2%). YouTube continua a salire da solo (+35 views da ieri)."
+ },
+ {
+  "date": "2026-11-02",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Zero produzione = zero raccolta: da 11.725 views/giorno (28/10) a 10 oggi. Tetto di ~1.150 reach per reel su 40+ reel pixel art; share 0,0% e follower 6."
+ },
+ {
+  "date": "2026-11-02",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Rifornire la coda subito: 5 giorni senza reel (circa 20.000 views perse rispetto al ritmo del 28/10). Servono nuovi video in queue.json per oggi (16:00 e 22:00 ancora recuperabili)."
+ },
+ {
+  "date": "2026-11-02",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40 reel finiscono tutti a ~1.150 reach, il formato e' l'unica leva rimasta."
+ },
+ {
+  "date": "2026-11-02",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart): YouTube e' l'unico canale che cresce."
+ },
+ {
+  "date": "2026-11-02",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Fine giornata (23:05). Quinto giorno senza reel: coda vuota dal 29/10 22:00. Oggi 13 views, reach 8 (28/10: 11.725 / 9.264). Follower 6 (fermi da 7 giorni), 0 condivisioni, 0 visite al profilo. Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h e' cambiato. YouTube 25.542 views, 14 iscritti (+42 views da meta' giornata)."
+ },
+ {
+  "date": "2026-11-02",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Nose resta il migliore per skip (26,2%); Stroop il piu' visto (1.554) e con la visione piu' alta tra i Body Test (51,9%). YouTube sale da solo, senza nuovi caricamenti."
+ },
+ {
+  "date": "2026-11-02",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Zero produzione = zero raccolta: da 11.725 views/giorno a 13. Tutti i reel fermi al tetto di ~1.150 reach, share 0,0%, follower 6."
+ },
+ {
+  "date": "2026-11-02",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Rifornire la coda subito: 5 giorni senza reel (circa 20.000 views perse rispetto al ritmo del 28/10). Servono video nuovi in queue.json per domani 02:00."
+ },
+ {
+  "date": "2026-11-02",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40+ reel finiscono tutti a ~1.150 reach."
+ },
+ {
+  "date": "2026-11-02",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart): YouTube e' l'unico canale che cresce."
+ },
+ {
+  "date": "2026-11-03",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Fine giornata (23:05). Settimo giorno senza reel: coda vuota dal 29/10 22:00. Oggi 5 views, reach 4, 0 condivisioni, 0 visite al profilo (28/10: 11.725 / 9.264). Follower 6 (fermi da 9 giorni). Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h. YouTube 25.545 views, 14 iscritti, 0 commenti nuovi."
+ },
+ {
+  "date": "2026-11-03",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Nose resta il migliore per skip (26,2%); Stroop il piu' visto (1.554). YouTube e' l'unico canale ancora vivo, ma cresce di pochissimo senza nuovi caricamenti."
+ },
+ {
+  "date": "2026-11-03",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Zero produzione = zero raccolta: da 11.725 views/giorno a 5. Tutti i reel fermi a ~1.150 reach, share 0,0%, follower 6 su ~60k reach totale."
+ },
+ {
+  "date": "2026-11-03",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Rifornire la coda: 7 giorni senza reel. Servono video nuovi in queue.json per domani (02:00 e 06:00 gia' vicini)."
+ },
+ {
+  "date": "2026-11-03",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40+ reel finiscono tutti a ~1.150 reach, il formato e' l'unica leva rimasta."
+ },
+ {
+  "date": "2026-11-03",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart)."
+ },
+ {
+  "date": "2026-11-04",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Fine giornata (23:05). Nono giorno senza reel: coda vuota dal 29/10 22:00. Oggi 19 views, reach 6, 0 condivisioni, 0 visite al profilo. Follower 6 (fermi da 10 giorni). Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h. YouTube 25.566 views, 14 iscritti. Nessun commento nuovo."
+ },
+ {
+  "date": "2026-11-04",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Nose resta il migliore per skip (26,2%); Stroop il piu' visto (1.554). Nessun dato nuovo: tutti i reel sono fermi al loro tetto."
+ },
+ {
+  "date": "2026-11-04",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Zero produzione = zero raccolta: da 11.725 views/giorno a 19. Follower 6 su ~60k reach totale. 10 Short YouTube ancora privati."
+ },
+ {
+  "date": "2026-11-04",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Rifornire la coda: 9 giorni senza reel. Servono video nuovi in queue.json (slot di oggi persi)."
+ },
+ {
+  "date": "2026-11-04",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40+ reel finiscono tutti a ~1.150 reach."
+ },
+ {
+  "date": "2026-11-04",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart)."
+ },
+ {
+  "date": "2026-11-05",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Fine giornata (23:05). Undicesimo giorno senza reel: coda vuota dal 29/10 22:00. Oggi 20 views, reach 6, 0 condivisioni, 0 visite al profilo. Follower 6 (fermi da 11 giorni). Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h. YouTube 25.569 views, 14 iscritti, 10 Short ancora privati. Nessun commento. Nessuna regola ha cambiato stato."
+ },
+ {
+  "date": "2026-11-05",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Nessun dato nuovo: Nose resta il migliore per skip (26,2%), Stroop il piu' visto (1.554). Tutti i reel sono fermi al loro tetto."
+ },
+ {
+  "date": "2026-11-05",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Zero produzione = zero raccolta: da 11.725 views/giorno a 20. Follower 6 su ~60k reach totale. 10 Short YouTube ancora privati."
+ },
+ {
+  "date": "2026-11-05",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Rifornire la coda: 11 giorni senza reel. Servono video nuovi in queue.json (tutti gli slot di oggi persi)."
+ },
+ {
+  "date": "2026-11-05",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40+ reel finiscono tutti a ~1.150 reach."
+ },
+ {
+  "date": "2026-11-05",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart)."
+ },
+ {
+  "date": "2026-11-06",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Meta' giornata (13:05). Dodicesimo giorno senza reel: coda vuota dal 29/10 22:00. Oggi 3 views, reach 1, 0 condivisioni, 0 visite al profilo. Follower 6 (fermi da 12 giorni). Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h. YouTube 25.571 views, 14 iscritti, 10 Short ancora privati. Nessun commento. Nessuna regola ha cambiato stato."
+ },
+ {
+  "date": "2026-11-06",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Nessun dato nuovo: Nose resta il migliore per skip (26,2%), Stroop il piu' visto (1.554). Tutti i reel sono fermi al loro tetto."
+ },
+ {
+  "date": "2026-11-06",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Zero produzione = zero raccolta: da 11.725 views/giorno a 3 oggi. Follower 6 su ~60k reach totale. 10 Short YouTube ancora privati."
+ },
+ {
+  "date": "2026-11-06",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Rifornire la coda: 12 giorni senza reel. Servono video nuovi in queue.json (tutti gli slot di oggi persi)."
+ },
+ {
+  "date": "2026-11-06",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40+ reel finiscono tutti a ~1.150 reach."
+ },
+ {
+  "date": "2026-11-06",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart)."
+ },
+ {
+  "date": "2026-11-06",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Fine giornata (23:05). Tredicesimo giorno senza reel: coda vuota dal 29/10 22:00. Oggi 4 views, reach 3, 0 condivisioni, 0 visite al profilo. Follower 6 (fermi da 13 giorni). Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h. YouTube 25.572 views, 14 iscritti, 10 Short ancora privati. Nessun commento. Nessuna regola ha cambiato stato."
+ },
+ {
+  "date": "2026-11-06",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Nessun dato nuovo: Nose resta il migliore per skip (26,2%), Stroop il piu' visto (1.554). Tutti i reel sono fermi al loro tetto."
+ },
+ {
+  "date": "2026-11-06",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Zero produzione = zero raccolta: da 11.725 views/giorno a 4 oggi. Follower 6 su ~60k reach totale. 10 Short YouTube ancora privati."
+ },
+ {
+  "date": "2026-11-06",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Rifornire la coda: 13 giorni senza reel. Servono video nuovi in queue.json."
+ },
+ {
+  "date": "2026-11-06",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40+ reel finiscono tutti a ~1.150 reach."
+ },
+ {
+  "date": "2026-11-06",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart)."
+ },
+ {
+  "date": "2026-11-07",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Meta' giornata (13:05). Quattordicesimo giorno senza reel: coda vuota dal 29/10 22:00. Oggi 1 view, reach 2, 0 condivisioni, 0 visite al profilo. Follower 6 (fermi da 14 giorni). Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h. YouTube 25.576 views, 14 iscritti, 10 Short ancora privati. Nessun commento. Nessuna regola ha cambiato stato."
+ },
+ {
+  "date": "2026-11-07",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Nessun dato nuovo: Nose resta il migliore per skip (26,2%), Stroop il piu' visto (1.554). Tutti i reel sono fermi al loro tetto."
+ },
+ {
+  "date": "2026-11-07",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Zero produzione = zero raccolta: da 11.725 views/giorno a 1 oggi. Follower 6 su ~60k reach totale. 10 Short YouTube ancora privati."
+ },
+ {
+  "date": "2026-11-07",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Rifornire la coda: 14 giorni senza reel. Servono video nuovi in queue.json."
+ },
+ {
+  "date": "2026-11-07",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40+ reel finiscono tutti a ~1.150 reach."
+ },
+ {
+  "date": "2026-11-07",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart)."
+ },
+ {
+  "date": "2026-11-07",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Fine giornata (23:05). Quindicesimo giorno senza reel: coda vuota dal 29/10 22:00. Oggi 3 views, reach 3, 0 condivisioni, 0 visite al profilo. Follower 6 (fermi da 14 giorni). Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h. YouTube 25.578 views, 14 iscritti, 10 Short ancora privati. Nessun commento. Nessuna regola ha cambiato stato."
+ },
+ {
+  "date": "2026-11-07",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Nessun dato nuovo: Nose resta il migliore per skip (26,2%), Stroop il piu' visto (1.554). Tutti i reel sono fermi al loro tetto."
+ },
+ {
+  "date": "2026-11-07",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Zero produzione = zero raccolta: da 11.725 views/giorno a 3 oggi. Follower 6 su ~60k reach totale. 10 Short YouTube ancora privati."
+ },
+ {
+  "date": "2026-11-07",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Rifornire la coda: 15 giorni senza reel. Servono video nuovi in queue.json."
+ },
+ {
+  "date": "2026-11-07",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40+ reel finiscono tutti a ~1.150 reach."
+ },
+ {
+  "date": "2026-11-07",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart)."
+ },
+ {
+  "date": "2026-11-08",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Fine giornata (23:05). Sedicesimo giorno senza reel: coda vuota dal 29/10 22:00. Oggi 6 views, reach 4, 0 condivisioni, 0 visite al profilo. Follower 6 (fermi da 15 giorni). Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h. YouTube 25.579 views, 14 iscritti, 10 Short ancora privati. Nessun commento. Nessuna regola ha cambiato stato."
+ },
+ {
+  "date": "2026-11-08",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Nessun dato nuovo: Nose resta il migliore per skip (26,2%), Stroop il piu' visto (1.554). Tutti i reel sono fermi al loro tetto."
+ },
+ {
+  "date": "2026-11-08",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Zero produzione = zero raccolta: da 11.725 views/giorno a 6 oggi. Follower 6 su ~60k reach totale. 10 Short YouTube ancora privati."
+ },
+ {
+  "date": "2026-11-08",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Rifornire la coda: 16 giorni senza reel. Servono video nuovi in queue.json."
+ },
+ {
+  "date": "2026-11-08",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40+ reel finiscono tutti a ~1.150 reach."
+ },
+ {
+  "date": "2026-11-08",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart)."
+ },
+ {
+  "date": "2026-11-09",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Fine giornata (23:05). Diciassettesimo giorno senza reel: coda vuota dal 29/10 22:00. Oggi 11 views, reach 7, 0 condivisioni, 0 visite al profilo. Follower 6 (fermi da 16 giorni). Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h. YouTube 25.582 views, 14 iscritti, 10 Short ancora privati. Nessun commento. Nessuna regola ha cambiato stato."
+ },
+ {
+  "date": "2026-11-09",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Nessun dato nuovo: Nose resta il migliore per skip (26,2%), Stroop il piu' visto (1.554). Tutti i reel sono fermi al loro tetto."
+ },
+ {
+  "date": "2026-11-09",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Zero produzione = zero raccolta: da 11.725 views/giorno a 11 oggi. Follower 6 su ~60k reach totale. 10 Short YouTube ancora privati."
+ },
+ {
+  "date": "2026-11-09",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Rifornire la coda: 17 giorni senza reel. Servono video nuovi in queue.json."
+ },
+ {
+  "date": "2026-11-09",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40+ reel finiscono tutti a ~1.150 reach."
+ },
+ {
+  "date": "2026-11-09",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart)."
+ },
+ {
+  "date": "2026-11-10",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Fine giornata (23:05). Diciottesimo giorno senza reel: coda vuota dal 29/10 22:00. Oggi 5 views, reach 3, 0 condivisioni, 0 visite al profilo. Follower 6 (fermi da 17 giorni). Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h. YouTube 25.583 views, 14 iscritti, 10 Short ancora privati. Nessun commento nuovo. Nessuna regola ha cambiato stato."
+ },
+ {
+  "date": "2026-11-10",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Nessun dato nuovo: Nose resta il migliore per skip (26,3%), Stroop il piu' visto (1.554). Tutti i reel sono fermi al loro tetto."
+ },
+ {
+  "date": "2026-11-10",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Zero produzione = zero raccolta: da 11.725 views/giorno a 5 oggi. Follower 6 su ~60k reach totale. 10 Short YouTube ancora privati."
+ },
+ {
+  "date": "2026-11-10",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Rifornire la coda: 18 giorni senza reel. Servono video nuovi in queue.json."
+ },
+ {
+  "date": "2026-11-10",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40+ reel finiscono tutti a ~1.150 reach."
+ },
+ {
+  "date": "2026-11-10",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart)."
+ },
+ {
+  "date": "2026-11-11",
+  "order": 1,
+  "kind": "Sintesi",
+  "text": "Meta' giornata (13:05). Diciannovesimo giorno senza reel: coda vuota dal 29/10 22:00. Oggi finora 2 views, reach 2, 0 condivisioni, 0 visite al profilo. Follower 6 (fermi da 18 giorni). Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h. YouTube 25.587 views (+4), 14 iscritti, 10 Short ancora privati. Nessun commento nuovo. Nessuna regola ha cambiato stato."
+ },
+ {
+  "date": "2026-11-11",
+  "order": 2,
+  "kind": "Funziona",
+  "text": "Nessun dato nuovo: Nose resta il migliore per skip (26,3%), Stroop il piu' visto (1.554). Tutti i reel sono fermi al loro tetto."
+ },
+ {
+  "date": "2026-11-11",
+  "order": 3,
+  "kind": "Non funziona",
+  "text": "Zero produzione = zero raccolta: da 11.725 views/giorno a 2 oggi. Follower 6 su ~60k reach totale. 10 Short YouTube ancora privati."
+ },
+ {
+  "date": "2026-11-11",
+  "order": 4,
+  "kind": "Da cambiare",
+  "text": "1. Rifornire la coda: 19 giorni senza reel. Servono video nuovi in queue.json."
+ },
+ {
+  "date": "2026-11-11",
+  "order": 5,
+  "kind": "Da cambiare",
+  "text": "2. Aprire E5 fuori dal pixel art (persona reale o voce sopra filmato): 40+ reel finiscono tutti a ~1.150 reach."
+ },
+ {
+  "date": "2026-11-11",
+  "order": 6,
+  "kind": "Da cambiare",
+  "text": "3. Rendere pubblici i 10 Short YouTube ancora privati (Body Test 1-5, Milgram, Bridge, Liar, Smoke, Broken Heart)."
+ }
 ]
