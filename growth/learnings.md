@@ -1,5 +1,10 @@
 # Learnings (newest first)
 
+## 2026-11-17 23:05 (end-of-day review)
+- ALERT: nineteenth day with no reel (queue empty since 29/10 22:00). Day: 14 views, reach 11, 0 shares, 0 profile visits, followers 6 (flat).
+- Baseline (last 10, 3 h+): skip 36.3%, watch 43.8% (12.6 s), median 1,354 views. No reel < 72 h; all at their ceiling.
+- YouTube 25,607 views, 14 subscribers, 10 Shorts still private. No comments. No rule changed status, no experiment open (E5 still only proposed).
+
 ## 2026-11-17 13:05 (mid-day review)
 - ALERT: nineteenth day with no reel (queue empty since 29/10 22:00). Views today 12, reach 9, 0 profile visits. Followers 6, flat.
 - Baseline (last 10, 3 h+): skip 36.3%, watch 43.8% (12.6 s), median 1,354 views. No reel < 72 h; all at their ceiling.
