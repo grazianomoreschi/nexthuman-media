@@ -1335,7 +1335,7 @@
     "date": "2026-11-20",
     "order": 1,
     "kind": "Sintesi",
-    "text": "Meta' giornata (13:05). Ventiduesimo giorno senza reel: coda vuota dal 29/10 22:00. Oggi finora 6 views, reach 5, 0 visite al profilo, 0 condivisioni. Follower 6, fermi. Instagram totale 38.878 views (+3 da ieri sera). Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h. YouTube 25.613 views (+2), 14 iscritti, 10 Short ancora privati. Nessun commento nuovo. Nessuna regola ha cambiato stato."
+    "text": "Fine giornata (23:05). Ventiduesimo giorno senza reel: coda vuota dal 29/10 22:00. Oggi 6 views, reach 5, 0 visite al profilo, 0 condivisioni (ieri 14 views). Follower 6, fermi. Instagram totale 38.878 views (invariato da meta' giornata). Baseline ultimi 10 reel: skip 36,3%, visione 43,8% (12,6 s), mediana 1.354 views. Nessun reel < 72 h. YouTube 25.613 views (invariato), 14 iscritti, 10 Short ancora privati. Nessun commento nuovo. Nessuna regola ha cambiato stato."
   },
   {
     "date": "2026-11-20",
@@ -1353,7 +1353,7 @@
     "date": "2026-11-20",
     "order": 4,
     "kind": "Da cambiare",
-    "text": "1. Rifornire la coda: 22 giorni senza reel. Servono video nuovi in queue.json."
+    "text": "1. Rifornire la coda: 22 giorni senza reel. Servono video nuovi in queue.json (anche 1 al giorno basta per ripartire)."
   },
   {
     "date": "2026-11-20",
